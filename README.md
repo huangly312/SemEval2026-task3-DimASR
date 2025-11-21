@@ -1,2 +1,2 @@
 # DimABSA Project
-测试
+SemEval2026-task3-DimABSA(Track A)代码仓库
