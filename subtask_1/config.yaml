@@ -1,0 +1,10 @@
+task: task1
+subtask: subtask_1
+lang: tat
+domain: restaurant
+# model_path: /Users/jiawei/.cache/huggingface/hub/models--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8
+model_path: C:/Users/lenovo/.cache/huggingface/hub/models--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8
+model_name: bert-base-multilingual-cased
+use_local_only: True
+lr: 1e-5
+epochs: 5
