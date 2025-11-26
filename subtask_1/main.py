@@ -26,7 +26,7 @@ use_local_only = config.get("use_local_only", False)
 lr = float(config["lr"])
 epochs = int(config["epochs"])
 
-if (lang=="zho" and domain=="finance") or (lang=="jpn" and domain=="finance") or (lang=="rus" and domain=="restaurant") or (lang=="tat" and domain=="restaurant") or ((lang=="ukr" and domain=="restaurant")):
+if (lang=="zho" and domain=="finance") or (lang=="jpn" and domain=="finance"):
     train_path=f"data/raw_track_a/{subtask}/{lang}/{lang}_{domain}_train_{task}.jsonl"
 else:
     train_path=f"data/raw_track_a/{subtask}/{lang}/{lang}_{domain}_train_alltasks.jsonl"
