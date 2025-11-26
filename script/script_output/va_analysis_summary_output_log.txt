@@ -1,0 +1,59 @@
+============================================================
+VA分布分析脚本
+============================================================
+
+[步骤1] 读取数据文件...
+找到 8 个train_alltasks.jsonl文件:
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/eng/eng_restaurant_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/eng/eng_laptop_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/ukr/ukr_restaurant_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/jpn/jpn_hotel_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/rus/rus_restaurant_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/tat/tat_restaurant_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/zho/zho_laptop_train_alltasks.jsonl
+  - /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/data/raw_track_a/subtask_1/zho/zho_restaurant_train_alltasks.jsonl
+
+总共读取了 21220 条数据记录
+
+[步骤2] 提取V和A值...
+提取到 34764 个V值和 34764 个A值
+
+[步骤3] 分析数据合法性...
+
+V值统计:
+  总数量: 34764
+  合法数量: 34764 (100.00%)
+  非法数量: 0
+
+A值统计:
+  总数量: 34764
+  合法数量: 34761 (99.99%)
+  非法数量: 3
+  非法值示例: [16.5, 16.5, 16.5]
+
+[步骤4] 计算统计信息...
+
+V值统计信息（仅合法值）:
+  最小值: 1.0000
+  最大值: 9.0000
+  平均值: 6.0654
+  中位数: 6.5000
+  标准差: 1.5075
+
+A值统计信息（仅合法值）:
+  最小值: 3.0000
+  最大值: 9.0000
+  平均值: 6.2867
+  中位数: 6.2500
+  标准差: 1.0107
+
+[步骤5] 绘制分布图...
+
+V值分布图已保存到: /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/script/script_output/V_distribution.png
+
+A值分布图已保存到: /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/script/script_output/A_distribution.png
+
+[步骤6] 保存统计结果...
+统计摘要(JSON)已保存到: /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/script/script_output/va_analysis_summary.json
+分析完成！所有输出文件已保存到: /Users/hly/workspace/SemEval2026/SemEval2026-task3-DimABSA/script/script_output
+============================================================
