@@ -15,7 +15,7 @@ from typing import List, Tuple, Dict
 
 def read_jsonl_files(base_path: str) -> List[Dict]:
     """
-    读取指定路径下所有语言的train_alltasks.jsonl文件
+    读取指定路径下所有语言的train数据文件
     
     Args:
         base_path: subtask_1的基础路径
@@ -25,12 +25,15 @@ def read_jsonl_files(base_path: str) -> List[Dict]:
     """
     all_data = []
     
-    # 查找所有train_alltasks.jsonl文件
-    pattern = os.path.join(base_path, "**", "*train_alltasks.jsonl")
-    files = glob.glob(pattern, recursive=True)
+    # 查找所有包含train的jsonl文件（包括train_alltasks和train_task1等）
+    pattern = os.path.join(base_path, "**", "*train*.jsonl")
+    all_files = glob.glob(pattern, recursive=True)
     
-    print(f"找到 {len(files)} 个train_alltasks.jsonl文件:")
-    for file in files:
+    # 过滤出训练数据文件（排除dev等其他文件）
+    files = [f for f in all_files if '_train_' in os.path.basename(f)]
+    
+    print(f"找到 {len(files)} 个训练数据文件:")
+    for file in sorted(files):
         print(f"  - {file}")
     
     # 读取每个文件
@@ -49,6 +52,9 @@ def read_jsonl_files(base_path: str) -> List[Dict]:
 def extract_va_values(data_list: List[Dict]) -> Tuple[List[float], List[float]]:
     """
     从数据中提取所有的V和A值
+    支持两种数据格式：
+    1. Quadruplet 格式（train_alltasks.jsonl）
+    2. Aspect_VA 格式（train_task1.jsonl）
     
     Args:
         data_list: 数据记录列表
@@ -60,10 +66,27 @@ def extract_va_values(data_list: List[Dict]) -> Tuple[List[float], List[float]]:
     a_values = []
     
     for record in data_list:
+        # 处理 Quadruplet 格式
         if 'Quadruplet' in record:
             for quad in record['Quadruplet']:
                 if 'VA' in quad:
                     va_str = quad['VA']
+                    try:
+                        # 拆分VA字段，格式为"V#A"
+                        parts = va_str.split('#')
+                        if len(parts) == 2:
+                            v = float(parts[0])
+                            a = float(parts[1])
+                            v_values.append(v)
+                            a_values.append(a)
+                    except (ValueError, IndexError) as e:
+                        print(f"警告: 无法解析VA值 '{va_str}': {e}")
+        
+        # 处理 Aspect_VA 格式
+        elif 'Aspect_VA' in record:
+            for aspect_va in record['Aspect_VA']:
+                if 'VA' in aspect_va:
+                    va_str = aspect_va['VA']
                     try:
                         # 拆分VA字段，格式为"V#A"
                         parts = va_str.split('#')

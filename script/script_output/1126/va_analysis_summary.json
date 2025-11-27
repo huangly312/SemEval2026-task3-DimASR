@@ -1,0 +1,32 @@
+{
+  "V": {
+    "validity": {
+      "total": 34764,
+      "valid": 34764,
+      "invalid": 0,
+      "valid_ratio": 100.0
+    },
+    "statistics": {
+      "min": 1.0,
+      "max": 9.0,
+      "mean": 6.065435220342883,
+      "median": 6.5,
+      "std": 1.5075215356309508
+    }
+  },
+  "A": {
+    "validity": {
+      "total": 34764,
+      "valid": 34761,
+      "invalid": 3,
+      "valid_ratio": 99.99137038315499
+    },
+    "statistics": {
+      "min": 3.0,
+      "max": 9.0,
+      "mean": 6.286689680964299,
+      "median": 6.25,
+      "std": 1.0107331136022768
+    }
+  }
+}
