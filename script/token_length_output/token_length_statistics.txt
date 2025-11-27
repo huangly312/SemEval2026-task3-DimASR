@@ -1,0 +1,280 @@
+================================================================================
+TOKEN LENGTH STATISTICS SUMMARY
+================================================================================
+
+
+ENG - Laptop
+--------------------------------------------------------------------------------
+  Train:
+    Count: 5773
+    Mean: 24.91
+    Median: 22.00
+    Std: 12.44
+    Min: 6
+    Max: 122
+    25th percentile: 16.00
+    75th percentile: 30.00
+    95th percentile: 49.00
+
+  Dev:
+    Count: 275
+    Mean: 20.59
+    Median: 17.00
+    Std: 10.87
+    Min: 7
+    Max: 59
+    25th percentile: 12.00
+    75th percentile: 26.00
+    95th percentile: 41.00
+
+
+ENG - Restaurant
+--------------------------------------------------------------------------------
+  Train:
+    Count: 3659
+    Mean: 26.35
+    Median: 23.00
+    Std: 15.07
+    Min: 6
+    Max: 118
+    25th percentile: 17.00
+    75th percentile: 32.00
+    95th percentile: 52.00
+
+  Dev:
+    Count: 340
+    Mean: 20.26
+    Median: 19.00
+    Std: 9.23
+    Min: 7
+    Max: 50
+    25th percentile: 13.00
+    75th percentile: 25.00
+    95th percentile: 37.00
+
+
+JPN - Finance
+--------------------------------------------------------------------------------
+  Train:
+    Count: 1672
+    Mean: 77.03
+    Median: 71.00
+    Std: 32.45
+    Min: 15
+    Max: 283
+    25th percentile: 54.00
+    75th percentile: 93.00
+    95th percentile: 142.45
+
+  Dev:
+    Count: 319
+    Mean: 79.02
+    Median: 76.00
+    Std: 29.74
+    Min: 23
+    Max: 169
+    25th percentile: 58.00
+    75th percentile: 97.00
+    95th percentile: 138.10
+
+
+JPN - Hotel
+--------------------------------------------------------------------------------
+  Train:
+    Count: 2846
+    Mean: 34.53
+    Median: 33.00
+    Std: 14.72
+    Min: 7
+    Max: 117
+    25th percentile: 24.00
+    75th percentile: 42.00
+    95th percentile: 61.00
+
+  Dev:
+    Count: 284
+    Mean: 33.49
+    Median: 32.00
+    Std: 13.30
+    Min: 10
+    Max: 83
+    25th percentile: 24.00
+    75th percentile: 39.00
+    95th percentile: 61.85
+
+
+RUS - Restaurant
+--------------------------------------------------------------------------------
+  Train:
+    Count: 2487
+    Mean: 45.11
+    Median: 39.00
+    Std: 25.39
+    Min: 9
+    Max: 179
+    25th percentile: 27.00
+    75th percentile: 55.00
+    95th percentile: 95.70
+
+  Dev:
+    Count: 81
+    Mean: 44.70
+    Median: 42.00
+    Std: 21.40
+    Min: 11
+    Max: 91
+    25th percentile: 30.00
+    75th percentile: 52.00
+    95th percentile: 89.00
+
+
+TAT - Restaurant
+--------------------------------------------------------------------------------
+  Train:
+    Count: 2487
+    Mean: 55.65
+    Median: 47.00
+    Std: 32.05
+    Min: 11
+    Max: 209
+    25th percentile: 33.00
+    75th percentile: 69.00
+    95th percentile: 113.00
+
+  Dev:
+    Count: 81
+    Mean: 54.37
+    Median: 49.00
+    Std: 28.03
+    Min: 11
+    Max: 121
+    25th percentile: 33.00
+    75th percentile: 61.00
+    95th percentile: 108.00
+
+
+UKR - Restaurant
+--------------------------------------------------------------------------------
+  Train:
+    Count: 2487
+    Mean: 46.97
+    Median: 40.00
+    Std: 26.55
+    Min: 9
+    Max: 182
+    25th percentile: 29.00
+    75th percentile: 57.50
+    95th percentile: 101.00
+
+  Dev:
+    Count: 81
+    Mean: 45.96
+    Median: 43.00
+    Std: 22.38
+    Min: 11
+    Max: 92
+    25th percentile: 30.00
+    75th percentile: 55.00
+    95th percentile: 91.00
+
+
+ZHO - Finance
+--------------------------------------------------------------------------------
+  Train:
+    Count: 2633
+    Mean: 78.74
+    Median: 72.00
+    Std: 39.98
+    Min: 10
+    Max: 322
+    25th percentile: 51.00
+    75th percentile: 97.00
+    95th percentile: 155.00
+
+  Dev:
+    Count: 563
+    Mean: 82.49
+    Median: 83.00
+    Std: 36.66
+    Min: 15
+    Max: 232
+    25th percentile: 57.50
+    75th percentile: 101.50
+    95th percentile: 141.80
+
+
+ZHO - Laptop
+--------------------------------------------------------------------------------
+  Train:
+    Count: 6502
+    Mean: 56.88
+    Median: 43.00
+    Std: 50.53
+    Min: 9
+    Max: 674
+    25th percentile: 28.00
+    75th percentile: 68.00
+    95th percentile: 142.00
+
+  Dev:
+    Count: 431
+    Mean: 53.82
+    Median: 41.00
+    Std: 36.18
+    Min: 15
+    Max: 219
+    25th percentile: 29.00
+    75th percentile: 65.00
+    95th percentile: 131.00
+
+
+ZHO - Restaurant
+--------------------------------------------------------------------------------
+  Train:
+    Count: 8523
+    Mean: 21.94
+    Median: 21.00
+    Std: 7.72
+    Min: 7
+    Max: 62
+    25th percentile: 16.00
+    75th percentile: 27.00
+    95th percentile: 36.00
+
+  Dev:
+    Count: 416
+    Mean: 47.22
+    Median: 42.00
+    Std: 22.04
+    Min: 15
+    Max: 107
+    25th percentile: 30.00
+    75th percentile: 61.00
+    95th percentile: 93.00
+
+
+================================================================================
+OVERALL STATISTICS (All Datasets Combined)
+================================================================================
+  Train:
+    Count: 39069
+    Mean: 40.92
+    Median: 30.00
+    Std: 33.96
+    Min: 6
+    Max: 674
+    25th percentile: 20.00
+    75th percentile: 49.00
+    95th percentile: 105.00
+
+  Dev:
+    Count: 2871
+    Mean: 51.65
+    Median: 41.00
+    Std: 35.13
+    Min: 7
+    Max: 232
+    25th percentile: 25.00
+    75th percentile: 71.00
+    95th percentile: 121.00
+
