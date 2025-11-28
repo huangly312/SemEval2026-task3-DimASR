@@ -80,6 +80,9 @@ def compute_token_lengths(texts: List[str], tokenizer) -> List[int]:
     for text in texts:
         tokens = tokenizer(text, truncation=False, add_special_tokens=True)
         lengths.append(len(tokens['input_ids']))
+        if len(lengths)==1:
+            print(text,tokens,lengths)
+
     return lengths
 
 
@@ -342,44 +345,44 @@ def main():
         train_lengths = compute_token_lengths(train_texts, tokenizer)
         dev_lengths = compute_token_lengths(dev_texts, tokenizer)
         
-        # Compute statistics
-        train_stats = compute_statistics(train_lengths)
-        dev_stats = compute_statistics(dev_lengths)
+    #     # Compute statistics
+    #     train_stats = compute_statistics(train_lengths)
+    #     dev_stats = compute_statistics(dev_lengths)
         
-        print(f"  Train: mean={train_stats['mean']:.1f}, median={train_stats['median']:.1f}, max={train_stats['max']}")
-        print(f"  Dev: mean={dev_stats['mean']:.1f}, median={dev_stats['median']:.1f}, max={dev_stats['max']}")
+    #     print(f"  Train: mean={train_stats['mean']:.1f}, median={train_stats['median']:.1f}, max={train_stats['max']}")
+    #     print(f"  Dev: mean={dev_stats['mean']:.1f}, median={dev_stats['median']:.1f}, max={dev_stats['max']}")
         
-        # Store statistics
-        stats_dict[f"{lang}_{domain}"] = {
-            'train': train_stats,
-            'dev': dev_stats
-        }
+    #     # Store statistics
+    #     stats_dict[f"{lang}_{domain}"] = {
+    #         'train': train_stats,
+    #         'dev': dev_stats
+    #     }
         
-        # Plot distribution
-        plot_distribution(train_lengths, dev_lengths, lang, domain, output_dir)
+    #     # Plot distribution
+    #     plot_distribution(train_lengths, dev_lengths, lang, domain, output_dir)
         
-        # Add to overall statistics
-        all_train_lengths.extend(train_lengths)
-        all_dev_lengths.extend(dev_lengths)
+    #     # Add to overall statistics
+    #     all_train_lengths.extend(train_lengths)
+    #     all_dev_lengths.extend(dev_lengths)
         
-        print()
+    #     print()
     
-    # Plot overall distribution
-    print("Creating overall distribution plot...")
-    plot_overall_distribution(all_train_lengths, all_dev_lengths, output_dir)
+    # # Plot overall distribution
+    # print("Creating overall distribution plot...")
+    # plot_overall_distribution(all_train_lengths, all_dev_lengths, output_dir)
     
-    # Add overall statistics
-    stats_dict['overall'] = {
-        'train': compute_statistics(all_train_lengths),
-        'dev': compute_statistics(all_dev_lengths)
-    }
+    # # Add overall statistics
+    # stats_dict['overall'] = {
+    #     'train': compute_statistics(all_train_lengths),
+    #     'dev': compute_statistics(all_dev_lengths)
+    # }
     
-    # Save statistics summary
-    print("\nSaving statistics summary...")
-    save_statistics_summary(stats_dict, output_dir)
+    # # Save statistics summary
+    # print("\nSaving statistics summary...")
+    # save_statistics_summary(stats_dict, output_dir)
     
-    print(f"\nAll done! Results saved to: {output_dir}")
-    print(f"Total plots generated: {len(lang_domains) + 1}")
+    # print(f"\nAll done! Results saved to: {output_dir}")
+    # print(f"Total plots generated: {len(lang_domains) + 1}")
 
 
 if __name__ == "__main__":
