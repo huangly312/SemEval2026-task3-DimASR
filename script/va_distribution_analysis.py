@@ -213,22 +213,85 @@ def plot_distribution(values: List[float], value_name: str, output_dir: str):
     plt.close()
 
 
+def plot_va_combined(v_values: List[float], a_values: List[float], output_dir: str):
+    """
+    在同一张图中绘制V和A的分布，使用上下两个子图
+    
+    Args:
+        v_values: V值列表
+        a_values: A值列表
+        output_dir: 输出目录
+    """
+    if not v_values and not a_values:
+        print("警告: 无法绘制VA组合分布图，因为没有合法数据")
+        return
+    
+    # 创建上下两个子图
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 10))
+    
+    # 定义横坐标范围（1-9）
+    bins = np.arange(1, 10.5, 0.25)  # 从1到9.5，步长为0.25
+    
+    # 绘制V值分布（上子图）
+    if v_values:
+        ax1.hist(v_values, bins=bins, alpha=0.7, color='steelblue', edgecolor='steelblue', linewidth=0.8, label='Valence')
+        # ax1.hist(v_values, bins=bins, alpha=0.7, color='steelblue', edgecolor='none', label='Valence')
+        # ax1.set_title('V值分布直方图（合法值）', fontsize=14, fontweight='bold', fontproperties='SimHei')
+        ax1.set_title('Valence and Arousal Data Distribution', fontsize=16, fontweight='bold')
+        ax1.set_ylabel('Number of samples', fontsize=14)
+        ax1.set_xlim(1, 9)
+        ax1.set_ylim(0, 5000)
+        ax1.legend(fontsize=14)
+        ax1.grid(True, alpha=0.3)
+    
+    # 绘制A值分布（下子图）
+    if a_values:
+        ax2.hist(a_values, bins=bins, alpha=0.7, color='coral', edgecolor='coral', label='Arousal')
+        # ax2.set_title('A值分布直方图（合法值）', fontsize=14, fontweight='bold', fontproperties='SimHei')
+        ax2.set_xlabel('Scores', fontsize=14)
+        ax2.set_ylabel('Number of samples', fontsize=14)
+        ax2.set_xlim(1, 9)
+        ax2.set_ylim(0, 5000)
+        ax2.legend(fontsize=14)
+        ax2.grid(True, alpha=0.3)
+    
+    # 调整子图间距
+    plt.tight_layout()
+    
+    # 保存图片
+    output_path = os.path.join(output_dir, 'VA_combined_distribution.png')
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    print(f"\nVA组合分布图已保存到: {output_path}")
+    
+    plt.close()
+
+
 def main():
     """
     主函数
     """
-    # 设置中文字体（根据系统调整）
-    try:
-        plt.rcParams['font.sans-serif'] = ['SimHei', 'Arial Unicode MS', 'DejaVu Sans']
-        plt.rcParams['axes.unicode_minus'] = False
-    except:
-        print("警告: 无法设置中文字体，图表中的中文可能无法正常显示")
+    # 设置学术论文常用字体
+    # 选项1: Times New Roman (传统学术论文常用，衬线字体)
+    # plt.rcParams['font.family'] = 'serif'
+    # plt.rcParams['font.serif'] = ['Times New Roman', 'Times', 'DejaVu Serif']
+    # plt.rcParams['font.sans-serif'] = ['Arial', 'DejaVu Sans']
+    
+    # 选项2: Computer Modern (LaTeX默认字体，学术风格)
+    plt.rcParams['font.family'] = 'serif'
+    plt.rcParams['font.serif'] = ['Computer Modern Roman', 'CMU Serif', 'DejaVu Serif']
+    
+    # 选项3: Arial/Helvetica (无衬线字体，现代风格)
+    # plt.rcParams['font.family'] = 'sans-serif'
+    # plt.rcParams['font.sans-serif'] = ['Arial', 'Helvetica', 'DejaVu Sans']
+    
+    plt.rcParams['axes.unicode_minus'] = False  # 正确显示负号
+    plt.rcParams['mathtext.fontset'] = 'stix'  # 数学公式字体（可选）
     
     # 设置路径
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_path = os.path.join(base_dir, "data", "raw_track_a", "subtask_1")
     # 输出到script/script_output文件夹
-    output_dir = os.path.join(base_dir, "script", "script_output")
+    output_dir = os.path.join(base_dir, "script", "va_distribution_output")
     
     # 创建输出目录
     os.makedirs(output_dir, exist_ok=True)
@@ -257,9 +320,14 @@ def main():
     a_statistics = compute_statistics(valid_a, 'A')
     
     # 5. 绘制分布图
-    print("\n[步骤5] 绘制分布图...")
-    plot_distribution(valid_v, 'V', output_dir)
-    plot_distribution(valid_a, 'A', output_dir)
+    # print("\n[步骤5] 绘制分布图...")
+    # plot_distribution(valid_v, 'V', output_dir)
+    # plot_distribution(valid_a, 'A', output_dir)
+    
+    # 5.1 绘制VA组合分布图（上下两个子图）
+    print("\n[步骤5.1] 绘制VA组合分布图...")
+    plot_va_combined(valid_v, valid_a, output_dir)
+    # return 
     
     # 6. 保存统计结果
     print("\n[步骤6] 保存统计结果...")
