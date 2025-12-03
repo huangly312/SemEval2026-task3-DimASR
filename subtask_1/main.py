@@ -22,6 +22,8 @@ task = config["task"]
 lang = config["lang"]
 domain = config["domain"]
 model_name = config["model_name"]
+# 如果配置了 model_path，优先使用本地路径加载模型
+model_path = config.get("model_path", model_name)  # 如果没配置 model_path，就用 model_name
 use_local_only = config.get("use_local_only", False)
 lr = float(config["lr"])
 epochs = int(config["epochs"])
@@ -52,8 +54,8 @@ if __name__ == "__main__":
     train_df, dev_df = train_test_split(train_df, test_size=0.1, random_state=42)
 
     ## tokenize data
-    print(f"Loading tokenizer: {model_name} (local_only={use_local_only})")
-    tokenizer = AutoTokenizer.from_pretrained(model_name, local_files_only=use_local_only)
+    print(f"Loading tokenizer: {model_path} (local_only={use_local_only})")
+    tokenizer = AutoTokenizer.from_pretrained(model_path, local_files_only=use_local_only)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}\n")
 
@@ -64,8 +66,8 @@ if __name__ == "__main__":
     dev_loader = DataLoader(dev_dataset, batch_size=64, shuffle=True)
 
     ## load model and optimizer
-    print(f"Loading model: {model_name} (local_only={use_local_only})")
-    model = TransformerVARegressor(model_path=model_name, use_local_only=use_local_only).to(device)
+    print(f"Loading model: {model_path} (local_only={use_local_only})")
+    model = TransformerVARegressor(model_path=model_path, use_local_only=use_local_only).to(device)
     optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
     loss_fn = nn.MSELoss()
     print(f"Model loaded successfully\n")

@@ -36,6 +36,14 @@ def jsonl_to_df(data):
     else:
         raise ValueError("Invalid format: must include 'Quadruplet' or 'Triplet' or 'Aspect'")
 
+    # Filter out rows where Aspect is "NULL"
+    original_len = len(df)
+    print(f"原始df数据条目:{original_len}")
+    df = df[df['Aspect'] != 'NULL'].reset_index(drop=True)
+    filtered_count = original_len - len(df)
+    print(f"过滤数据('Aspect'='NULL')条目:{filtered_count}")
+    print(f"过滤后df数据条目:{len(df)}")
+
     return df
 
 def df_to_jsonl(df, out_path):
