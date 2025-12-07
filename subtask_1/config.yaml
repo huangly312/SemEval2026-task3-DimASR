@@ -2,9 +2,24 @@ task: task1
 subtask: subtask_1
 lang: tat
 domain: restaurant
-# model_path: /Users/jiawei/.cache/huggingface/hub/models--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8
-model_path: C:/Users/lenovo/.cache/huggingface/hub/models--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8
+# model_path: C:/Users/lenovo/.cache/huggingface/hub/models--bert-base-multilingual-cased/snapshots/3f076fdb1ab68d5b2880cb87a0886f315b8146f8
+
+# gomall 服务器的模型路径
+# mbert
 model_name: bert-base-multilingual-cased
+model_path: /home/gomall/models/bert-base-multilingual-cased
+# roberta-base
+# model_name: roberta-base
+# model_path: /home/gomall/models/roberta-base
 use_local_only: True
 lr: 1e-5
-epochs: 5
+epochs: 10
+batch_size: 32
+
+# 运行模式: "train" (仅训练), "predict" (仅预测，逻辑待修改), "both" (训练+预测)
+mode: both
+
+# 预测时使用的模型checkpoint路径 (仅在mode为"predict"或"both"时需要)
+# 如果mode为"both"，此字段可选，训练完成后会自动使用训练得到的最优模型
+# 如果mode为"predict"，此字段必须提供
+checkpoint_path: ""

@@ -3,19 +3,20 @@
 """
 import json
 import pandas as pd
-from data_processing import jsonl_to_df, VADataset
+from Dataset import VADataset
+from utils import jsonl_to_df
 from transformers import AutoTokenizer
 
 # 样本数据
-# sample_json = {
-#     "ID": "laptop_quad_dev_12",
-#     "Text": "some apps don ' t work but the play store is still in beta right now",
-#     "Quadruplet": [
-#         {"Aspect": "apps", "Category": "SOFTWARE#GENERAL", "Opinion": "NULL", "VA": "5.00#5.00"},
-#         {"Aspect": "play store", "Category": "SOFTWARE#GENERAL", "Opinion": "NULL", "VA": "5.00#5.00"}
-#     ]
-# }
-sample_json = {"ID": "rest16_quad_dev_11", "Text": "it was horrible .", "Quadruplet": [{"Aspect": "NULL", "Opinion": "horrible", "Category": "RESTAURANT#GENERAL", "VA": "2.38#7.88"}]}
+sample_json = {
+    "ID": "laptop_quad_dev_12",
+    "Text": "some apps don ' t work but the play store is still in beta right now",
+    "Quadruplet": [
+        {"Aspect": "apps", "Category": "SOFTWARE#GENERAL", "Opinion": "NULL", "VA": "5.00#5.00"},
+        {"Aspect": "play store", "Category": "SOFTWARE#GENERAL", "Opinion": "NULL", "VA": "5.00#5.00"}
+    ]
+}
+# sample_json = {"ID": "rest16_quad_dev_11", "Text": "it was horrible .", "Quadruplet": [{"Aspect": "NULL", "Opinion": "horrible", "Category": "RESTAURANT#GENERAL", "VA": "2.38#7.88"}]}
 
 
 print("=" * 80)

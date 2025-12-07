@@ -36,8 +36,15 @@ class TransformerVARegressor(nn.Module):
         self.dropout = nn.Dropout(dropout)
         self.reg_head = nn.Linear(self.backbone.config.hidden_size, 2)  # Valence + Arousal
 
-    def forward(self, input_ids, attention_mask):
-        outputs = self.backbone(input_ids=input_ids, attention_mask=attention_mask)
+    def forward(self, input_ids, attention_mask, token_type_ids=None):
+        # token_type_ids 用于区分两个输入段
+        # BERT/mBERT/DeBERTa 会使用 token_type_ids 来区分两个段
+        # RoBERTa/XML-RoBERTa 虽然可能不使用 token_type_ids，但传递 None 也能正常工作
+        outputs = self.backbone(
+            input_ids=input_ids,
+            attention_mask=attention_mask,
+            token_type_ids=token_type_ids
+        )
         cls_output = outputs.last_hidden_state[:, 0]  # [CLS] token
         x = self.dropout(cls_output)
         return self.reg_head(x)
@@ -50,9 +57,12 @@ class TransformerVARegressor(nn.Module):
             input_ids = batch["input_ids"].to(device)
             attention_mask = batch["attention_mask"].to(device)
             labels = batch["labels"].to(device)
+            token_type_ids = batch.get("token_type_ids")
+            if token_type_ids is not None:
+                token_type_ids = token_type_ids.to(device)
 
             optimizer.zero_grad()
-            outputs = self(input_ids, attention_mask)
+            outputs = self(input_ids, attention_mask, token_type_ids)
             loss = loss_fn(outputs, labels)
             loss.backward()
             optimizer.step()
@@ -68,8 +78,11 @@ class TransformerVARegressor(nn.Module):
                 input_ids = batch["input_ids"].to(device)
                 attention_mask = batch["attention_mask"].to(device)
                 labels = batch["labels"].to(device)
+                token_type_ids = batch.get("token_type_ids")
+                if token_type_ids is not None:
+                    token_type_ids = token_type_ids.to(device)
 
-                outputs = self(input_ids, attention_mask)
+                outputs = self(input_ids, attention_mask, token_type_ids)
                 loss = loss_fn(outputs, labels)
                 total_loss += loss.item()
         return total_loss / len(dataloader)
