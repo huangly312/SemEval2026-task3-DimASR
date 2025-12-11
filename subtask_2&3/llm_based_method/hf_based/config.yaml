@@ -1,0 +1,94 @@
+# DimABSA Task2/Task3 Configuration File
+
+# Task Configuration
+task:
+  subtask: "subtask_2"  # Options: subtask_2, subtask_3
+  task_type: "task2"    # Options: task2, task3
+  language: "zho"       # Options: eng, jpn, rus, tat, ukr, zho
+  domain: "restaurant"  # Options: restaurant, laptop, hotel, finance
+  exclude_null: true    # Whether to exclude NULL aspects in training
+
+# Model Configuration
+model:
+  model_id: "Qwen/Qwen2.5-7B-Instruct"  # Base model from HuggingFace
+  # Recommended models:
+  # - Qwen/Qwen3-4B-Instruct-2507 (4B, fast and efficient)
+  # - Qwen/Qwen3-8B (8B, better performance)
+  # - Qwen/Qwen2.5-7B-Instruct (7B, stable version)
+  
+  # Local model settings
+  use_local_model: true           # Set true to use local model
+  local_model_path: "/home/gomall/models/Qwen2.5-7B-Instruct"          # Path to local model directory
+  # Example: "/path/to/Qwen3-4B-Instruct-2507"
+  
+  max_seq_length: 512
+  use_flash_attention_2: false  # Set true if GPU supports
+  
+  # Quantization Configuration (4bit)
+  quantization:
+    load_in_4bit: true
+    bnb_4bit_compute_dtype: "bfloat16"
+    bnb_4bit_use_double_quant: true
+    bnb_4bit_quant_type: "nf4"
+
+  # LoRA Configuration
+  lora:
+    r: 16
+    lora_alpha: 16
+    lora_dropout: 0.05
+    bias: "none"
+    task_type: "CAUSAL_LM"
+    target_modules:
+      - "q_proj"
+      - "k_proj"
+      - "v_proj"
+      - "o_proj"
+
+# Training Configuration
+training:
+  output_dir: "./results"
+  num_train_epochs: 2
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 4
+  learning_rate: 1.0e-4
+  weight_decay: 0.01
+  warmup_steps: 20
+  logging_steps: 50
+  save_steps: 100
+  save_total_limit: 3
+  fp16: false
+  bf16: true
+  gradient_checkpointing: true
+  optim: "adamw_8bit"
+  lr_scheduler_type: "cosine"
+  report_to: "none"
+  seed: 42
+
+# Inference Configuration
+inference:
+  max_new_tokens: 1024
+  temperature: 0.7
+  top_p: 0.8
+  top_k: 20
+  do_sample: true
+  batch_size: 1
+
+# Data Paths
+data:
+  data_root: "data/raw_track_a"
+  train_file_pattern: "{lang}_{domain}_train_alltasks.jsonl"
+  dev_file_pattern: "{lang}_{domain}_dev_{task_type}.jsonl"
+
+# Output Configuration
+output:
+  prediction_dir: "./results/predictions"
+  model_save_dir: "./results/saved_models"
+  log_dir: "./results/logs"
+
+# Environment
+environment:
+  hf_endpoint: "https://hf-mirror.com"
+  cuda_visible_devices: "0"  # Set GPU device
+  num_workers: 4
+
+
