@@ -1,0 +1,25 @@
+# Subtask 2 预测配置文件 (Qwen3-32B)
+
+# 数据配置
+subtask: subtask_2
+lang: eng          # 语言代码: eng, zho, jpn, rus, tat, ukr
+domain: laptop     # 领域: restaurant, laptop, hotel, finance
+task: task2        # 任务标识
+
+# API配置
+api:
+  base_url: http://10.208.62.156:8002/v1   # vLLM/OpenAI兼容接口
+  key: EMPTY                               # 如无需鉴权可保持为EMPTY
+  model: Qwen3-32B
+  timeout: 60            # 请求超时时间（秒）
+  max_retries: 3
+  retry_delay: 1.0       # 首次重试等待秒数，之后指数退避
+
+# 预测参数
+max_workers: 20          # 最大并发线程数（根据API限流调节）
+max_tokens: 1000          # 最大生成token数
+temperature: 0.0         # 温度参数（0-1，越小越确定，建议0.0-0.2）
+top_p: 1.0               # 核采样参数（0-1，越大越随机）
+presence_penalty: 0.0    # 惩罚参数（0-1，越大越惩罚）
+top_k: 0                 # top-k采样参数（0-1，越大越随机）
+
