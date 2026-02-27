@@ -1,0 +1,1000 @@
+{"ID": "rest26_aspect_va_test_1", "Aspect_VA": [{"Aspect": "cafe", "VA": "6.62#6.60"}]}
+{"ID": "rest26_aspect_va_test_2", "Aspect_VA": [{"Aspect": "beer selection", "VA": "7.98#7.90"}]}
+{"ID": "rest26_aspect_va_test_3", "Aspect_VA": [{"Aspect": "pepperoni", "VA": "3.96#5.66"}, {"Aspect": "pepper pizza", "VA": "4.12#5.56"}, {"Aspect": "sausage", "VA": "4.17#5.58"}]}
+{"ID": "rest26_aspect_va_test_4", "Aspect_VA": [{"Aspect": "key lime pie", "VA": "7.77#7.86"}, {"Aspect": "beer", "VA": "6.84#7.06"}, {"Aspect": "deck", "VA": "7.56#7.60"}]}
+{"ID": "rest26_aspect_va_test_5", "Aspect_VA": [{"Aspect": "ingredients", "VA": "7.37#7.22"}]}
+{"ID": "rest26_aspect_va_test_6", "Aspect_VA": [{"Aspect": "owner", "VA": "7.20#7.25"}]}
+{"ID": "rest26_aspect_va_test_7", "Aspect_VA": [{"Aspect": "katsu", "VA": "7.66#7.78"}]}
+{"ID": "rest26_aspect_va_test_8", "Aspect_VA": [{"Aspect": "crust", "VA": "7.70#7.86"}, {"Aspect": "beer selection", "VA": "7.24#7.40"}]}
+{"ID": "rest26_aspect_va_test_9", "Aspect_VA": [{"Aspect": "Peppermill", "VA": "4.94#5.28"}]}
+{"ID": "rest26_aspect_va_test_10", "Aspect_VA": [{"Aspect": "meal", "VA": "7.79#7.82"}]}
+{"ID": "rest26_aspect_va_test_11", "Aspect_VA": [{"Aspect": "Store", "VA": "5.36#5.72"}, {"Aspect": "frozen/refrigerated food", "VA": "6.24#6.11"}]}
+{"ID": "rest26_aspect_va_test_12", "Aspect_VA": [{"Aspect": "pineapple flavor", "VA": "6.28#6.26"}]}
+{"ID": "rest26_aspect_va_test_13", "Aspect_VA": [{"Aspect": "pasta dish", "VA": "6.86#6.86"}]}
+{"ID": "rest26_aspect_va_test_14", "Aspect_VA": [{"Aspect": "3 hour wait", "VA": "4.58#5.44"}, {"Aspect": "firecracker shrimp", "VA": "6.88#6.88"}]}
+{"ID": "rest26_aspect_va_test_15", "Aspect_VA": [{"Aspect": "menu", "VA": "6.88#6.80"}]}
+{"ID": "rest26_aspect_va_test_16", "Aspect_VA": [{"Aspect": "long roll and a hand roll", "VA": "6.87#6.79"}, {"Aspect": "total cost", "VA": "6.16#6.17"}]}
+{"ID": "rest26_aspect_va_test_17", "Aspect_VA": [{"Aspect": "fried bananas", "VA": "7.54#7.60"}, {"Aspect": "ice cream", "VA": "7.34#7.44"}]}
+{"ID": "rest26_aspect_va_test_18", "Aspect_VA": [{"Aspect": "cheese", "VA": "4.00#5.46"}, {"Aspect": "restaurant", "VA": "5.92#6.04"}]}
+{"ID": "rest26_aspect_va_test_19", "Aspect_VA": [{"Aspect": "food", "VA": "7.09#7.20"}, {"Aspect": "spicy side", "VA": "4.11#5.70"}]}
+{"ID": "rest26_aspect_va_test_20", "Aspect_VA": [{"Aspect": "dishes", "VA": "7.66#7.64"}, {"Aspect": "duck", "VA": "7.52#7.47"}]}
+{"ID": "rest26_aspect_va_test_21", "Aspect_VA": [{"Aspect": "food", "VA": "7.21#7.26"}, {"Aspect": "waiters", "VA": "7.28#7.38"}]}
+{"ID": "rest26_aspect_va_test_22", "Aspect_VA": [{"Aspect": "coffee", "VA": "7.84#7.94"}]}
+{"ID": "rest26_aspect_va_test_23", "Aspect_VA": [{"Aspect": "garlic bread", "VA": "8.08#8.17"}]}
+{"ID": "rest26_aspect_va_test_24", "Aspect_VA": [{"Aspect": "buffet", "VA": "7.31#7.32"}]}
+{"ID": "rest26_aspect_va_test_25", "Aspect_VA": [{"Aspect": "coffee", "VA": "7.90#7.98"}]}
+{"ID": "rest26_aspect_va_test_26", "Aspect_VA": [{"Aspect": "place", "VA": "7.22#7.33"}]}
+{"ID": "rest26_aspect_va_test_27", "Aspect_VA": [{"Aspect": "Staff", "VA": "7.35#7.40"}, {"Aspect": "food", "VA": "7.59#7.65"}]}
+{"ID": "rest26_aspect_va_test_28", "Aspect_VA": [{"Aspect": "frozen peas", "VA": "6.00#5.92"}, {"Aspect": "tortellini dish", "VA": "5.78#5.77"}]}
+{"ID": "rest26_aspect_va_test_29", "Aspect_VA": [{"Aspect": "meal", "VA": "4.82#5.12"}, {"Aspect": "she", "VA": "5.00#5.45"}]}
+{"ID": "rest26_aspect_va_test_30", "Aspect_VA": [{"Aspect": "price", "VA": "4.76#5.15"}, {"Aspect": "amount of food", "VA": "4.89#5.11"}]}
+{"ID": "rest26_aspect_va_test_31", "Aspect_VA": [{"Aspect": "boba", "VA": "6.46#6.32"}, {"Aspect": "grass jelly", "VA": "6.78#6.82"}]}
+{"ID": "rest26_aspect_va_test_32", "Aspect_VA": [{"Aspect": "Italian food", "VA": "7.84#7.90"}]}
+{"ID": "rest26_aspect_va_test_33", "Aspect_VA": [{"Aspect": "flavor combination", "VA": "7.80#7.90"}, {"Aspect": "ingredients", "VA": "5.52#6.10"}]}
+{"ID": "rest26_aspect_va_test_34", "Aspect_VA": [{"Aspect": "food", "VA": "7.74#7.70"}, {"Aspect": "place", "VA": "7.74#7.76"}]}
+{"ID": "rest26_aspect_va_test_35", "Aspect_VA": [{"Aspect": "staff", "VA": "7.08#7.14"}, {"Aspect": "service", "VA": "7.36#7.43"}]}
+{"ID": "rest26_aspect_va_test_36", "Aspect_VA": [{"Aspect": "food", "VA": "6.48#6.46"}]}
+{"ID": "rest26_aspect_va_test_37", "Aspect_VA": [{"Aspect": "place", "VA": "7.22#7.22"}, {"Aspect": "art dishes", "VA": "7.60#7.53"}]}
+{"ID": "rest26_aspect_va_test_38", "Aspect_VA": [{"Aspect": "staff", "VA": "3.86#6.13"}, {"Aspect": "waiter", "VA": "5.43#6.33"}]}
+{"ID": "rest26_aspect_va_test_39", "Aspect_VA": [{"Aspect": "steaks", "VA": "4.90#5.15"}]}
+{"ID": "rest26_aspect_va_test_40", "Aspect_VA": [{"Aspect": "service", "VA": "8.09#8.08"}]}
+{"ID": "rest26_aspect_va_test_41", "Aspect_VA": [{"Aspect": "pizza", "VA": "3.78#6.10"}]}
+{"ID": "rest26_aspect_va_test_42", "Aspect_VA": [{"Aspect": "beer list", "VA": "7.10#7.17"}, {"Aspect": "bloody Mary", "VA": "6.96#7.06"}]}
+{"ID": "rest26_aspect_va_test_43", "Aspect_VA": [{"Aspect": "white chocolate brownie", "VA": "6.60#6.46"}, {"Aspect": "bread pudding", "VA": "6.38#6.25"}]}
+{"ID": "rest26_aspect_va_test_44", "Aspect_VA": [{"Aspect": "food items", "VA": "4.22#5.28"}, {"Aspect": "bartender", "VA": "4.62#5.20"}]}
+{"ID": "rest26_aspect_va_test_45", "Aspect_VA": [{"Aspect": "food", "VA": "6.64#6.74"}]}
+{"ID": "rest26_aspect_va_test_46", "Aspect_VA": [{"Aspect": "meal", "VA": "7.09#7.13"}, {"Aspect": "plan", "VA": "7.40#7.44"}]}
+{"ID": "rest26_aspect_va_test_47", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.92#5.50"}]}
+{"ID": "rest26_aspect_va_test_48", "Aspect_VA": [{"Aspect": "beer", "VA": "6.57#6.62"}, {"Aspect": "offerings", "VA": "5.76#5.92"}]}
+{"ID": "rest26_aspect_va_test_49", "Aspect_VA": [{"Aspect": "food", "VA": "7.96#7.99"}]}
+{"ID": "rest26_aspect_va_test_50", "Aspect_VA": [{"Aspect": "brunch", "VA": "8.12#8.21"}, {"Aspect": "staff", "VA": "7.52#7.59"}]}
+{"ID": "rest26_aspect_va_test_51", "Aspect_VA": [{"Aspect": "place", "VA": "7.04#6.88"}, {"Aspect": "BBQ", "VA": "7.48#7.52"}, {"Aspect": "blues", "VA": "7.51#7.52"}]}
+{"ID": "rest26_aspect_va_test_52", "Aspect_VA": [{"Aspect": "food", "VA": "5.10#5.22"}, {"Aspect": "karaoke room", "VA": "6.23#6.22"}, {"Aspect": "BYOing", "VA": "6.36#6.31"}]}
+{"ID": "rest26_aspect_va_test_53", "Aspect_VA": [{"Aspect": "selection", "VA": "7.19#7.24"}, {"Aspect": "food", "VA": "7.51#7.58"}]}
+{"ID": "rest26_aspect_va_test_54", "Aspect_VA": [{"Aspect": "sushi", "VA": "7.87#7.88"}]}
+{"ID": "rest26_aspect_va_test_55", "Aspect_VA": [{"Aspect": "Biscuit", "VA": "4.35#5.22"}]}
+{"ID": "rest26_aspect_va_test_56", "Aspect_VA": [{"Aspect": "service", "VA": "4.20#5.36"}]}
+{"ID": "rest26_aspect_va_test_57", "Aspect_VA": [{"Aspect": "lunch", "VA": "6.82#6.88"}]}
+{"ID": "rest26_aspect_va_test_58", "Aspect_VA": [{"Aspect": "pizza", "VA": "4.35#5.20"}]}
+{"ID": "rest26_aspect_va_test_59", "Aspect_VA": [{"Aspect": "BBQ", "VA": "7.78#7.92"}]}
+{"ID": "rest26_aspect_va_test_60", "Aspect_VA": [{"Aspect": "food", "VA": "2.69#6.55"}]}
+{"ID": "rest26_aspect_va_test_61", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.38#5.98"}]}
+{"ID": "rest26_aspect_va_test_62", "Aspect_VA": [{"Aspect": "Food", "VA": "7.19#7.16"}, {"Aspect": "beer", "VA": "4.11#5.54"}]}
+{"ID": "rest26_aspect_va_test_63", "Aspect_VA": [{"Aspect": "sushi", "VA": "7.34#7.36"}]}
+{"ID": "rest26_aspect_va_test_64", "Aspect_VA": [{"Aspect": "place", "VA": "7.40#7.44"}]}
+{"ID": "rest26_aspect_va_test_65", "Aspect_VA": [{"Aspect": "server", "VA": "7.60#7.72"}, {"Aspect": "food", "VA": "7.70#7.76"}]}
+{"ID": "rest26_aspect_va_test_66", "Aspect_VA": [{"Aspect": "Nola food", "VA": "6.76#6.76"}]}
+{"ID": "rest26_aspect_va_test_67", "Aspect_VA": [{"Aspect": "food", "VA": "7.12#7.16"}]}
+{"ID": "rest26_aspect_va_test_68", "Aspect_VA": [{"Aspect": "waiter", "VA": "3.98#5.74"}, {"Aspect": "shrimp and grits", "VA": "4.77#6.06"}]}
+{"ID": "rest26_aspect_va_test_69", "Aspect_VA": [{"Aspect": "staff and food", "VA": "8.01#8.06"}]}
+{"ID": "rest26_aspect_va_test_70", "Aspect_VA": [{"Aspect": "coffee", "VA": "4.19#5.46"}]}
+{"ID": "rest26_aspect_va_test_71", "Aspect_VA": [{"Aspect": "meat", "VA": "4.94#5.32"}]}
+{"ID": "rest26_aspect_va_test_72", "Aspect_VA": [{"Aspect": "service", "VA": "4.54#5.41"}]}
+{"ID": "rest26_aspect_va_test_73", "Aspect_VA": [{"Aspect": "food", "VA": "6.24#6.13"}]}
+{"ID": "rest26_aspect_va_test_74", "Aspect_VA": [{"Aspect": "broth", "VA": "3.06#6.38"}, {"Aspect": "thick noodles", "VA": "3.50#5.86"}]}
+{"ID": "rest26_aspect_va_test_75", "Aspect_VA": [{"Aspect": "waiter", "VA": "7.19#7.24"}]}
+{"ID": "rest26_aspect_va_test_76", "Aspect_VA": [{"Aspect": "drink", "VA": "7.36#7.44"}, {"Aspect": "dinner", "VA": "7.52#7.58"}]}
+{"ID": "rest26_aspect_va_test_77", "Aspect_VA": [{"Aspect": "waitresses", "VA": "7.42#7.51"}, {"Aspect": "American diner", "VA": "7.97#8.01"}]}
+{"ID": "rest26_aspect_va_test_78", "Aspect_VA": [{"Aspect": "decor", "VA": "7.62#7.64"}, {"Aspect": "food", "VA": "7.56#7.60"}, {"Aspect": "service", "VA": "7.56#7.58"}]}
+{"ID": "rest26_aspect_va_test_79", "Aspect_VA": [{"Aspect": "Honey Child cocktail", "VA": "8.18#8.18"}, {"Aspect": "Sazerac", "VA": "7.24#7.14"}]}
+{"ID": "rest26_aspect_va_test_80", "Aspect_VA": [{"Aspect": "meal", "VA": "5.92#5.72"}]}
+{"ID": "rest26_aspect_va_test_81", "Aspect_VA": [{"Aspect": "food", "VA": "6.63#6.60"}]}
+{"ID": "rest26_aspect_va_test_82", "Aspect_VA": [{"Aspect": "flavor of the fish", "VA": "7.40#7.44"}]}
+{"ID": "rest26_aspect_va_test_83", "Aspect_VA": [{"Aspect": "coating", "VA": "3.41#5.88"}]}
+{"ID": "rest26_aspect_va_test_84", "Aspect_VA": [{"Aspect": "food", "VA": "3.51#5.92"}]}
+{"ID": "rest26_aspect_va_test_85", "Aspect_VA": [{"Aspect": "staff", "VA": "7.27#7.38"}, {"Aspect": "coffee", "VA": "7.60#7.72"}, {"Aspect": "menu", "VA": "7.60#7.59"}]}
+{"ID": "rest26_aspect_va_test_86", "Aspect_VA": [{"Aspect": "The Commodore", "VA": "7.16#7.18"}]}
+{"ID": "rest26_aspect_va_test_87", "Aspect_VA": [{"Aspect": "calzone", "VA": "3.84#5.74"}]}
+{"ID": "rest26_aspect_va_test_88", "Aspect_VA": [{"Aspect": "meal", "VA": "7.79#7.86"}]}
+{"ID": "rest26_aspect_va_test_89", "Aspect_VA": [{"Aspect": "hot potatoes", "VA": "7.28#7.42"}]}
+{"ID": "rest26_aspect_va_test_90", "Aspect_VA": [{"Aspect": "dinner", "VA": "7.64#7.70"}]}
+{"ID": "rest26_aspect_va_test_91", "Aspect_VA": [{"Aspect": "food", "VA": "7.92#7.92"}, {"Aspect": "drinks", "VA": "7.95#7.94"}]}
+{"ID": "rest26_aspect_va_test_92", "Aspect_VA": [{"Aspect": "food", "VA": "7.90#7.99"}]}
+{"ID": "rest26_aspect_va_test_93", "Aspect_VA": [{"Aspect": "eatery", "VA": "7.70#7.74"}]}
+{"ID": "rest26_aspect_va_test_94", "Aspect_VA": [{"Aspect": "3 fish tacos", "VA": "6.74#6.71"}]}
+{"ID": "rest26_aspect_va_test_95", "Aspect_VA": [{"Aspect": "dishes", "VA": "6.89#6.80"}]}
+{"ID": "rest26_aspect_va_test_96", "Aspect_VA": [{"Aspect": "coffee milkshake", "VA": "4.64#5.35"}, {"Aspect": "chocolate", "VA": "4.61#5.23"}]}
+{"ID": "rest26_aspect_va_test_97", "Aspect_VA": [{"Aspect": "waiters and waitresses", "VA": "3.54#5.98"}]}
+{"ID": "rest26_aspect_va_test_98", "Aspect_VA": [{"Aspect": "meal", "VA": "7.52#7.58"}]}
+{"ID": "rest26_aspect_va_test_99", "Aspect_VA": [{"Aspect": "part", "VA": "7.89#7.99"}]}
+{"ID": "rest26_aspect_va_test_100", "Aspect_VA": [{"Aspect": "dining room", "VA": "7.50#7.53"}, {"Aspect": "service", "VA": "7.64#7.62"}, {"Aspect": "atmosphere", "VA": "7.42#7.44"}]}
+{"ID": "rest26_aspect_va_test_101", "Aspect_VA": [{"Aspect": "dinner", "VA": "7.40#7.56"}]}
+{"ID": "rest26_aspect_va_test_102", "Aspect_VA": [{"Aspect": "university city restaurant week", "VA": "4.06#5.27"}]}
+{"ID": "rest26_aspect_va_test_103", "Aspect_VA": [{"Aspect": "last nights waiter", "VA": "5.08#5.18"}]}
+{"ID": "rest26_aspect_va_test_104", "Aspect_VA": [{"Aspect": "drink", "VA": "5.01#5.32"}]}
+{"ID": "rest26_aspect_va_test_105", "Aspect_VA": [{"Aspect": "restaurant", "VA": "4.29#7.00"}]}
+{"ID": "rest26_aspect_va_test_106", "Aspect_VA": [{"Aspect": "truffle tries", "VA": "7.51#7.62"}]}
+{"ID": "rest26_aspect_va_test_107", "Aspect_VA": [{"Aspect": "towers of beer", "VA": "5.84#6.08"}]}
+{"ID": "rest26_aspect_va_test_108", "Aspect_VA": [{"Aspect": "coffee", "VA": "3.92#5.63"}]}
+{"ID": "rest26_aspect_va_test_109", "Aspect_VA": [{"Aspect": "service", "VA": "3.82#5.54"}]}
+{"ID": "rest26_aspect_va_test_110", "Aspect_VA": [{"Aspect": "crust", "VA": "5.54#6.01"}]}
+{"ID": "rest26_aspect_va_test_111", "Aspect_VA": [{"Aspect": "meal", "VA": "5.40#5.49"}]}
+{"ID": "rest26_aspect_va_test_112", "Aspect_VA": [{"Aspect": "manner", "VA": "7.32#7.52"}, {"Aspect": "system", "VA": "7.42#7.59"}]}
+{"ID": "rest26_aspect_va_test_113", "Aspect_VA": [{"Aspect": "first", "VA": "3.70#5.80"}, {"Aspect": "2nd drink", "VA": "4.94#5.49"}]}
+{"ID": "rest26_aspect_va_test_114", "Aspect_VA": [{"Aspect": "brunch spots", "VA": "7.78#7.80"}]}
+{"ID": "rest26_aspect_va_test_115", "Aspect_VA": [{"Aspect": "dish", "VA": "7.00#6.96"}]}
+{"ID": "rest26_aspect_va_test_116", "Aspect_VA": [{"Aspect": "Menu", "VA": "6.56#6.50"}]}
+{"ID": "rest26_aspect_va_test_117", "Aspect_VA": [{"Aspect": "espresso", "VA": "7.52#7.64"}, {"Aspect": "drip", "VA": "7.50#7.62"}]}
+{"ID": "rest26_aspect_va_test_118", "Aspect_VA": [{"Aspect": "caveat", "VA": "4.36#5.35"}, {"Aspect": "Friday night reservation", "VA": "4.81#5.50"}]}
+{"ID": "rest26_aspect_va_test_119", "Aspect_VA": [{"Aspect": "glassware for beer", "VA": "2.91#6.44"}]}
+{"ID": "rest26_aspect_va_test_120", "Aspect_VA": [{"Aspect": "pizza", "VA": "6.99#7.13"}]}
+{"ID": "rest26_aspect_va_test_121", "Aspect_VA": [{"Aspect": "sandwiches", "VA": "4.62#5.13"}]}
+{"ID": "rest26_aspect_va_test_122", "Aspect_VA": [{"Aspect": "food", "VA": "3.49#5.78"}]}
+{"ID": "rest26_aspect_va_test_123", "Aspect_VA": [{"Aspect": "servers", "VA": "7.70#7.76"}]}
+{"ID": "rest26_aspect_va_test_124", "Aspect_VA": [{"Aspect": "service", "VA": "3.28#6.30"}, {"Aspect": "Servers", "VA": "6.90#6.84"}]}
+{"ID": "rest26_aspect_va_test_125", "Aspect_VA": [{"Aspect": "lunch buffet", "VA": "7.10#7.04"}]}
+{"ID": "rest26_aspect_va_test_126", "Aspect_VA": [{"Aspect": "burger", "VA": "8.17#8.21"}]}
+{"ID": "rest26_aspect_va_test_127", "Aspect_VA": [{"Aspect": "fish", "VA": "7.57#7.64"}, {"Aspect": "sauce", "VA": "7.93#8.02"}]}
+{"ID": "rest26_aspect_va_test_128", "Aspect_VA": [{"Aspect": "No Menu Monday", "VA": "7.94#7.97"}]}
+{"ID": "rest26_aspect_va_test_129", "Aspect_VA": [{"Aspect": "convenience store deli", "VA": "5.34#5.62"}]}
+{"ID": "rest26_aspect_va_test_130", "Aspect_VA": [{"Aspect": "entrees", "VA": "7.63#7.64"}]}
+{"ID": "rest26_aspect_va_test_131", "Aspect_VA": [{"Aspect": "shank entree", "VA": "7.97#8.00"}, {"Aspect": "lamb dishes", "VA": "7.04#7.00"}]}
+{"ID": "rest26_aspect_va_test_132", "Aspect_VA": [{"Aspect": "appetizer", "VA": "2.46#7.01"}, {"Aspect": "food", "VA": "2.03#7.58"}, {"Aspect": "restaurant", "VA": "2.70#6.95"}]}
+{"ID": "rest26_aspect_va_test_133", "Aspect_VA": [{"Aspect": "cheese", "VA": "6.95#6.91"}, {"Aspect": "wine", "VA": "6.94#6.93"}]}
+{"ID": "rest26_aspect_va_test_134", "Aspect_VA": [{"Aspect": "15 minutes", "VA": "4.44#5.24"}, {"Aspect": "one of the females", "VA": "5.14#5.40"}]}
+{"ID": "rest26_aspect_va_test_135", "Aspect_VA": [{"Aspect": "sit down dinner", "VA": "4.45#5.87"}]}
+{"ID": "rest26_aspect_va_test_136", "Aspect_VA": [{"Aspect": "decor", "VA": "7.03#7.07"}]}
+{"ID": "rest26_aspect_va_test_137", "Aspect_VA": [{"Aspect": "Food", "VA": "3.36#5.98"}]}
+{"ID": "rest26_aspect_va_test_138", "Aspect_VA": [{"Aspect": "BBQ Chicken pizza", "VA": "5.82#5.61"}]}
+{"ID": "rest26_aspect_va_test_139", "Aspect_VA": [{"Aspect": "food", "VA": "2.78#6.53"}]}
+{"ID": "rest26_aspect_va_test_140", "Aspect_VA": [{"Aspect": "service", "VA": "7.87#7.90"}]}
+{"ID": "rest26_aspect_va_test_141", "Aspect_VA": [{"Aspect": "food", "VA": "7.72#7.72"}, {"Aspect": "server", "VA": "8.00#8.00"}]}
+{"ID": "rest26_aspect_va_test_142", "Aspect_VA": [{"Aspect": "breakfast", "VA": "7.43#7.54"}]}
+{"ID": "rest26_aspect_va_test_143", "Aspect_VA": [{"Aspect": "service", "VA": "7.32#7.33"}]}
+{"ID": "rest26_aspect_va_test_144", "Aspect_VA": [{"Aspect": "brunch", "VA": "7.93#7.92"}]}
+{"ID": "rest26_aspect_va_test_145", "Aspect_VA": [{"Aspect": "old club", "VA": "4.96#5.36"}]}
+{"ID": "rest26_aspect_va_test_146", "Aspect_VA": [{"Aspect": "server", "VA": "4.25#5.30"}]}
+{"ID": "rest26_aspect_va_test_147", "Aspect_VA": [{"Aspect": "dishes", "VA": "4.19#5.60"}, {"Aspect": "dinner for two", "VA": "5.22#5.60"}]}
+{"ID": "rest26_aspect_va_test_148", "Aspect_VA": [{"Aspect": "food", "VA": "7.50#7.54"}]}
+{"ID": "rest26_aspect_va_test_149", "Aspect_VA": [{"Aspect": "waiter", "VA": "7.88#7.98"}, {"Aspect": "Food", "VA": "7.64#7.68"}]}
+{"ID": "rest26_aspect_va_test_150", "Aspect_VA": [{"Aspect": "gluten-free options", "VA": "7.52#7.57"}, {"Aspect": "lunch options", "VA": "7.68#7.80"}]}
+{"ID": "rest26_aspect_va_test_151", "Aspect_VA": [{"Aspect": "chicken piccata", "VA": "6.78#6.68"}, {"Aspect": "pizza", "VA": "7.30#7.30"}]}
+{"ID": "rest26_aspect_va_test_152", "Aspect_VA": [{"Aspect": "food", "VA": "2.49#6.80"}]}
+{"ID": "rest26_aspect_va_test_153", "Aspect_VA": [{"Aspect": "lunch", "VA": "5.35#5.40"}, {"Aspect": "dinner hour", "VA": "7.36#7.46"}]}
+{"ID": "rest26_aspect_va_test_154", "Aspect_VA": [{"Aspect": "food options", "VA": "7.43#7.46"}]}
+{"ID": "rest26_aspect_va_test_155", "Aspect_VA": [{"Aspect": "snack", "VA": "5.93#5.77"}, {"Aspect": "Bern's Steak House", "VA": "5.40#5.41"}]}
+{"ID": "rest26_aspect_va_test_156", "Aspect_VA": [{"Aspect": "food/snacks", "VA": "7.61#7.67"}, {"Aspect": "alcohol", "VA": "5.28#6.12"}, {"Aspect": "portions", "VA": "7.51#7.52"}]}
+{"ID": "rest26_aspect_va_test_157", "Aspect_VA": [{"Aspect": "non-sushi dishes", "VA": "7.50#7.50"}, {"Aspect": "teriyaki", "VA": "7.46#7.46"}]}
+{"ID": "rest26_aspect_va_test_158", "Aspect_VA": [{"Aspect": "bakery", "VA": "7.51#7.62"}, {"Aspect": "service", "VA": "7.47#7.54"}]}
+{"ID": "rest26_aspect_va_test_159", "Aspect_VA": [{"Aspect": "selection", "VA": "7.48#7.54"}]}
+{"ID": "rest26_aspect_va_test_160", "Aspect_VA": [{"Aspect": "hostesses", "VA": "5.98#5.76"}]}
+{"ID": "rest26_aspect_va_test_161", "Aspect_VA": [{"Aspect": "play room", "VA": "7.18#7.32"}, {"Aspect": "food", "VA": "6.46#6.65"}]}
+{"ID": "rest26_aspect_va_test_162", "Aspect_VA": [{"Aspect": "food", "VA": "6.12#6.04"}, {"Aspect": "staff", "VA": "6.49#6.49"}]}
+{"ID": "rest26_aspect_va_test_163", "Aspect_VA": [{"Aspect": "gyro platter", "VA": "3.42#5.98"}]}
+{"ID": "rest26_aspect_va_test_164", "Aspect_VA": [{"Aspect": "Yuengling lager", "VA": "7.93#7.87"}]}
+{"ID": "rest26_aspect_va_test_165", "Aspect_VA": [{"Aspect": "restaurant", "VA": "5.90#6.00"}]}
+{"ID": "rest26_aspect_va_test_166", "Aspect_VA": [{"Aspect": "coffee", "VA": "7.02#7.06"}, {"Aspect": "new place", "VA": "6.24#6.28"}]}
+{"ID": "rest26_aspect_va_test_167", "Aspect_VA": [{"Aspect": "beer selection", "VA": "3.30#5.90"}]}
+{"ID": "rest26_aspect_va_test_168", "Aspect_VA": [{"Aspect": "food", "VA": "7.80#7.90"}]}
+{"ID": "rest26_aspect_va_test_169", "Aspect_VA": [{"Aspect": "meal", "VA": "7.77#7.86"}]}
+{"ID": "rest26_aspect_va_test_170", "Aspect_VA": [{"Aspect": "Taro Tapioca Smoothie", "VA": "7.62#7.71"}]}
+{"ID": "rest26_aspect_va_test_171", "Aspect_VA": [{"Aspect": "menu", "VA": "5.68#6.00"}]}
+{"ID": "rest26_aspect_va_test_172", "Aspect_VA": [{"Aspect": "food", "VA": "7.02#7.00"}, {"Aspect": "owners", "VA": "6.94#6.89"}]}
+{"ID": "rest26_aspect_va_test_173", "Aspect_VA": [{"Aspect": "Food", "VA": "7.24#7.27"}, {"Aspect": "seafood", "VA": "7.21#7.22"}]}
+{"ID": "rest26_aspect_va_test_174", "Aspect_VA": [{"Aspect": "restaurants", "VA": "6.06#6.04"}, {"Aspect": "steakhouse", "VA": "4.73#5.30"}]}
+{"ID": "rest26_aspect_va_test_175", "Aspect_VA": [{"Aspect": "Red Kings restaurant", "VA": "7.17#7.04"}]}
+{"ID": "rest26_aspect_va_test_176", "Aspect_VA": [{"Aspect": "bubble tea", "VA": "4.56#5.37"}]}
+{"ID": "rest26_aspect_va_test_177", "Aspect_VA": [{"Aspect": "service", "VA": "3.27#6.25"}]}
+{"ID": "rest26_aspect_va_test_178", "Aspect_VA": [{"Aspect": "menu", "VA": "7.30#7.36"}, {"Aspect": "mix of cuisines", "VA": "7.54#7.57"}]}
+{"ID": "rest26_aspect_va_test_179", "Aspect_VA": [{"Aspect": "food", "VA": "7.63#7.70"}, {"Aspect": "facilities", "VA": "7.52#7.61"}]}
+{"ID": "rest26_aspect_va_test_180", "Aspect_VA": [{"Aspect": "pasta plates", "VA": "7.00#7.00"}, {"Aspect": "fish", "VA": "6.33#6.20"}]}
+{"ID": "rest26_aspect_va_test_181", "Aspect_VA": [{"Aspect": "diner", "VA": "7.20#7.29"}]}
+{"ID": "rest26_aspect_va_test_182", "Aspect_VA": [{"Aspect": "place", "VA": "7.72#7.70"}]}
+{"ID": "rest26_aspect_va_test_183", "Aspect_VA": [{"Aspect": "service", "VA": "7.94#7.95"}, {"Aspect": "salsa", "VA": "7.44#7.51"}]}
+{"ID": "rest26_aspect_va_test_184", "Aspect_VA": [{"Aspect": "steaks", "VA": "7.51#7.53"}, {"Aspect": "flavor", "VA": "7.76#7.90"}]}
+{"ID": "rest26_aspect_va_test_185", "Aspect_VA": [{"Aspect": "hot dogs", "VA": "7.90#8.24"}, {"Aspect": "restaurant", "VA": "4.46#6.33"}]}
+{"ID": "rest26_aspect_va_test_186", "Aspect_VA": [{"Aspect": "food", "VA": "6.88#6.96"}]}
+{"ID": "rest26_aspect_va_test_187", "Aspect_VA": [{"Aspect": "beer", "VA": "6.60#6.61"}]}
+{"ID": "rest26_aspect_va_test_188", "Aspect_VA": [{"Aspect": "service", "VA": "7.60#7.66"}]}
+{"ID": "rest26_aspect_va_test_189", "Aspect_VA": [{"Aspect": "Nikki", "VA": "5.56#5.59"}, {"Aspect": "drink menu", "VA": "4.06#5.52"}]}
+{"ID": "rest26_aspect_va_test_190", "Aspect_VA": [{"Aspect": "place", "VA": "7.79#7.85"}, {"Aspect": "waiters", "VA": "3.68#6.66"}]}
+{"ID": "rest26_aspect_va_test_191", "Aspect_VA": [{"Aspect": "New York Pizza Grill", "VA": "4.77#5.25"}]}
+{"ID": "rest26_aspect_va_test_192", "Aspect_VA": [{"Aspect": "service", "VA": "4.44#5.54"}]}
+{"ID": "rest26_aspect_va_test_193", "Aspect_VA": [{"Aspect": "Meatloaf and mashed potatoes", "VA": "6.72#6.68"}]}
+{"ID": "rest26_aspect_va_test_194", "Aspect_VA": [{"Aspect": "food", "VA": "7.15#7.15"}]}
+{"ID": "rest26_aspect_va_test_195", "Aspect_VA": [{"Aspect": "thin crust", "VA": "8.06#8.07"}, {"Aspect": "deep dish", "VA": "8.02#8.06"}]}
+{"ID": "rest26_aspect_va_test_196", "Aspect_VA": [{"Aspect": "customer service", "VA": "3.64#5.65"}]}
+{"ID": "rest26_aspect_va_test_197", "Aspect_VA": [{"Aspect": "food", "VA": "5.20#5.25"}, {"Aspect": "service", "VA": "4.68#5.18"}]}
+{"ID": "rest26_aspect_va_test_198", "Aspect_VA": [{"Aspect": "bayou burger", "VA": "7.90#8.00"}]}
+{"ID": "rest26_aspect_va_test_199", "Aspect_VA": [{"Aspect": "selection", "VA": "6.56#6.67"}]}
+{"ID": "rest26_aspect_va_test_200", "Aspect_VA": [{"Aspect": "family", "VA": "7.42#7.50"}, {"Aspect": "food", "VA": "7.74#7.76"}]}
+{"ID": "rest26_aspect_va_test_201", "Aspect_VA": [{"Aspect": "falafels & pita", "VA": "3.77#5.48"}]}
+{"ID": "rest26_aspect_va_test_202", "Aspect_VA": [{"Aspect": "service", "VA": "2.92#6.56"}]}
+{"ID": "rest26_aspect_va_test_203", "Aspect_VA": [{"Aspect": "staff", "VA": "7.48#7.56"}, {"Aspect": "local establishment", "VA": "8.10#8.08"}]}
+{"ID": "rest26_aspect_va_test_204", "Aspect_VA": [{"Aspect": "lunch place", "VA": "7.36#7.44"}]}
+{"ID": "rest26_aspect_va_test_205", "Aspect_VA": [{"Aspect": "host", "VA": "7.56#7.66"}]}
+{"ID": "rest26_aspect_va_test_206", "Aspect_VA": [{"Aspect": "John Besh food", "VA": "7.12#7.11"}, {"Aspect": "place", "VA": "7.34#7.36"}]}
+{"ID": "rest26_aspect_va_test_207", "Aspect_VA": [{"Aspect": "dish", "VA": "3.38#5.84"}, {"Aspect": "sushi", "VA": "3.20#6.10"}]}
+{"ID": "rest26_aspect_va_test_208", "Aspect_VA": [{"Aspect": "burger", "VA": "5.00#5.38"}]}
+{"ID": "rest26_aspect_va_test_209", "Aspect_VA": [{"Aspect": "large beers", "VA": "7.15#7.12"}]}
+{"ID": "rest26_aspect_va_test_210", "Aspect_VA": [{"Aspect": "food", "VA": "5.48#6.75"}, {"Aspect": "restaurant", "VA": "3.73#6.86"}, {"Aspect": "service", "VA": "2.94#6.88"}]}
+{"ID": "rest26_aspect_va_test_211", "Aspect_VA": [{"Aspect": "food", "VA": "7.93#7.97"}, {"Aspect": "place", "VA": "7.90#7.91"}]}
+{"ID": "rest26_aspect_va_test_212", "Aspect_VA": [{"Aspect": "sandwiches", "VA": "4.56#5.36"}]}
+{"ID": "rest26_aspect_va_test_213", "Aspect_VA": [{"Aspect": "family style restaurant and bar", "VA": "6.98#6.88"}, {"Aspect": "sandwich", "VA": "6.10#6.10"}]}
+{"ID": "rest26_aspect_va_test_214", "Aspect_VA": [{"Aspect": "smoked french bread pizza", "VA": "7.47#7.42"}, {"Aspect": "cesaer salad", "VA": "7.58#7.48"}]}
+{"ID": "rest26_aspect_va_test_215", "Aspect_VA": [{"Aspect": "fried oyster", "VA": "6.75#6.68"}, {"Aspect": "fried chicken livers", "VA": "6.86#6.78"}]}
+{"ID": "rest26_aspect_va_test_216", "Aspect_VA": [{"Aspect": "cheese grits", "VA": "7.46#7.52"}, {"Aspect": "food", "VA": "7.14#7.26"}, {"Aspect": "brisket", "VA": "7.35#7.45"}]}
+{"ID": "rest26_aspect_va_test_217", "Aspect_VA": [{"Aspect": "corner", "VA": "7.46#7.56"}, {"Aspect": "meals", "VA": "7.30#7.17"}, {"Aspect": "wine", "VA": "7.38#7.30"}]}
+{"ID": "rest26_aspect_va_test_218", "Aspect_VA": [{"Aspect": "salad & pizza bar", "VA": "3.50#5.98"}]}
+{"ID": "rest26_aspect_va_test_219", "Aspect_VA": [{"Aspect": "wine", "VA": "4.51#5.18"}, {"Aspect": "service", "VA": "4.73#5.30"}]}
+{"ID": "rest26_aspect_va_test_220", "Aspect_VA": [{"Aspect": "Sour Cherry BBQ stir fry", "VA": "7.95#7.94"}]}
+{"ID": "rest26_aspect_va_test_221", "Aspect_VA": [{"Aspect": "food", "VA": "6.60#6.55"}]}
+{"ID": "rest26_aspect_va_test_222", "Aspect_VA": [{"Aspect": "restaurants", "VA": "7.90#7.93"}]}
+{"ID": "rest26_aspect_va_test_223", "Aspect_VA": [{"Aspect": "Ranchero Classic Breakfast Burrito", "VA": "7.31#7.29"}, {"Aspect": "chicken", "VA": "7.12#7.04"}]}
+{"ID": "rest26_aspect_va_test_224", "Aspect_VA": [{"Aspect": "food", "VA": "4.94#5.14"}]}
+{"ID": "rest26_aspect_va_test_225", "Aspect_VA": [{"Aspect": "restaurant", "VA": "4.77#5.46"}]}
+{"ID": "rest26_aspect_va_test_226", "Aspect_VA": [{"Aspect": "Breakfast menu", "VA": "3.74#5.82"}]}
+{"ID": "rest26_aspect_va_test_227", "Aspect_VA": [{"Aspect": "iced coffee drinks", "VA": "7.94#8.02"}]}
+{"ID": "rest26_aspect_va_test_228", "Aspect_VA": [{"Aspect": "cheese", "VA": "7.75#7.84"}]}
+{"ID": "rest26_aspect_va_test_229", "Aspect_VA": [{"Aspect": "meat", "VA": "4.74#5.27"}, {"Aspect": "greens and veggies", "VA": "5.02#5.21"}, {"Aspect": "food", "VA": "4.69#5.55"}]}
+{"ID": "rest26_aspect_va_test_230", "Aspect_VA": [{"Aspect": "fries", "VA": "4.57#5.36"}, {"Aspect": "food", "VA": "6.57#6.54"}]}
+{"ID": "rest26_aspect_va_test_231", "Aspect_VA": [{"Aspect": "food", "VA": "4.25#5.66"}, {"Aspect": "place", "VA": "4.72#6.10"}]}
+{"ID": "rest26_aspect_va_test_232", "Aspect_VA": [{"Aspect": "wait staff", "VA": "4.02#5.28"}]}
+{"ID": "rest26_aspect_va_test_233", "Aspect_VA": [{"Aspect": "cafe section", "VA": "7.36#7.40"}, {"Aspect": "place", "VA": "7.42#7.48"}]}
+{"ID": "rest26_aspect_va_test_234", "Aspect_VA": [{"Aspect": "food", "VA": "7.65#7.72"}]}
+{"ID": "rest26_aspect_va_test_235", "Aspect_VA": [{"Aspect": "dog food", "VA": "7.24#7.36"}]}
+{"ID": "rest26_aspect_va_test_236", "Aspect_VA": [{"Aspect": "food", "VA": "3.26#6.28"}]}
+{"ID": "rest26_aspect_va_test_237", "Aspect_VA": [{"Aspect": "dinner experience", "VA": "7.86#7.92"}]}
+{"ID": "rest26_aspect_va_test_238", "Aspect_VA": [{"Aspect": "whole trout", "VA": "4.62#5.18"}, {"Aspect": "server or waitress", "VA": "4.42#5.37"}]}
+{"ID": "rest26_aspect_va_test_239", "Aspect_VA": [{"Aspect": "pizza", "VA": "4.70#5.26"}]}
+{"ID": "rest26_aspect_va_test_240", "Aspect_VA": [{"Aspect": "flavor", "VA": "8.01#8.08"}]}
+{"ID": "rest26_aspect_va_test_241", "Aspect_VA": [{"Aspect": "cocktail selection", "VA": "7.92#7.97"}]}
+{"ID": "rest26_aspect_va_test_242", "Aspect_VA": [{"Aspect": "toppings", "VA": "7.44#7.51"}]}
+{"ID": "rest26_aspect_va_test_243", "Aspect_VA": [{"Aspect": "room", "VA": "4.56#5.54"}, {"Aspect": "cafe", "VA": "5.70#5.56"}]}
+{"ID": "rest26_aspect_va_test_244", "Aspect_VA": [{"Aspect": "dish", "VA": "7.17#7.16"}, {"Aspect": "Chinese restaurant", "VA": "7.25#7.08"}]}
+{"ID": "rest26_aspect_va_test_245", "Aspect_VA": [{"Aspect": "Service", "VA": "4.98#5.46"}]}
+{"ID": "rest26_aspect_va_test_246", "Aspect_VA": [{"Aspect": "brunch spot", "VA": "7.06#7.07"}]}
+{"ID": "rest26_aspect_va_test_247", "Aspect_VA": [{"Aspect": "diner breakfast", "VA": "7.66#7.73"}]}
+{"ID": "rest26_aspect_va_test_248", "Aspect_VA": [{"Aspect": "Mediterranean food", "VA": "2.22#7.32"}]}
+{"ID": "rest26_aspect_va_test_249", "Aspect_VA": [{"Aspect": "cole slaw", "VA": "7.84#7.88"}, {"Aspect": "fries", "VA": "7.86#7.88"}]}
+{"ID": "rest26_aspect_va_test_250", "Aspect_VA": [{"Aspect": "service", "VA": "7.23#7.31"}, {"Aspect": "lines", "VA": "6.84#6.84"}]}
+{"ID": "rest26_aspect_va_test_251", "Aspect_VA": [{"Aspect": "dinner", "VA": "6.20#6.29"}]}
+{"ID": "rest26_aspect_va_test_252", "Aspect_VA": [{"Aspect": "cherry tart", "VA": "4.68#5.54"}]}
+{"ID": "rest26_aspect_va_test_253", "Aspect_VA": [{"Aspect": "Classic American food", "VA": "7.52#7.49"}]}
+{"ID": "rest26_aspect_va_test_254", "Aspect_VA": [{"Aspect": "waitress", "VA": "6.25#6.28"}, {"Aspect": "flavor", "VA": "6.54#6.59"}]}
+{"ID": "rest26_aspect_va_test_255", "Aspect_VA": [{"Aspect": "service", "VA": "2.21#7.22"}, {"Aspect": "food", "VA": "4.93#5.16"}]}
+{"ID": "rest26_aspect_va_test_256", "Aspect_VA": [{"Aspect": "food", "VA": "7.57#7.64"}]}
+{"ID": "rest26_aspect_va_test_257", "Aspect_VA": [{"Aspect": "food", "VA": "7.33#7.38"}]}
+{"ID": "rest26_aspect_va_test_258", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.68#5.88"}, {"Aspect": "server", "VA": "3.62#5.88"}, {"Aspect": "drink", "VA": "3.44#6.00"}]}
+{"ID": "rest26_aspect_va_test_259", "Aspect_VA": [{"Aspect": "beverage", "VA": "4.47#5.73"}, {"Aspect": "price", "VA": "3.42#6.26"}]}
+{"ID": "rest26_aspect_va_test_260", "Aspect_VA": [{"Aspect": "corporation/restaurant", "VA": "4.36#5.14"}]}
+{"ID": "rest26_aspect_va_test_261", "Aspect_VA": [{"Aspect": "location", "VA": "6.88#7.13"}, {"Aspect": "service", "VA": "2.40#7.00"}]}
+{"ID": "rest26_aspect_va_test_262", "Aspect_VA": [{"Aspect": "choice of food", "VA": "5.17#5.43"}, {"Aspect": "drinks", "VA": "6.28#6.18"}]}
+{"ID": "rest26_aspect_va_test_263", "Aspect_VA": [{"Aspect": "pasta", "VA": "7.32#7.38"}]}
+{"ID": "rest26_aspect_va_test_264", "Aspect_VA": [{"Aspect": "breakfast", "VA": "3.95#5.36"}, {"Aspect": "bar", "VA": "7.43#7.44"}]}
+{"ID": "rest26_aspect_va_test_265", "Aspect_VA": [{"Aspect": "sushi place", "VA": "7.28#7.14"}]}
+{"ID": "rest26_aspect_va_test_266", "Aspect_VA": [{"Aspect": "HALAL meat approach", "VA": "6.15#6.06"}, {"Aspect": "menu", "VA": "6.18#5.82"}]}
+{"ID": "rest26_aspect_va_test_267", "Aspect_VA": [{"Aspect": "dinner pre-fix menu", "VA": "7.40#7.47"}]}
+{"ID": "rest26_aspect_va_test_268", "Aspect_VA": [{"Aspect": "lamb kebab", "VA": "5.50#5.45"}]}
+{"ID": "rest26_aspect_va_test_269", "Aspect_VA": [{"Aspect": "pizza", "VA": "7.30#7.46"}]}
+{"ID": "rest26_aspect_va_test_270", "Aspect_VA": [{"Aspect": "pepperloin meal", "VA": "7.44#7.51"}]}
+{"ID": "rest26_aspect_va_test_271", "Aspect_VA": [{"Aspect": "roast pork", "VA": "7.18#7.14"}]}
+{"ID": "rest26_aspect_va_test_272", "Aspect_VA": [{"Aspect": "pizza", "VA": "7.86#7.93"}]}
+{"ID": "rest26_aspect_va_test_273", "Aspect_VA": [{"Aspect": "food", "VA": "5.70#5.62"}]}
+{"ID": "rest26_aspect_va_test_274", "Aspect_VA": [{"Aspect": "Turtle soup", "VA": "4.51#5.68"}]}
+{"ID": "rest26_aspect_va_test_275", "Aspect_VA": [{"Aspect": "service", "VA": "7.05#7.06"}]}
+{"ID": "rest26_aspect_va_test_276", "Aspect_VA": [{"Aspect": "chi latte", "VA": "4.03#5.52"}]}
+{"ID": "rest26_aspect_va_test_277", "Aspect_VA": [{"Aspect": "Food", "VA": "5.95#6.72"}]}
+{"ID": "rest26_aspect_va_test_278", "Aspect_VA": [{"Aspect": "Order Up Delivery Svc", "VA": "7.42#7.43"}, {"Aspect": "in home dinner", "VA": "7.94#7.98"}]}
+{"ID": "rest26_aspect_va_test_279", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.52#7.53"}, {"Aspect": "places", "VA": "7.70#7.66"}]}
+{"ID": "rest26_aspect_va_test_280", "Aspect_VA": [{"Aspect": "breakfast food", "VA": "7.63#7.72"}, {"Aspect": "place", "VA": "6.56#7.34"}, {"Aspect": "coffee", "VA": "7.92#8.00"}]}
+{"ID": "rest26_aspect_va_test_281", "Aspect_VA": [{"Aspect": "staff", "VA": "7.50#7.64"}]}
+{"ID": "rest26_aspect_va_test_282", "Aspect_VA": [{"Aspect": "service", "VA": "5.06#5.71"}, {"Aspect": "place", "VA": "3.04#6.39"}]}
+{"ID": "rest26_aspect_va_test_283", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.90#7.96"}]}
+{"ID": "rest26_aspect_va_test_284", "Aspect_VA": [{"Aspect": "food", "VA": "6.93#7.01"}]}
+{"ID": "rest26_aspect_va_test_285", "Aspect_VA": [{"Aspect": "food", "VA": "4.03#5.36"}]}
+{"ID": "rest26_aspect_va_test_286", "Aspect_VA": [{"Aspect": "Awake Fizz Tea", "VA": "7.70#7.57"}, {"Aspect": "Pearl Tea", "VA": "6.32#6.12"}]}
+{"ID": "rest26_aspect_va_test_287", "Aspect_VA": [{"Aspect": "service", "VA": "2.89#6.54"}]}
+{"ID": "rest26_aspect_va_test_288", "Aspect_VA": [{"Aspect": "flavor combinations", "VA": "7.21#7.21"}]}
+{"ID": "rest26_aspect_va_test_289", "Aspect_VA": [{"Aspect": "dinner", "VA": "3.80#5.62"}]}
+{"ID": "rest26_aspect_va_test_290", "Aspect_VA": [{"Aspect": "food delivered", "VA": "4.16#5.41"}, {"Aspect": "Jimmy Johns", "VA": "4.48#5.29"}]}
+{"ID": "rest26_aspect_va_test_291", "Aspect_VA": [{"Aspect": "kitchens", "VA": "5.10#5.47"}, {"Aspect": "South Tucson", "VA": "5.56#5.68"}]}
+{"ID": "rest26_aspect_va_test_292", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.34#7.32"}, {"Aspect": "place", "VA": "7.38#7.56"}]}
+{"ID": "rest26_aspect_va_test_293", "Aspect_VA": [{"Aspect": "Sausage", "VA": "3.42#5.87"}, {"Aspect": "sandwich", "VA": "3.96#5.40"}]}
+{"ID": "rest26_aspect_va_test_294", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.54#7.61"}]}
+{"ID": "rest26_aspect_va_test_295", "Aspect_VA": [{"Aspect": "gem", "VA": "7.26#7.28"}]}
+{"ID": "rest26_aspect_va_test_296", "Aspect_VA": [{"Aspect": "coffee", "VA": "7.14#7.20"}]}
+{"ID": "rest26_aspect_va_test_297", "Aspect_VA": [{"Aspect": "Dinardo's", "VA": "5.13#5.78"}]}
+{"ID": "rest26_aspect_va_test_298", "Aspect_VA": [{"Aspect": "flavors", "VA": "6.91#6.90"}, {"Aspect": "burger", "VA": "6.92#7.03"}]}
+{"ID": "rest26_aspect_va_test_299", "Aspect_VA": [{"Aspect": "wine club", "VA": "3.97#5.20"}]}
+{"ID": "rest26_aspect_va_test_300", "Aspect_VA": [{"Aspect": "pork sliders", "VA": "7.04#7.03"}, {"Aspect": "beignets", "VA": "6.92#6.88"}]}
+{"ID": "rest26_aspect_va_test_301", "Aspect_VA": [{"Aspect": "Mexican restaurants", "VA": "6.72#6.76"}]}
+{"ID": "rest26_aspect_va_test_302", "Aspect_VA": [{"Aspect": "food", "VA": "3.88#5.65"}]}
+{"ID": "rest26_aspect_va_test_303", "Aspect_VA": [{"Aspect": "flavors", "VA": "7.75#7.80"}]}
+{"ID": "rest26_aspect_va_test_304", "Aspect_VA": [{"Aspect": "Pumpkin Seasonal Beer", "VA": "7.02#6.94"}]}
+{"ID": "rest26_aspect_va_test_305", "Aspect_VA": [{"Aspect": "tile fish", "VA": "5.96#5.84"}, {"Aspect": "shrimp dumplings", "VA": "6.63#6.56"}, {"Aspect": "game hen", "VA": "7.10#7.20"}]}
+{"ID": "rest26_aspect_va_test_306", "Aspect_VA": [{"Aspect": "Middle Eastern fine dinner", "VA": "5.44#5.74"}]}
+{"ID": "rest26_aspect_va_test_307", "Aspect_VA": [{"Aspect": "beer selection", "VA": "5.33#5.52"}]}
+{"ID": "rest26_aspect_va_test_308", "Aspect_VA": [{"Aspect": "coffee house", "VA": "6.45#6.58"}]}
+{"ID": "rest26_aspect_va_test_309", "Aspect_VA": [{"Aspect": "server", "VA": "3.14#6.38"}, {"Aspect": "conversation", "VA": "3.49#6.32"}]}
+{"ID": "rest26_aspect_va_test_310", "Aspect_VA": [{"Aspect": "customer service", "VA": "7.26#7.24"}]}
+{"ID": "rest26_aspect_va_test_311", "Aspect_VA": [{"Aspect": "BYO italian restaurant", "VA": "7.02#6.96"}]}
+{"ID": "rest26_aspect_va_test_312", "Aspect_VA": [{"Aspect": "meat", "VA": "6.72#6.66"}, {"Aspect": "BBQ sauce", "VA": "4.42#5.40"}]}
+{"ID": "rest26_aspect_va_test_313", "Aspect_VA": [{"Aspect": "drinks", "VA": "7.70#7.65"}, {"Aspect": "food", "VA": "4.97#5.31"}]}
+{"ID": "rest26_aspect_va_test_314", "Aspect_VA": [{"Aspect": "amount of food", "VA": "6.06#5.90"}]}
+{"ID": "rest26_aspect_va_test_315", "Aspect_VA": [{"Aspect": "pizza", "VA": "6.88#6.96"}]}
+{"ID": "rest26_aspect_va_test_316", "Aspect_VA": [{"Aspect": "food", "VA": "7.75#7.74"}]}
+{"ID": "rest26_aspect_va_test_317", "Aspect_VA": [{"Aspect": "salad", "VA": "7.98#8.04"}, {"Aspect": "root beer", "VA": "7.96#8.02"}, {"Aspect": "pizza", "VA": "7.96#8.02"}]}
+{"ID": "rest26_aspect_va_test_318", "Aspect_VA": [{"Aspect": "burger", "VA": "7.74#7.88"}]}
+{"ID": "rest26_aspect_va_test_319", "Aspect_VA": [{"Aspect": "Thiboudienne", "VA": "6.94#6.74"}]}
+{"ID": "rest26_aspect_va_test_320", "Aspect_VA": [{"Aspect": "shrimp po boy", "VA": "7.75#7.82"}]}
+{"ID": "rest26_aspect_va_test_321", "Aspect_VA": [{"Aspect": "food", "VA": "6.74#6.72"}]}
+{"ID": "rest26_aspect_va_test_322", "Aspect_VA": [{"Aspect": "food", "VA": "7.84#7.87"}]}
+{"ID": "rest26_aspect_va_test_323", "Aspect_VA": [{"Aspect": "Italian dishes", "VA": "7.28#7.24"}]}
+{"ID": "rest26_aspect_va_test_324", "Aspect_VA": [{"Aspect": "food", "VA": "7.44#7.60"}, {"Aspect": "place", "VA": "7.13#7.14"}, {"Aspect": "cheese", "VA": "8.06#8.12"}]}
+{"ID": "rest26_aspect_va_test_325", "Aspect_VA": [{"Aspect": "Greek places", "VA": "6.38#6.32"}]}
+{"ID": "rest26_aspect_va_test_326", "Aspect_VA": [{"Aspect": "sauce", "VA": "7.24#7.26"}, {"Aspect": "burger", "VA": "6.83#6.90"}, {"Aspect": "Patty", "VA": "6.04#6.16"}]}
+{"ID": "rest26_aspect_va_test_327", "Aspect_VA": [{"Aspect": "beans", "VA": "7.92#7.96"}]}
+{"ID": "rest26_aspect_va_test_328", "Aspect_VA": [{"Aspect": "line", "VA": "4.81#5.86"}, {"Aspect": "food", "VA": "7.31#7.48"}]}
+{"ID": "rest26_aspect_va_test_329", "Aspect_VA": [{"Aspect": "dish", "VA": "7.80#7.90"}]}
+{"ID": "rest26_aspect_va_test_330", "Aspect_VA": [{"Aspect": "Chicken Teriyaki Lunch Bento Box", "VA": "4.21#5.12"}]}
+{"ID": "rest26_aspect_va_test_331", "Aspect_VA": [{"Aspect": "meal", "VA": "7.64#7.52"}]}
+{"ID": "rest26_aspect_va_test_332", "Aspect_VA": [{"Aspect": "food", "VA": "3.60#5.96"}]}
+{"ID": "rest26_aspect_va_test_333", "Aspect_VA": [{"Aspect": "lunch specials", "VA": "6.88#7.02"}, {"Aspect": "food", "VA": "6.88#6.91"}]}
+{"ID": "rest26_aspect_va_test_334", "Aspect_VA": [{"Aspect": "food", "VA": "5.16#5.20"}, {"Aspect": "atmosphere", "VA": "6.54#6.30"}, {"Aspect": "drinks", "VA": "5.14#5.21"}, {"Aspect": "view", "VA": "6.46#6.35"}]}
+{"ID": "rest26_aspect_va_test_335", "Aspect_VA": [{"Aspect": "Service", "VA": "2.20#7.26"}]}
+{"ID": "rest26_aspect_va_test_336", "Aspect_VA": [{"Aspect": "fried dough ball dessert", "VA": "7.88#7.88"}, {"Aspect": "cauliflower salad", "VA": "7.16#7.16"}]}
+{"ID": "rest26_aspect_va_test_337", "Aspect_VA": [{"Aspect": "food", "VA": "6.62#6.64"}, {"Aspect": "line", "VA": "6.96#7.16"}]}
+{"ID": "rest26_aspect_va_test_338", "Aspect_VA": [{"Aspect": "ploughman's plate", "VA": "7.20#7.22"}, {"Aspect": "beer", "VA": "7.16#7.14"}]}
+{"ID": "rest26_aspect_va_test_339", "Aspect_VA": [{"Aspect": "plastic containers", "VA": "6.62#6.56"}]}
+{"ID": "rest26_aspect_va_test_340", "Aspect_VA": [{"Aspect": "menu", "VA": "6.75#6.74"}, {"Aspect": "burgers", "VA": "7.48#7.55"}]}
+{"ID": "rest26_aspect_va_test_341", "Aspect_VA": [{"Aspect": "food", "VA": "4.38#5.41"}]}
+{"ID": "rest26_aspect_va_test_342", "Aspect_VA": [{"Aspect": "juevos rancheros", "VA": "8.06#8.07"}]}
+{"ID": "rest26_aspect_va_test_343", "Aspect_VA": [{"Aspect": "place", "VA": "6.03#6.08"}, {"Aspect": "Drink specials", "VA": "7.56#7.57"}]}
+{"ID": "rest26_aspect_va_test_344", "Aspect_VA": [{"Aspect": "J Sushi", "VA": "8.00#8.04"}, {"Aspect": "Fire Roll", "VA": "8.02#8.06"}]}
+{"ID": "rest26_aspect_va_test_345", "Aspect_VA": [{"Aspect": "boba", "VA": "7.96#7.98"}, {"Aspect": "fruits", "VA": "7.49#7.54"}, {"Aspect": "flavor", "VA": "7.44#7.44"}]}
+{"ID": "rest26_aspect_va_test_346", "Aspect_VA": [{"Aspect": "dishes", "VA": "5.00#5.35"}]}
+{"ID": "rest26_aspect_va_test_347", "Aspect_VA": [{"Aspect": "restaurant", "VA": "4.93#7.84"}]}
+{"ID": "rest26_aspect_va_test_348", "Aspect_VA": [{"Aspect": "waiter", "VA": "4.05#5.49"}]}
+{"ID": "rest26_aspect_va_test_349", "Aspect_VA": [{"Aspect": "beer/conversation", "VA": "7.54#7.46"}]}
+{"ID": "rest26_aspect_va_test_350", "Aspect_VA": [{"Aspect": "sushi restaurants", "VA": "3.38#6.04"}]}
+{"ID": "rest26_aspect_va_test_351", "Aspect_VA": [{"Aspect": "food", "VA": "7.56#7.60"}]}
+{"ID": "rest26_aspect_va_test_352", "Aspect_VA": [{"Aspect": "sushi & hibachi", "VA": "7.78#7.84"}, {"Aspect": "place", "VA": "7.80#7.90"}]}
+{"ID": "rest26_aspect_va_test_353", "Aspect_VA": [{"Aspect": "walk up service", "VA": "4.13#5.64"}]}
+{"ID": "rest26_aspect_va_test_354", "Aspect_VA": [{"Aspect": "meal", "VA": "7.82#7.83"}]}
+{"ID": "rest26_aspect_va_test_355", "Aspect_VA": [{"Aspect": "Veal Milanese", "VA": "6.55#6.42"}, {"Aspect": "mixed greens", "VA": "5.94#5.94"}, {"Aspect": "pasta", "VA": "5.58#5.74"}]}
+{"ID": "rest26_aspect_va_test_356", "Aspect_VA": [{"Aspect": "store", "VA": "7.68#7.70"}]}
+{"ID": "rest26_aspect_va_test_357", "Aspect_VA": [{"Aspect": "Bottomless coffee", "VA": "6.60#6.50"}]}
+{"ID": "rest26_aspect_va_test_358", "Aspect_VA": [{"Aspect": "sushi", "VA": "6.52#6.52"}, {"Aspect": "portions", "VA": "4.66#5.46"}]}
+{"ID": "rest26_aspect_va_test_359", "Aspect_VA": [{"Aspect": "restaurant", "VA": "6.30#6.16"}]}
+{"ID": "rest26_aspect_va_test_360", "Aspect_VA": [{"Aspect": "Father's Day lunch", "VA": "8.05#8.10"}]}
+{"ID": "rest26_aspect_va_test_361", "Aspect_VA": [{"Aspect": "smoked fish dip", "VA": "8.07#8.08"}, {"Aspect": "escolar with prawns", "VA": "8.14#8.09"}]}
+{"ID": "rest26_aspect_va_test_362", "Aspect_VA": [{"Aspect": "coffee or tea", "VA": "5.79#5.80"}]}
+{"ID": "rest26_aspect_va_test_363", "Aspect_VA": [{"Aspect": "burger", "VA": "7.25#7.36"}]}
+{"ID": "rest26_aspect_va_test_364", "Aspect_VA": [{"Aspect": "white pizza with onions", "VA": "7.06#7.08"}]}
+{"ID": "rest26_aspect_va_test_365", "Aspect_VA": [{"Aspect": "waffle", "VA": "7.88#7.94"}]}
+{"ID": "rest26_aspect_va_test_366", "Aspect_VA": [{"Aspect": "summer beer", "VA": "3.78#5.50"}]}
+{"ID": "rest26_aspect_va_test_367", "Aspect_VA": [{"Aspect": "meal", "VA": "7.52#7.58"}]}
+{"ID": "rest26_aspect_va_test_368", "Aspect_VA": [{"Aspect": "Chinese restaurant", "VA": "7.60#7.68"}]}
+{"ID": "rest26_aspect_va_test_369", "Aspect_VA": [{"Aspect": "smoked tuna tartar", "VA": "7.46#7.50"}]}
+{"ID": "rest26_aspect_va_test_370", "Aspect_VA": [{"Aspect": "waitress", "VA": "4.26#5.48"}, {"Aspect": "kitchen", "VA": "3.80#6.06"}]}
+{"ID": "rest26_aspect_va_test_371", "Aspect_VA": [{"Aspect": "pizza", "VA": "2.22#7.23"}]}
+{"ID": "rest26_aspect_va_test_372", "Aspect_VA": [{"Aspect": "dogs", "VA": "7.65#7.72"}]}
+{"ID": "rest26_aspect_va_test_373", "Aspect_VA": [{"Aspect": "coffee shop", "VA": "7.76#7.82"}]}
+{"ID": "rest26_aspect_va_test_374", "Aspect_VA": [{"Aspect": "mom and pop feel", "VA": "7.36#7.44"}]}
+{"ID": "rest26_aspect_va_test_375", "Aspect_VA": [{"Aspect": "food", "VA": "3.13#6.32"}]}
+{"ID": "rest26_aspect_va_test_376", "Aspect_VA": [{"Aspect": "bacon", "VA": "6.90#6.96"}, {"Aspect": "vegetables", "VA": "7.36#7.43"}, {"Aspect": "BLT", "VA": "7.40#7.46"}]}
+{"ID": "rest26_aspect_va_test_377", "Aspect_VA": [{"Aspect": "Peanut butter pizza cookie", "VA": "8.16#8.11"}, {"Aspect": "Oreo cookies", "VA": "8.18#8.14"}]}
+{"ID": "rest26_aspect_va_test_378", "Aspect_VA": [{"Aspect": "customer service", "VA": "4.28#5.24"}]}
+{"ID": "rest26_aspect_va_test_379", "Aspect_VA": [{"Aspect": "restaurant patrons", "VA": "4.97#5.39"}, {"Aspect": "Yelper", "VA": "4.70#5.36"}]}
+{"ID": "rest26_aspect_va_test_380", "Aspect_VA": [{"Aspect": "service", "VA": "5.68#5.57"}]}
+{"ID": "rest26_aspect_va_test_381", "Aspect_VA": [{"Aspect": "Caribbean food", "VA": "7.81#7.89"}]}
+{"ID": "rest26_aspect_va_test_382", "Aspect_VA": [{"Aspect": "iced coffee", "VA": "7.27#7.38"}]}
+{"ID": "rest26_aspect_va_test_383", "Aspect_VA": [{"Aspect": "peppers", "VA": "7.60#7.58"}, {"Aspect": "Soave", "VA": "7.70#7.68"}]}
+{"ID": "rest26_aspect_va_test_384", "Aspect_VA": [{"Aspect": "Dessert", "VA": "7.26#7.23"}, {"Aspect": "walnut brownie", "VA": "7.50#7.40"}]}
+{"ID": "rest26_aspect_va_test_385", "Aspect_VA": [{"Aspect": "Pulled pork", "VA": "7.15#7.23"}]}
+{"ID": "rest26_aspect_va_test_386", "Aspect_VA": [{"Aspect": "caesar salad", "VA": "5.68#5.56"}, {"Aspect": "tagliatelli with mushroom cream sauce", "VA": "5.96#5.64"}, {"Aspect": "tortellini pasticiatti", "VA": "6.16#6.16"}]}
+{"ID": "rest26_aspect_va_test_387", "Aspect_VA": [{"Aspect": "noodle", "VA": "7.58#7.65"}, {"Aspect": "amount of peanut", "VA": "6.88#6.89"}]}
+{"ID": "rest26_aspect_va_test_388", "Aspect_VA": [{"Aspect": "customer service", "VA": "7.82#7.85"}]}
+{"ID": "rest26_aspect_va_test_389", "Aspect_VA": [{"Aspect": "seasonal items", "VA": "5.68#5.62"}, {"Aspect": "South Cider", "VA": "5.50#5.46"}, {"Aspect": "Shelby Blue Ribbon", "VA": "5.46#5.41"}]}
+{"ID": "rest26_aspect_va_test_390", "Aspect_VA": [{"Aspect": "brunch", "VA": "2.48#7.12"}]}
+{"ID": "rest26_aspect_va_test_391", "Aspect_VA": [{"Aspect": "service", "VA": "6.93#6.86"}]}
+{"ID": "rest26_aspect_va_test_392", "Aspect_VA": [{"Aspect": "dumplings", "VA": "6.07#5.82"}]}
+{"ID": "rest26_aspect_va_test_393", "Aspect_VA": [{"Aspect": "menu", "VA": "3.99#5.54"}]}
+{"ID": "rest26_aspect_va_test_394", "Aspect_VA": [{"Aspect": "hibachi", "VA": "8.00#8.04"}, {"Aspect": "sushi", "VA": "8.07#8.09"}]}
+{"ID": "rest26_aspect_va_test_395", "Aspect_VA": [{"Aspect": "food selection", "VA": "4.42#6.51"}]}
+{"ID": "rest26_aspect_va_test_396", "Aspect_VA": [{"Aspect": "food", "VA": "4.88#5.25"}]}
+{"ID": "rest26_aspect_va_test_397", "Aspect_VA": [{"Aspect": "martini", "VA": "7.85#7.88"}, {"Aspect": "food", "VA": "7.96#7.94"}]}
+{"ID": "rest26_aspect_va_test_398", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.56#7.59"}]}
+{"ID": "rest26_aspect_va_test_399", "Aspect_VA": [{"Aspect": "New Orleans BBQ shrimp", "VA": "7.12#7.18"}, {"Aspect": "pomme frites", "VA": "7.51#7.56"}]}
+{"ID": "rest26_aspect_va_test_400", "Aspect_VA": [{"Aspect": "HipCity", "VA": "4.26#5.52"}]}
+{"ID": "rest26_aspect_va_test_401", "Aspect_VA": [{"Aspect": "Waiter", "VA": "2.30#7.46"}]}
+{"ID": "rest26_aspect_va_test_402", "Aspect_VA": [{"Aspect": "cappuccinos", "VA": "7.42#7.46"}, {"Aspect": "lattes", "VA": "7.44#7.49"}, {"Aspect": "latte art", "VA": "7.58#7.66"}]}
+{"ID": "rest26_aspect_va_test_403", "Aspect_VA": [{"Aspect": "bacon", "VA": "7.58#7.60"}]}
+{"ID": "rest26_aspect_va_test_404", "Aspect_VA": [{"Aspect": "food", "VA": "7.96#8.02"}, {"Aspect": "complex delivery", "VA": "7.92#7.98"}]}
+{"ID": "rest26_aspect_va_test_405", "Aspect_VA": [{"Aspect": "interior", "VA": "7.96#7.98"}, {"Aspect": "patio", "VA": "8.00#8.02"}]}
+{"ID": "rest26_aspect_va_test_406", "Aspect_VA": [{"Aspect": "staff", "VA": "7.60#7.72"}, {"Aspect": "food", "VA": "7.80#7.82"}, {"Aspect": "drinks", "VA": "7.66#7.66"}]}
+{"ID": "rest26_aspect_va_test_407", "Aspect_VA": [{"Aspect": "burgers", "VA": "5.89#5.84"}, {"Aspect": "shake", "VA": "5.52#5.56"}, {"Aspect": "sides", "VA": "5.26#5.45"}]}
+{"ID": "rest26_aspect_va_test_408", "Aspect_VA": [{"Aspect": "ingredients", "VA": "7.08#7.09"}, {"Aspect": "menu", "VA": "6.94#6.98"}, {"Aspect": "sandwich", "VA": "5.62#6.15"}]}
+{"ID": "rest26_aspect_va_test_409", "Aspect_VA": [{"Aspect": "food", "VA": "7.38#7.46"}, {"Aspect": "Servers", "VA": "7.01#6.96"}]}
+{"ID": "rest26_aspect_va_test_410", "Aspect_VA": [{"Aspect": "Chinese food", "VA": "7.82#7.90"}]}
+{"ID": "rest26_aspect_va_test_411", "Aspect_VA": [{"Aspect": "brunch", "VA": "7.06#7.12"}]}
+{"ID": "rest26_aspect_va_test_412", "Aspect_VA": [{"Aspect": "chicken cutlet", "VA": "6.20#6.27"}]}
+{"ID": "rest26_aspect_va_test_413", "Aspect_VA": [{"Aspect": "menu", "VA": "6.40#6.45"}, {"Aspect": "presentation", "VA": "7.66#7.66"}, {"Aspect": "food", "VA": "7.46#7.44"}]}
+{"ID": "rest26_aspect_va_test_414", "Aspect_VA": [{"Aspect": "Mojito", "VA": "7.72#7.70"}, {"Aspect": "guacamole", "VA": "7.72#7.72"}]}
+{"ID": "rest26_aspect_va_test_415", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.23#7.28"}]}
+{"ID": "rest26_aspect_va_test_416", "Aspect_VA": [{"Aspect": "website", "VA": "3.56#6.00"}]}
+{"ID": "rest26_aspect_va_test_417", "Aspect_VA": [{"Aspect": "menu", "VA": "7.13#7.18"}]}
+{"ID": "rest26_aspect_va_test_418", "Aspect_VA": [{"Aspect": "restaurant", "VA": "4.27#5.84"}, {"Aspect": "food", "VA": "3.72#5.68"}]}
+{"ID": "rest26_aspect_va_test_419", "Aspect_VA": [{"Aspect": "pizza", "VA": "7.84#7.98"}, {"Aspect": "place", "VA": "7.57#7.76"}]}
+{"ID": "rest26_aspect_va_test_420", "Aspect_VA": [{"Aspect": "Indian food", "VA": "6.42#6.42"}]}
+{"ID": "rest26_aspect_va_test_421", "Aspect_VA": [{"Aspect": "choices", "VA": "7.48#7.47"}]}
+{"ID": "rest26_aspect_va_test_422", "Aspect_VA": [{"Aspect": "dinner", "VA": "6.86#6.82"}]}
+{"ID": "rest26_aspect_va_test_423", "Aspect_VA": [{"Aspect": "Taste of Havana", "VA": "7.34#7.30"}, {"Aspect": "traditional Cuban sandwich", "VA": "7.36#7.40"}]}
+{"ID": "rest26_aspect_va_test_424", "Aspect_VA": [{"Aspect": "restaurant", "VA": "6.69#6.85"}]}
+{"ID": "rest26_aspect_va_test_425", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.10#7.00"}]}
+{"ID": "rest26_aspect_va_test_426", "Aspect_VA": [{"Aspect": "cheese", "VA": "6.60#6.51"}, {"Aspect": "toppings", "VA": "4.58#5.24"}]}
+{"ID": "rest26_aspect_va_test_427", "Aspect_VA": [{"Aspect": "Veracruz sauce", "VA": "7.80#7.86"}]}
+{"ID": "rest26_aspect_va_test_428", "Aspect_VA": [{"Aspect": "service", "VA": "7.58#7.56"}]}
+{"ID": "rest26_aspect_va_test_429", "Aspect_VA": [{"Aspect": "Mexican food", "VA": "7.68#7.72"}, {"Aspect": "BYOB", "VA": "7.47#7.59"}]}
+{"ID": "rest26_aspect_va_test_430", "Aspect_VA": [{"Aspect": "fried chicken", "VA": "7.04#7.13"}, {"Aspect": "Curry soup", "VA": "7.10#7.10"}]}
+{"ID": "rest26_aspect_va_test_431", "Aspect_VA": [{"Aspect": "plates of food", "VA": "7.89#7.94"}]}
+{"ID": "rest26_aspect_va_test_432", "Aspect_VA": [{"Aspect": "burger", "VA": "4.14#5.37"}]}
+{"ID": "rest26_aspect_va_test_433", "Aspect_VA": [{"Aspect": "sandwiches", "VA": "7.45#7.48"}, {"Aspect": "breakfast meals", "VA": "7.44#7.47"}]}
+{"ID": "rest26_aspect_va_test_434", "Aspect_VA": [{"Aspect": "Indian food", "VA": "7.32#7.44"}]}
+{"ID": "rest26_aspect_va_test_435", "Aspect_VA": [{"Aspect": "cheese bomb", "VA": "6.45#6.62"}]}
+{"ID": "rest26_aspect_va_test_436", "Aspect_VA": [{"Aspect": "food", "VA": "5.15#5.14"}]}
+{"ID": "rest26_aspect_va_test_437", "Aspect_VA": [{"Aspect": "dinner spots", "VA": "7.32#7.33"}]}
+{"ID": "rest26_aspect_va_test_438", "Aspect_VA": [{"Aspect": "service", "VA": "3.92#5.54"}]}
+{"ID": "rest26_aspect_va_test_439", "Aspect_VA": [{"Aspect": "fish", "VA": "7.62#7.60"}, {"Aspect": "chef", "VA": "4.69#5.72"}]}
+{"ID": "rest26_aspect_va_test_440", "Aspect_VA": [{"Aspect": "scallops", "VA": "7.07#7.10"}]}
+{"ID": "rest26_aspect_va_test_441", "Aspect_VA": [{"Aspect": "pesto sauce", "VA": "7.88#7.98"}, {"Aspect": "pasta", "VA": "7.46#7.52"}]}
+{"ID": "rest26_aspect_va_test_442", "Aspect_VA": [{"Aspect": "service", "VA": "7.30#7.28"}, {"Aspect": "food", "VA": "7.26#7.23"}]}
+{"ID": "rest26_aspect_va_test_443", "Aspect_VA": [{"Aspect": "pizza place", "VA": "3.07#7.40"}]}
+{"ID": "rest26_aspect_va_test_444", "Aspect_VA": [{"Aspect": "house salad", "VA": "7.85#7.79"}, {"Aspect": "Chicken Parm", "VA": "7.80#7.74"}, {"Aspect": "Eggplant Parm", "VA": "7.78#7.70"}, {"Aspect": "pizza", "VA": "7.70#7.86"}]}
+{"ID": "rest26_aspect_va_test_445", "Aspect_VA": [{"Aspect": "meal", "VA": "7.82#7.86"}]}
+{"ID": "rest26_aspect_va_test_446", "Aspect_VA": [{"Aspect": "beer selection", "VA": "6.92#6.96"}, {"Aspect": "staff/bartenders", "VA": "7.36#7.44"}]}
+{"ID": "rest26_aspect_va_test_447", "Aspect_VA": [{"Aspect": "group dining experiences", "VA": "2.40#6.88"}]}
+{"ID": "rest26_aspect_va_test_448", "Aspect_VA": [{"Aspect": "menu", "VA": "7.25#7.33"}, {"Aspect": "beverages", "VA": "7.72#7.70"}]}
+{"ID": "rest26_aspect_va_test_449", "Aspect_VA": [{"Aspect": "Luke Burger", "VA": "7.93#8.02"}]}
+{"ID": "rest26_aspect_va_test_450", "Aspect_VA": [{"Aspect": "food", "VA": "7.24#7.38"}, {"Aspect": "tummies", "VA": "7.48#7.54"}]}
+{"ID": "rest26_aspect_va_test_451", "Aspect_VA": [{"Aspect": "bartender", "VA": "7.57#7.71"}, {"Aspect": "beer", "VA": "7.47#7.56"}]}
+{"ID": "rest26_aspect_va_test_452", "Aspect_VA": [{"Aspect": "employee", "VA": "3.90#5.62"}]}
+{"ID": "rest26_aspect_va_test_453", "Aspect_VA": [{"Aspect": "food", "VA": "7.42#7.40"}]}
+{"ID": "rest26_aspect_va_test_454", "Aspect_VA": [{"Aspect": "food", "VA": "7.30#7.39"}]}
+{"ID": "rest26_aspect_va_test_455", "Aspect_VA": [{"Aspect": "express lunch", "VA": "6.88#6.91"}]}
+{"ID": "rest26_aspect_va_test_456", "Aspect_VA": [{"Aspect": "fried platters", "VA": "7.63#7.76"}]}
+{"ID": "rest26_aspect_va_test_457", "Aspect_VA": [{"Aspect": "this place", "VA": "5.43#6.32"}, {"Aspect": "El Pollo Loco", "VA": "6.74#6.60"}]}
+{"ID": "rest26_aspect_va_test_458", "Aspect_VA": [{"Aspect": "cafe", "VA": "6.27#6.42"}]}
+{"ID": "rest26_aspect_va_test_459", "Aspect_VA": [{"Aspect": "service", "VA": "7.64#7.72"}, {"Aspect": "storage experiemce", "VA": "7.64#7.69"}]}
+{"ID": "rest26_aspect_va_test_460", "Aspect_VA": [{"Aspect": "food", "VA": "4.01#5.86"}, {"Aspect": "staff", "VA": "7.40#7.44"}]}
+{"ID": "rest26_aspect_va_test_461", "Aspect_VA": [{"Aspect": "menu", "VA": "7.18#7.18"}, {"Aspect": "ingredients", "VA": "7.40#7.32"}]}
+{"ID": "rest26_aspect_va_test_462", "Aspect_VA": [{"Aspect": "place", "VA": "7.42#7.48"}, {"Aspect": "food", "VA": "7.39#7.44"}]}
+{"ID": "rest26_aspect_va_test_463", "Aspect_VA": [{"Aspect": "dish", "VA": "7.88#7.96"}, {"Aspect": "noodles", "VA": "7.48#7.48"}]}
+{"ID": "rest26_aspect_va_test_464", "Aspect_VA": [{"Aspect": "Be My Bison burger", "VA": "4.85#5.08"}]}
+{"ID": "rest26_aspect_va_test_465", "Aspect_VA": [{"Aspect": "dim sum", "VA": "7.75#7.81"}]}
+{"ID": "rest26_aspect_va_test_466", "Aspect_VA": [{"Aspect": "beer", "VA": "4.89#5.54"}, {"Aspect": "pizza", "VA": "4.28#5.22"}]}
+{"ID": "rest26_aspect_va_test_467", "Aspect_VA": [{"Aspect": "kids meal", "VA": "2.70#6.77"}]}
+{"ID": "rest26_aspect_va_test_468", "Aspect_VA": [{"Aspect": "atmosphere", "VA": "7.76#7.84"}, {"Aspect": "food", "VA": "8.10#8.12"}, {"Aspect": "hostess", "VA": "7.62#7.80"}]}
+{"ID": "rest26_aspect_va_test_469", "Aspect_VA": [{"Aspect": "food", "VA": "7.38#7.36"}]}
+{"ID": "rest26_aspect_va_test_470", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.50#7.48"}]}
+{"ID": "rest26_aspect_va_test_471", "Aspect_VA": [{"Aspect": "breakfast", "VA": "7.38#7.34"}, {"Aspect": "place", "VA": "7.52#7.57"}, {"Aspect": "seat", "VA": "7.56#7.62"}, {"Aspect": "bagel", "VA": "7.48#7.55"}]}
+{"ID": "rest26_aspect_va_test_472", "Aspect_VA": [{"Aspect": "pizza", "VA": "7.28#7.36"}]}
+{"ID": "rest26_aspect_va_test_473", "Aspect_VA": [{"Aspect": "$8 bucks", "VA": "3.67#5.84"}, {"Aspect": "roll", "VA": "2.96#6.36"}]}
+{"ID": "rest26_aspect_va_test_474", "Aspect_VA": [{"Aspect": "menu", "VA": "7.14#6.96"}]}
+{"ID": "rest26_aspect_va_test_475", "Aspect_VA": [{"Aspect": "food menu", "VA": "5.00#5.50"}, {"Aspect": "selection", "VA": "4.08#5.58"}]}
+{"ID": "rest26_aspect_va_test_476", "Aspect_VA": [{"Aspect": "employee", "VA": "3.58#6.10"}, {"Aspect": "fliers", "VA": "3.52#6.02"}]}
+{"ID": "rest26_aspect_va_test_477", "Aspect_VA": [{"Aspect": "sandwich", "VA": "6.76#6.56"}, {"Aspect": "restaurant", "VA": "7.11#7.21"}]}
+{"ID": "rest26_aspect_va_test_478", "Aspect_VA": [{"Aspect": "Leigh Anne", "VA": "5.70#6.02"}, {"Aspect": "Delicious Designs", "VA": "4.81#5.46"}]}
+{"ID": "rest26_aspect_va_test_479", "Aspect_VA": [{"Aspect": "soups", "VA": "6.76#6.55"}, {"Aspect": "sandwiches", "VA": "6.74#6.56"}, {"Aspect": "menu", "VA": "5.46#5.62"}, {"Aspect": "salads", "VA": "6.80#6.58"}]}
+{"ID": "rest26_aspect_va_test_480", "Aspect_VA": [{"Aspect": "menu", "VA": "4.99#5.38"}]}
+{"ID": "rest26_aspect_va_test_481", "Aspect_VA": [{"Aspect": "arugula", "VA": "7.06#7.13"}, {"Aspect": "burgers", "VA": "7.23#7.26"}]}
+{"ID": "rest26_aspect_va_test_482", "Aspect_VA": [{"Aspect": "onions", "VA": "7.32#7.40"}]}
+{"ID": "rest26_aspect_va_test_483", "Aspect_VA": [{"Aspect": "waiter", "VA": "3.20#6.17"}]}
+{"ID": "rest26_aspect_va_test_484", "Aspect_VA": [{"Aspect": "service", "VA": "7.18#7.16"}]}
+{"ID": "rest26_aspect_va_test_485", "Aspect_VA": [{"Aspect": "place", "VA": "6.48#6.30"}, {"Aspect": "service", "VA": "7.32#7.32"}]}
+{"ID": "rest26_aspect_va_test_486", "Aspect_VA": [{"Aspect": "middle eastern restaurant", "VA": "7.73#7.80"}]}
+{"ID": "rest26_aspect_va_test_487", "Aspect_VA": [{"Aspect": "bartender ( s )", "VA": "8.06#8.10"}, {"Aspect": "restaurant", "VA": "7.72#7.79"}]}
+{"ID": "rest26_aspect_va_test_488", "Aspect_VA": [{"Aspect": "Restaurant", "VA": "4.40#5.34"}]}
+{"ID": "rest26_aspect_va_test_489", "Aspect_VA": [{"Aspect": "breakfast petito", "VA": "7.10#7.12"}, {"Aspect": "Animo MD juice", "VA": "7.23#7.36"}]}
+{"ID": "rest26_aspect_va_test_490", "Aspect_VA": [{"Aspect": "food", "VA": "7.98#7.94"}]}
+{"ID": "rest26_aspect_va_test_491", "Aspect_VA": [{"Aspect": "food", "VA": "2.84#6.47"}, {"Aspect": "Corp office", "VA": "4.14#5.37"}]}
+{"ID": "rest26_aspect_va_test_492", "Aspect_VA": [{"Aspect": "dessert", "VA": "6.99#6.86"}]}
+{"ID": "rest26_aspect_va_test_493", "Aspect_VA": [{"Aspect": "Everything", "VA": "7.36#7.36"}]}
+{"ID": "rest26_aspect_va_test_494", "Aspect_VA": [{"Aspect": "surrounding", "VA": "7.70#7.76"}]}
+{"ID": "rest26_aspect_va_test_495", "Aspect_VA": [{"Aspect": "breakfast buffet", "VA": "7.62#7.72"}]}
+{"ID": "rest26_aspect_va_test_496", "Aspect_VA": [{"Aspect": "lunch spot", "VA": "7.48#7.57"}]}
+{"ID": "rest26_aspect_va_test_497", "Aspect_VA": [{"Aspect": "food", "VA": "7.78#7.80"}]}
+{"ID": "rest26_aspect_va_test_498", "Aspect_VA": [{"Aspect": "food", "VA": "7.68#7.74"}, {"Aspect": "lines", "VA": "4.45#6.02"}]}
+{"ID": "rest26_aspect_va_test_499", "Aspect_VA": [{"Aspect": "owner", "VA": "6.78#6.91"}]}
+{"ID": "rest26_aspect_va_test_500", "Aspect_VA": [{"Aspect": "burger showdown", "VA": "5.91#5.95"}]}
+{"ID": "rest26_aspect_va_test_501", "Aspect_VA": [{"Aspect": "2 rolls for lunch", "VA": "3.74#5.84"}, {"Aspect": "portions", "VA": "6.80#6.72"}]}
+{"ID": "rest26_aspect_va_test_502", "Aspect_VA": [{"Aspect": "staff", "VA": "7.56#7.68"}, {"Aspect": "food", "VA": "7.32#7.35"}]}
+{"ID": "rest26_aspect_va_test_503", "Aspect_VA": [{"Aspect": "employees", "VA": "7.05#7.20"}, {"Aspect": "local place", "VA": "7.32#7.38"}]}
+{"ID": "rest26_aspect_va_test_504", "Aspect_VA": [{"Aspect": "Four Cheese Mac & Cheese side", "VA": "5.72#5.55"}]}
+{"ID": "rest26_aspect_va_test_505", "Aspect_VA": [{"Aspect": "cheese", "VA": "7.63#7.64"}, {"Aspect": "drink list", "VA": "7.46#7.50"}, {"Aspect": "place", "VA": "7.44#7.41"}, {"Aspect": "beer", "VA": "7.17#7.12"}]}
+{"ID": "rest26_aspect_va_test_506", "Aspect_VA": [{"Aspect": "waitress", "VA": "3.32#6.24"}, {"Aspect": "olives", "VA": "4.66#5.74"}]}
+{"ID": "rest26_aspect_va_test_507", "Aspect_VA": [{"Aspect": "service", "VA": "7.25#7.30"}, {"Aspect": "place", "VA": "7.38#7.32"}]}
+{"ID": "rest26_aspect_va_test_508", "Aspect_VA": [{"Aspect": "bacon-wrapped dates", "VA": "3.90#5.44"}, {"Aspect": "brussel sprouts", "VA": "3.87#5.46"}]}
+{"ID": "rest26_aspect_va_test_509", "Aspect_VA": [{"Aspect": "wait", "VA": "4.20#5.70"}]}
+{"ID": "rest26_aspect_va_test_510", "Aspect_VA": [{"Aspect": "owner", "VA": "7.35#7.42"}]}
+{"ID": "rest26_aspect_va_test_511", "Aspect_VA": [{"Aspect": "customer service", "VA": "3.55#6.48"}, {"Aspect": "management", "VA": "5.34#7.22"}]}
+{"ID": "rest26_aspect_va_test_512", "Aspect_VA": [{"Aspect": "amount of sauce", "VA": "3.92#6.24"}, {"Aspect": "calamari", "VA": "4.19#5.52"}]}
+{"ID": "rest26_aspect_va_test_513", "Aspect_VA": [{"Aspect": "meal", "VA": "7.36#7.43"}]}
+{"ID": "rest26_aspect_va_test_514", "Aspect_VA": [{"Aspect": "burger joint", "VA": "6.20#6.06"}]}
+{"ID": "rest26_aspect_va_test_515", "Aspect_VA": [{"Aspect": "Jake's", "VA": "5.10#5.74"}, {"Aspect": "McDonalds fries", "VA": "7.03#7.01"}]}
+{"ID": "rest26_aspect_va_test_516", "Aspect_VA": [{"Aspect": "store", "VA": "7.40#7.44"}, {"Aspect": "service", "VA": "5.07#5.93"}]}
+{"ID": "rest26_aspect_va_test_517", "Aspect_VA": [{"Aspect": "drinks", "VA": "6.44#6.49"}, {"Aspect": "service", "VA": "7.13#7.22"}]}
+{"ID": "rest26_aspect_va_test_518", "Aspect_VA": [{"Aspect": "food", "VA": "3.88#5.44"}]}
+{"ID": "rest26_aspect_va_test_519", "Aspect_VA": [{"Aspect": "waiter", "VA": "3.16#6.17"}, {"Aspect": "experience", "VA": "2.79#6.60"}]}
+{"ID": "rest26_aspect_va_test_520", "Aspect_VA": [{"Aspect": "meat", "VA": "5.50#6.01"}]}
+{"ID": "rest26_aspect_va_test_521", "Aspect_VA": [{"Aspect": "burger", "VA": "7.36#7.47"}, {"Aspect": "place", "VA": "7.38#7.47"}]}
+{"ID": "rest26_aspect_va_test_522", "Aspect_VA": [{"Aspect": "food", "VA": "5.07#5.06"}]}
+{"ID": "rest26_aspect_va_test_523", "Aspect_VA": [{"Aspect": "drink", "VA": "5.46#5.90"}, {"Aspect": "adult beverages", "VA": "5.55#5.79"}]}
+{"ID": "rest26_aspect_va_test_524", "Aspect_VA": [{"Aspect": "street tacos", "VA": "8.01#8.06"}]}
+{"ID": "rest26_aspect_va_test_525", "Aspect_VA": [{"Aspect": "food", "VA": "7.30#7.40"}]}
+{"ID": "rest26_aspect_va_test_526", "Aspect_VA": [{"Aspect": "Nite owl burger", "VA": "8.12#8.14"}, {"Aspect": "fried pickles", "VA": "7.59#7.63"}, {"Aspect": "bottle caps", "VA": "7.57#7.62"}]}
+{"ID": "rest26_aspect_va_test_527", "Aspect_VA": [{"Aspect": "food quality and quantity", "VA": "7.66#7.63"}]}
+{"ID": "rest26_aspect_va_test_528", "Aspect_VA": [{"Aspect": "chicken & waffles", "VA": "7.46#7.34"}, {"Aspect": "service", "VA": "7.20#7.10"}]}
+{"ID": "rest26_aspect_va_test_529", "Aspect_VA": [{"Aspect": "dessert", "VA": "4.92#5.90"}, {"Aspect": "meal", "VA": "3.99#5.42"}]}
+{"ID": "rest26_aspect_va_test_530", "Aspect_VA": [{"Aspect": "bbq sauce", "VA": "6.49#6.38"}]}
+{"ID": "rest26_aspect_va_test_531", "Aspect_VA": [{"Aspect": "cookies", "VA": "4.38#5.26"}, {"Aspect": "dessert", "VA": "4.55#5.11"}]}
+{"ID": "rest26_aspect_va_test_532", "Aspect_VA": [{"Aspect": "veggie burger", "VA": "7.82#7.86"}]}
+{"ID": "rest26_aspect_va_test_533", "Aspect_VA": [{"Aspect": "owner", "VA": "7.00#6.99"}, {"Aspect": "food", "VA": "7.90#7.96"}]}
+{"ID": "rest26_aspect_va_test_534", "Aspect_VA": [{"Aspect": "bread pudding", "VA": "7.43#7.50"}, {"Aspect": "meal", "VA": "7.63#7.71"}]}
+{"ID": "rest26_aspect_va_test_535", "Aspect_VA": [{"Aspect": "tacos", "VA": "4.99#5.26"}, {"Aspect": "fajita plate", "VA": "4.64#5.42"}, {"Aspect": "camarones del diablo", "VA": "5.18#5.86"}]}
+{"ID": "rest26_aspect_va_test_536", "Aspect_VA": [{"Aspect": "beer", "VA": "7.26#7.12"}]}
+{"ID": "rest26_aspect_va_test_537", "Aspect_VA": [{"Aspect": "big easy breakfast", "VA": "6.02#5.87"}]}
+{"ID": "rest26_aspect_va_test_538", "Aspect_VA": [{"Aspect": "Taro snow", "VA": "7.58#7.58"}]}
+{"ID": "rest26_aspect_va_test_539", "Aspect_VA": [{"Aspect": "menus", "VA": "6.22#6.20"}, {"Aspect": "service", "VA": "7.30#7.36"}]}
+{"ID": "rest26_aspect_va_test_540", "Aspect_VA": [{"Aspect": "wine list", "VA": "7.49#7.46"}, {"Aspect": "night out", "VA": "7.48#7.54"}]}
+{"ID": "rest26_aspect_va_test_541", "Aspect_VA": [{"Aspect": "lunch or dinner stop", "VA": "7.46#7.50"}]}
+{"ID": "rest26_aspect_va_test_542", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.84#7.84"}, {"Aspect": "ambience", "VA": "7.24#7.31"}]}
+{"ID": "rest26_aspect_va_test_543", "Aspect_VA": [{"Aspect": "food", "VA": "6.64#6.70"}]}
+{"ID": "rest26_aspect_va_test_544", "Aspect_VA": [{"Aspect": "jumbalaya pasta", "VA": "3.50#5.72"}]}
+{"ID": "rest26_aspect_va_test_545", "Aspect_VA": [{"Aspect": "sushi", "VA": "7.42#7.54"}]}
+{"ID": "rest26_aspect_va_test_546", "Aspect_VA": [{"Aspect": "visit", "VA": "4.78#5.34"}, {"Aspect": "Italian delights", "VA": "7.42#7.40"}]}
+{"ID": "rest26_aspect_va_test_547", "Aspect_VA": [{"Aspect": "peach cobbler dessert", "VA": "7.29#7.25"}, {"Aspect": "ice cream", "VA": "6.63#6.56"}]}
+{"ID": "rest26_aspect_va_test_548", "Aspect_VA": [{"Aspect": "popsicles", "VA": "7.88#7.76"}, {"Aspect": "coffee", "VA": "7.43#7.48"}, {"Aspect": "homemade doughnuts", "VA": "7.87#7.82"}, {"Aspect": "patbingsu", "VA": "7.78#7.71"}]}
+{"ID": "rest26_aspect_va_test_549", "Aspect_VA": [{"Aspect": "place", "VA": "7.68#7.78"}, {"Aspect": "food", "VA": "7.40#7.42"}]}
+{"ID": "rest26_aspect_va_test_550", "Aspect_VA": [{"Aspect": "burger", "VA": "7.69#7.82"}]}
+{"ID": "rest26_aspect_va_test_551", "Aspect_VA": [{"Aspect": "service", "VA": "6.86#6.75"}, {"Aspect": "food", "VA": "6.88#6.82"}]}
+{"ID": "rest26_aspect_va_test_552", "Aspect_VA": [{"Aspect": "service", "VA": "7.76#7.76"}]}
+{"ID": "rest26_aspect_va_test_553", "Aspect_VA": [{"Aspect": "burger joints", "VA": "7.16#7.18"}]}
+{"ID": "rest26_aspect_va_test_554", "Aspect_VA": [{"Aspect": "food", "VA": "1.90#7.75"}]}
+{"ID": "rest26_aspect_va_test_555", "Aspect_VA": [{"Aspect": "diner", "VA": "5.09#5.41"}]}
+{"ID": "rest26_aspect_va_test_556", "Aspect_VA": [{"Aspect": "sushi", "VA": "3.84#5.80"}, {"Aspect": "delivering food", "VA": "4.21#5.36"}]}
+{"ID": "rest26_aspect_va_test_557", "Aspect_VA": [{"Aspect": "customer service", "VA": "7.93#7.98"}, {"Aspect": "place", "VA": "7.82#7.90"}, {"Aspect": "pizza", "VA": "7.72#7.78"}]}
+{"ID": "rest26_aspect_va_test_558", "Aspect_VA": [{"Aspect": "place", "VA": "7.26#7.41"}, {"Aspect": "breakfast", "VA": "7.48#7.53"}]}
+{"ID": "rest26_aspect_va_test_559", "Aspect_VA": [{"Aspect": "dinner", "VA": "7.42#7.52"}]}
+{"ID": "rest26_aspect_va_test_560", "Aspect_VA": [{"Aspect": "halibut", "VA": "6.22#6.35"}, {"Aspect": "tuna", "VA": "6.57#6.50"}]}
+{"ID": "rest26_aspect_va_test_561", "Aspect_VA": [{"Aspect": "catfish", "VA": "5.65#5.38"}]}
+{"ID": "rest26_aspect_va_test_562", "Aspect_VA": [{"Aspect": "Brussels sprouts", "VA": "5.82#6.45"}]}
+{"ID": "rest26_aspect_va_test_563", "Aspect_VA": [{"Aspect": "rest", "VA": "7.31#7.26"}, {"Aspect": "goat cheese", "VA": "8.02#8.07"}, {"Aspect": "shrimp crepes", "VA": "8.12#8.12"}]}
+{"ID": "rest26_aspect_va_test_564", "Aspect_VA": [{"Aspect": "food options", "VA": "7.76#7.76"}, {"Aspect": "hummus flavors", "VA": "7.65#7.62"}, {"Aspect": "spot", "VA": "7.64#7.72"}]}
+{"ID": "rest26_aspect_va_test_565", "Aspect_VA": [{"Aspect": "Service", "VA": "7.84#7.88"}]}
+{"ID": "rest26_aspect_va_test_566", "Aspect_VA": [{"Aspect": "meal", "VA": "7.48#7.56"}]}
+{"ID": "rest26_aspect_va_test_567", "Aspect_VA": [{"Aspect": "KFC ( Korean Fried Chicken ) sandwich", "VA": "6.62#6.48"}]}
+{"ID": "rest26_aspect_va_test_568", "Aspect_VA": [{"Aspect": "food", "VA": "7.68#7.74"}, {"Aspect": "wait staff", "VA": "7.68#7.78"}]}
+{"ID": "rest26_aspect_va_test_569", "Aspect_VA": [{"Aspect": "food", "VA": "2.16#7.27"}]}
+{"ID": "rest26_aspect_va_test_570", "Aspect_VA": [{"Aspect": "noodles", "VA": "3.40#6.00"}]}
+{"ID": "rest26_aspect_va_test_571", "Aspect_VA": [{"Aspect": "food", "VA": "7.50#7.60"}, {"Aspect": "ingredients", "VA": "7.42#7.50"}]}
+{"ID": "rest26_aspect_va_test_572", "Aspect_VA": [{"Aspect": "fried chicken", "VA": "5.71#5.85"}]}
+{"ID": "rest26_aspect_va_test_573", "Aspect_VA": [{"Aspect": "brewhouse", "VA": "4.93#5.36"}, {"Aspect": "food", "VA": "5.66#5.64"}]}
+{"ID": "rest26_aspect_va_test_574", "Aspect_VA": [{"Aspect": "breakfast sandwiches", "VA": "7.61#7.69"}]}
+{"ID": "rest26_aspect_va_test_575", "Aspect_VA": [{"Aspect": "menu items", "VA": "7.96#7.94"}]}
+{"ID": "rest26_aspect_va_test_576", "Aspect_VA": [{"Aspect": "Sunday brunch", "VA": "5.79#5.72"}, {"Aspect": "review", "VA": "6.51#6.62"}]}
+{"ID": "rest26_aspect_va_test_577", "Aspect_VA": [{"Aspect": "service", "VA": "7.15#7.15"}]}
+{"ID": "rest26_aspect_va_test_578", "Aspect_VA": [{"Aspect": "food", "VA": "7.42#7.46"}]}
+{"ID": "rest26_aspect_va_test_579", "Aspect_VA": [{"Aspect": "dinner specials", "VA": "7.92#7.84"}, {"Aspect": "cheesesteaks", "VA": "7.96#7.82"}, {"Aspect": "seafood dishes", "VA": "8.00#7.87"}, {"Aspect": "calzones", "VA": "7.95#7.82"}]}
+{"ID": "rest26_aspect_va_test_580", "Aspect_VA": [{"Aspect": "waitress", "VA": "7.01#7.22"}]}
+{"ID": "rest26_aspect_va_test_581", "Aspect_VA": [{"Aspect": "Server", "VA": "7.24#7.31"}, {"Aspect": "service", "VA": "6.82#6.85"}]}
+{"ID": "rest26_aspect_va_test_582", "Aspect_VA": [{"Aspect": "pasta", "VA": "4.11#5.43"}]}
+{"ID": "rest26_aspect_va_test_583", "Aspect_VA": [{"Aspect": "Luke burger", "VA": "7.38#7.48"}]}
+{"ID": "rest26_aspect_va_test_584", "Aspect_VA": [{"Aspect": "food", "VA": "4.08#5.30"}]}
+{"ID": "rest26_aspect_va_test_585", "Aspect_VA": [{"Aspect": "restaurant", "VA": "6.17#6.46"}]}
+{"ID": "rest26_aspect_va_test_586", "Aspect_VA": [{"Aspect": "appetizer", "VA": "3.74#5.92"}]}
+{"ID": "rest26_aspect_va_test_587", "Aspect_VA": [{"Aspect": "thin noodles", "VA": "3.78#5.57"}]}
+{"ID": "rest26_aspect_va_test_588", "Aspect_VA": [{"Aspect": "bar", "VA": "6.34#6.32"}, {"Aspect": "bartenders", "VA": "5.70#6.11"}, {"Aspect": "service", "VA": "5.63#5.99"}]}
+{"ID": "rest26_aspect_va_test_589", "Aspect_VA": [{"Aspect": "food", "VA": "7.61#7.62"}, {"Aspect": "pricing", "VA": "6.90#6.89"}]}
+{"ID": "rest26_aspect_va_test_590", "Aspect_VA": [{"Aspect": "employees", "VA": "7.74#7.80"}, {"Aspect": "bakery", "VA": "7.40#7.40"}]}
+{"ID": "rest26_aspect_va_test_591", "Aspect_VA": [{"Aspect": "service", "VA": "7.88#7.92"}]}
+{"ID": "rest26_aspect_va_test_592", "Aspect_VA": [{"Aspect": "food", "VA": "5.02#5.20"}, {"Aspect": "menu", "VA": "6.81#6.72"}, {"Aspect": "design and concept", "VA": "6.87#6.70"}]}
+{"ID": "rest26_aspect_va_test_593", "Aspect_VA": [{"Aspect": "food", "VA": "7.27#7.28"}, {"Aspect": "service", "VA": "7.44#7.50"}]}
+{"ID": "rest26_aspect_va_test_594", "Aspect_VA": [{"Aspect": "food", "VA": "2.86#6.72"}]}
+{"ID": "rest26_aspect_va_test_595", "Aspect_VA": [{"Aspect": "pre-cooked home fries", "VA": "6.18#6.60"}, {"Aspect": "potatoes", "VA": "7.25#7.34"}]}
+{"ID": "rest26_aspect_va_test_596", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.86#7.97"}]}
+{"ID": "rest26_aspect_va_test_597", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.41#5.80"}]}
+{"ID": "rest26_aspect_va_test_598", "Aspect_VA": [{"Aspect": "sushi bowls", "VA": "7.12#7.16"}]}
+{"ID": "rest26_aspect_va_test_599", "Aspect_VA": [{"Aspect": "Penang chicken", "VA": "7.72#7.70"}, {"Aspect": "chicken flavor infused white rice", "VA": "7.76#7.74"}]}
+{"ID": "rest26_aspect_va_test_600", "Aspect_VA": [{"Aspect": "service", "VA": "4.71#5.42"}]}
+{"ID": "rest26_aspect_va_test_601", "Aspect_VA": [{"Aspect": "service", "VA": "3.44#6.07"}]}
+{"ID": "rest26_aspect_va_test_602", "Aspect_VA": [{"Aspect": "pizza places", "VA": "7.74#7.78"}]}
+{"ID": "rest26_aspect_va_test_603", "Aspect_VA": [{"Aspect": "ambiance", "VA": "5.01#5.32"}, {"Aspect": "food", "VA": "5.57#6.21"}]}
+{"ID": "rest26_aspect_va_test_604", "Aspect_VA": [{"Aspect": "service", "VA": "7.44#7.57"}]}
+{"ID": "rest26_aspect_va_test_605", "Aspect_VA": [{"Aspect": "each time", "VA": "7.72#7.78"}, {"Aspect": "soy or almond milk latte", "VA": "7.70#7.76"}]}
+{"ID": "rest26_aspect_va_test_606", "Aspect_VA": [{"Aspect": "traditional breakfast foods", "VA": "5.62#5.34"}, {"Aspect": "extras", "VA": "5.86#5.88"}]}
+{"ID": "rest26_aspect_va_test_607", "Aspect_VA": [{"Aspect": "food", "VA": "7.38#7.46"}]}
+{"ID": "rest26_aspect_va_test_608", "Aspect_VA": [{"Aspect": "location", "VA": "4.36#5.47"}]}
+{"ID": "rest26_aspect_va_test_609", "Aspect_VA": [{"Aspect": "menu", "VA": "7.55#7.68"}]}
+{"ID": "rest26_aspect_va_test_610", "Aspect_VA": [{"Aspect": "restaurant/bar", "VA": "7.24#7.32"}]}
+{"ID": "rest26_aspect_va_test_611", "Aspect_VA": [{"Aspect": "food", "VA": "7.60#7.54"}]}
+{"ID": "rest26_aspect_va_test_612", "Aspect_VA": [{"Aspect": "food", "VA": "7.13#7.21"}, {"Aspect": "portions", "VA": "7.41#7.53"}]}
+{"ID": "rest26_aspect_va_test_613", "Aspect_VA": [{"Aspect": "service", "VA": "4.44#5.42"}, {"Aspect": "place", "VA": "3.63#5.53"}, {"Aspect": "kitchen staff", "VA": "4.28#5.42"}]}
+{"ID": "rest26_aspect_va_test_614", "Aspect_VA": [{"Aspect": "server", "VA": "7.88#8.03"}]}
+{"ID": "rest26_aspect_va_test_615", "Aspect_VA": [{"Aspect": "meal", "VA": "7.16#7.07"}]}
+{"ID": "rest26_aspect_va_test_616", "Aspect_VA": [{"Aspect": "alcoholic milkshake", "VA": "7.44#7.52"}]}
+{"ID": "rest26_aspect_va_test_617", "Aspect_VA": [{"Aspect": "server", "VA": "4.14#5.43"}]}
+{"ID": "rest26_aspect_va_test_618", "Aspect_VA": [{"Aspect": "smog", "VA": "7.14#7.28"}, {"Aspect": "service", "VA": "7.42#7.52"}]}
+{"ID": "rest26_aspect_va_test_619", "Aspect_VA": [{"Aspect": "waiting", "VA": "4.12#5.67"}]}
+{"ID": "rest26_aspect_va_test_620", "Aspect_VA": [{"Aspect": "menu", "VA": "8.17#8.16"}]}
+{"ID": "rest26_aspect_va_test_621", "Aspect_VA": [{"Aspect": "dinner rush", "VA": "3.85#5.77"}, {"Aspect": "beef and dog", "VA": "4.13#5.42"}]}
+{"ID": "rest26_aspect_va_test_622", "Aspect_VA": [{"Aspect": "pasta", "VA": "4.49#5.52"}]}
+{"ID": "rest26_aspect_va_test_623", "Aspect_VA": [{"Aspect": "menu", "VA": "6.23#6.20"}]}
+{"ID": "rest26_aspect_va_test_624", "Aspect_VA": [{"Aspect": "bella burger", "VA": "7.88#7.94"}]}
+{"ID": "rest26_aspect_va_test_625", "Aspect_VA": [{"Aspect": "service", "VA": "7.62#7.68"}]}
+{"ID": "rest26_aspect_va_test_626", "Aspect_VA": [{"Aspect": "scallops", "VA": "6.84#6.88"}, {"Aspect": "pasta", "VA": "6.59#6.56"}]}
+{"ID": "rest26_aspect_va_test_627", "Aspect_VA": [{"Aspect": "Curtis", "VA": "7.84#7.88"}]}
+{"ID": "rest26_aspect_va_test_628", "Aspect_VA": [{"Aspect": "Their website", "VA": "4.72#4.97"}]}
+{"ID": "rest26_aspect_va_test_629", "Aspect_VA": [{"Aspect": "How much do you want to spend", "VA": "4.93#5.16"}]}
+{"ID": "rest26_aspect_va_test_630", "Aspect_VA": [{"Aspect": "food", "VA": "7.08#7.09"}, {"Aspect": "place", "VA": "7.00#7.02"}]}
+{"ID": "rest26_aspect_va_test_631", "Aspect_VA": [{"Aspect": "dragonberry iced tea", "VA": "7.36#7.34"}, {"Aspect": "cocktail-ly", "VA": "7.14#7.21"}]}
+{"ID": "rest26_aspect_va_test_632", "Aspect_VA": [{"Aspect": "restaurant", "VA": "4.34#5.11"}]}
+{"ID": "rest26_aspect_va_test_633", "Aspect_VA": [{"Aspect": "place", "VA": "7.73#7.72"}, {"Aspect": "dinner", "VA": "7.26#7.32"}]}
+{"ID": "rest26_aspect_va_test_634", "Aspect_VA": [{"Aspect": "service", "VA": "7.64#7.62"}]}
+{"ID": "rest26_aspect_va_test_635", "Aspect_VA": [{"Aspect": "mozzarella cheese", "VA": "4.58#5.03"}, {"Aspect": "white rice", "VA": "4.89#5.21"}]}
+{"ID": "rest26_aspect_va_test_636", "Aspect_VA": [{"Aspect": "breakfast", "VA": "7.50#7.60"}]}
+{"ID": "rest26_aspect_va_test_637", "Aspect_VA": [{"Aspect": "drink pours", "VA": "4.69#5.40"}]}
+{"ID": "rest26_aspect_va_test_638", "Aspect_VA": [{"Aspect": "menu", "VA": "6.02#5.99"}, {"Aspect": "bistro fare", "VA": "4.88#5.35"}]}
+{"ID": "rest26_aspect_va_test_639", "Aspect_VA": [{"Aspect": "wine", "VA": "6.85#7.00"}]}
+{"ID": "rest26_aspect_va_test_640", "Aspect_VA": [{"Aspect": "servers", "VA": "3.90#5.54"}, {"Aspect": "pork chop", "VA": "3.84#5.56"}]}
+{"ID": "rest26_aspect_va_test_641", "Aspect_VA": [{"Aspect": "etouffe dish", "VA": "7.34#7.40"}, {"Aspect": "Shrimp", "VA": "7.33#7.44"}]}
+{"ID": "rest26_aspect_va_test_642", "Aspect_VA": [{"Aspect": "lunch", "VA": "5.29#7.16"}]}
+{"ID": "rest26_aspect_va_test_643", "Aspect_VA": [{"Aspect": "wine selection", "VA": "7.48#7.57"}]}
+{"ID": "rest26_aspect_va_test_644", "Aspect_VA": [{"Aspect": "fried food", "VA": "5.14#5.46"}]}
+{"ID": "rest26_aspect_va_test_645", "Aspect_VA": [{"Aspect": "vegetables", "VA": "4.16#5.46"}, {"Aspect": "sauce", "VA": "7.41#7.54"}]}
+{"ID": "rest26_aspect_va_test_646", "Aspect_VA": [{"Aspect": "beer selection", "VA": "4.70#5.25"}]}
+{"ID": "rest26_aspect_va_test_647", "Aspect_VA": [{"Aspect": "burger", "VA": "4.89#5.18"}, {"Aspect": "dinner menu", "VA": "4.31#5.11"}, {"Aspect": "fish & chips", "VA": "5.04#5.24"}]}
+{"ID": "rest26_aspect_va_test_648", "Aspect_VA": [{"Aspect": "food", "VA": "5.63#5.62"}, {"Aspect": "service", "VA": "7.54#7.62"}]}
+{"ID": "rest26_aspect_va_test_649", "Aspect_VA": [{"Aspect": "burger", "VA": "7.86#7.81"}]}
+{"ID": "rest26_aspect_va_test_650", "Aspect_VA": [{"Aspect": "waiter", "VA": "7.96#8.08"}]}
+{"ID": "rest26_aspect_va_test_651", "Aspect_VA": [{"Aspect": "food portioning", "VA": "7.77#7.86"}]}
+{"ID": "rest26_aspect_va_test_652", "Aspect_VA": [{"Aspect": "server", "VA": "3.70#5.76"}]}
+{"ID": "rest26_aspect_va_test_653", "Aspect_VA": [{"Aspect": "line at the bar", "VA": "6.94#6.98"}, {"Aspect": "staff", "VA": "7.10#7.13"}]}
+{"ID": "rest26_aspect_va_test_654", "Aspect_VA": [{"Aspect": "dishes", "VA": "6.48#6.34"}]}
+{"ID": "rest26_aspect_va_test_655", "Aspect_VA": [{"Aspect": "barista", "VA": "4.12#5.59"}]}
+{"ID": "rest26_aspect_va_test_656", "Aspect_VA": [{"Aspect": "fried chicken", "VA": "7.89#8.00"}, {"Aspect": "red beans and rice", "VA": "6.29#6.68"}]}
+{"ID": "rest26_aspect_va_test_657", "Aspect_VA": [{"Aspect": "roll", "VA": "3.56#5.70"}]}
+{"ID": "rest26_aspect_va_test_658", "Aspect_VA": [{"Aspect": "Italian bread", "VA": "6.60#6.96"}, {"Aspect": "bruschetta", "VA": "7.36#7.36"}, {"Aspect": "butter packets", "VA": "4.18#5.75"}]}
+{"ID": "rest26_aspect_va_test_659", "Aspect_VA": [{"Aspect": "food", "VA": "7.26#7.24"}]}
+{"ID": "rest26_aspect_va_test_660", "Aspect_VA": [{"Aspect": "drinks", "VA": "4.25#5.38"}, {"Aspect": "bill", "VA": "4.49#5.24"}]}
+{"ID": "rest26_aspect_va_test_661", "Aspect_VA": [{"Aspect": "food", "VA": "3.16#6.22"}]}
+{"ID": "rest26_aspect_va_test_662", "Aspect_VA": [{"Aspect": "Sushi", "VA": "7.57#7.66"}, {"Aspect": "master", "VA": "6.86#6.96"}]}
+{"ID": "rest26_aspect_va_test_663", "Aspect_VA": [{"Aspect": "grits", "VA": "7.48#7.53"}, {"Aspect": "split pea soup", "VA": "8.07#8.18"}]}
+{"ID": "rest26_aspect_va_test_664", "Aspect_VA": [{"Aspect": "service", "VA": "7.20#7.26"}]}
+{"ID": "rest26_aspect_va_test_665", "Aspect_VA": [{"Aspect": "brunch", "VA": "7.86#7.91"}]}
+{"ID": "rest26_aspect_va_test_666", "Aspect_VA": [{"Aspect": "sweet potato nachos", "VA": "7.91#7.96"}, {"Aspect": "breakfast", "VA": "7.92#7.98"}]}
+{"ID": "rest26_aspect_va_test_667", "Aspect_VA": [{"Aspect": "fries", "VA": "4.14#5.49"}, {"Aspect": "burger", "VA": "5.64#5.54"}]}
+{"ID": "rest26_aspect_va_test_668", "Aspect_VA": [{"Aspect": "classic burger", "VA": "7.48#7.52"}]}
+{"ID": "rest26_aspect_va_test_669", "Aspect_VA": [{"Aspect": "service", "VA": "7.74#7.81"}, {"Aspect": "place", "VA": "7.50#7.52"}, {"Aspect": "food", "VA": "7.74#7.80"}]}
+{"ID": "rest26_aspect_va_test_670", "Aspect_VA": [{"Aspect": "ambience", "VA": "6.76#6.84"}]}
+{"ID": "rest26_aspect_va_test_671", "Aspect_VA": [{"Aspect": "place", "VA": "3.33#6.41"}]}
+{"ID": "rest26_aspect_va_test_672", "Aspect_VA": [{"Aspect": "food", "VA": "7.10#7.21"}]}
+{"ID": "rest26_aspect_va_test_673", "Aspect_VA": [{"Aspect": "review", "VA": "3.08#6.54"}, {"Aspect": "fliers", "VA": "3.02#6.43"}]}
+{"ID": "rest26_aspect_va_test_674", "Aspect_VA": [{"Aspect": "ambiance", "VA": "6.67#6.60"}, {"Aspect": "menu", "VA": "4.44#5.42"}, {"Aspect": "food", "VA": "4.38#5.24"}]}
+{"ID": "rest26_aspect_va_test_675", "Aspect_VA": [{"Aspect": "pepperoni pizza", "VA": "3.92#5.48"}]}
+{"ID": "rest26_aspect_va_test_676", "Aspect_VA": [{"Aspect": "service", "VA": "8.02#8.07"}, {"Aspect": "restrooms", "VA": "8.09#8.08"}]}
+{"ID": "rest26_aspect_va_test_677", "Aspect_VA": [{"Aspect": "Italian restaurant", "VA": "7.86#7.79"}]}
+{"ID": "rest26_aspect_va_test_678", "Aspect_VA": [{"Aspect": "food", "VA": "8.04#8.05"}, {"Aspect": "drinks", "VA": "8.04#8.04"}]}
+{"ID": "rest26_aspect_va_test_679", "Aspect_VA": [{"Aspect": "driver", "VA": "4.03#5.40"}, {"Aspect": "guys", "VA": "3.84#5.48"}]}
+{"ID": "rest26_aspect_va_test_680", "Aspect_VA": [{"Aspect": "Wine", "VA": "3.89#5.56"}]}
+{"ID": "rest26_aspect_va_test_681", "Aspect_VA": [{"Aspect": "place", "VA": "6.86#7.04"}, {"Aspect": "breakfast/lunch", "VA": "7.58#7.63"}, {"Aspect": "workers", "VA": "7.12#7.24"}]}
+{"ID": "rest26_aspect_va_test_682", "Aspect_VA": [{"Aspect": "beer selections", "VA": "7.57#7.50"}, {"Aspect": "bar staff", "VA": "3.20#6.24"}, {"Aspect": "place", "VA": "5.61#6.22"}]}
+{"ID": "rest26_aspect_va_test_683", "Aspect_VA": [{"Aspect": "scotch egg offerings", "VA": "7.33#7.35"}]}
+{"ID": "rest26_aspect_va_test_684", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.52#5.82"}]}
+{"ID": "rest26_aspect_va_test_685", "Aspect_VA": [{"Aspect": "food", "VA": "6.53#6.52"}, {"Aspect": "server", "VA": "3.20#6.20"}]}
+{"ID": "rest26_aspect_va_test_686", "Aspect_VA": [{"Aspect": "old school diner vibe", "VA": "7.34#7.46"}]}
+{"ID": "rest26_aspect_va_test_687", "Aspect_VA": [{"Aspect": "food", "VA": "8.01#7.99"}]}
+{"ID": "rest26_aspect_va_test_688", "Aspect_VA": [{"Aspect": "peanut butter", "VA": "5.44#5.70"}, {"Aspect": "meatless menu", "VA": "5.74#5.98"}, {"Aspect": "meat sandwiches", "VA": "8.20#8.16"}]}
+{"ID": "rest26_aspect_va_test_689", "Aspect_VA": [{"Aspect": "BBQ pork sandwiches", "VA": "7.36#7.36"}]}
+{"ID": "rest26_aspect_va_test_690", "Aspect_VA": [{"Aspect": "menu", "VA": "7.53#7.64"}]}
+{"ID": "rest26_aspect_va_test_691", "Aspect_VA": [{"Aspect": "duck egg", "VA": "8.07#8.13"}]}
+{"ID": "rest26_aspect_va_test_692", "Aspect_VA": [{"Aspect": "location", "VA": "8.06#8.06"}, {"Aspect": "restaurant", "VA": "7.44#7.54"}]}
+{"ID": "rest26_aspect_va_test_693", "Aspect_VA": [{"Aspect": "kids", "VA": "4.10#5.99"}, {"Aspect": "decor", "VA": "7.20#7.26"}]}
+{"ID": "rest26_aspect_va_test_694", "Aspect_VA": [{"Aspect": "coffee place", "VA": "7.77#7.88"}]}
+{"ID": "rest26_aspect_va_test_695", "Aspect_VA": [{"Aspect": "sample", "VA": "4.28#5.55"}]}
+{"ID": "rest26_aspect_va_test_696", "Aspect_VA": [{"Aspect": "customer service", "VA": "4.36#5.06"}, {"Aspect": "quantity", "VA": "4.32#5.11"}]}
+{"ID": "rest26_aspect_va_test_697", "Aspect_VA": [{"Aspect": "meal", "VA": "3.53#5.82"}, {"Aspect": "rice wine", "VA": "5.45#5.81"}]}
+{"ID": "rest26_aspect_va_test_698", "Aspect_VA": [{"Aspect": "service", "VA": "7.47#7.50"}, {"Aspect": "pizza", "VA": "3.90#5.58"}]}
+{"ID": "rest26_aspect_va_test_699", "Aspect_VA": [{"Aspect": "sushi", "VA": "7.35#7.26"}]}
+{"ID": "rest26_aspect_va_test_700", "Aspect_VA": [{"Aspect": "pumpkin cake flavor", "VA": "7.52#7.54"}]}
+{"ID": "rest26_aspect_va_test_701", "Aspect_VA": [{"Aspect": "burger", "VA": "6.26#6.40"}, {"Aspect": "chicken sandwich affair", "VA": "6.46#6.36"}]}
+{"ID": "rest26_aspect_va_test_702", "Aspect_VA": [{"Aspect": "bbq pork", "VA": "6.86#6.78"}, {"Aspect": "bun", "VA": "6.94#6.99"}, {"Aspect": "sauce", "VA": "3.87#5.69"}]}
+{"ID": "rest26_aspect_va_test_703", "Aspect_VA": [{"Aspect": "drinks and dinner", "VA": "6.27#6.27"}]}
+{"ID": "rest26_aspect_va_test_704", "Aspect_VA": [{"Aspect": "food", "VA": "7.14#7.14"}, {"Aspect": "sports bar setting", "VA": "7.26#7.28"}, {"Aspect": "atmosphere", "VA": "7.12#7.06"}]}
+{"ID": "rest26_aspect_va_test_705", "Aspect_VA": [{"Aspect": "burger", "VA": "4.86#5.29"}]}
+{"ID": "rest26_aspect_va_test_706", "Aspect_VA": [{"Aspect": "restaurant", "VA": "6.99#7.02"}]}
+{"ID": "rest26_aspect_va_test_707", "Aspect_VA": [{"Aspect": "beer", "VA": "4.32#5.72"}, {"Aspect": "wings", "VA": "7.40#7.47"}]}
+{"ID": "rest26_aspect_va_test_708", "Aspect_VA": [{"Aspect": "food stops", "VA": "7.78#7.85"}]}
+{"ID": "rest26_aspect_va_test_709", "Aspect_VA": [{"Aspect": "meal", "VA": "7.48#7.64"}, {"Aspect": "lunch", "VA": "7.12#7.23"}]}
+{"ID": "rest26_aspect_va_test_710", "Aspect_VA": [{"Aspect": "place", "VA": "4.54#5.34"}]}
+{"ID": "rest26_aspect_va_test_711", "Aspect_VA": [{"Aspect": "grocery store", "VA": "6.76#6.71"}, {"Aspect": "hot buffet", "VA": "5.27#5.66"}, {"Aspect": "sandwiches", "VA": "5.27#5.68"}]}
+{"ID": "rest26_aspect_va_test_712", "Aspect_VA": [{"Aspect": "substitutions", "VA": "5.18#5.58"}, {"Aspect": "menu", "VA": "4.56#5.18"}]}
+{"ID": "rest26_aspect_va_test_713", "Aspect_VA": [{"Aspect": "food", "VA": "7.30#7.36"}]}
+{"ID": "rest26_aspect_va_test_714", "Aspect_VA": [{"Aspect": "December weather", "VA": "7.56#7.50"}, {"Aspect": "food", "VA": "7.51#7.48"}]}
+{"ID": "rest26_aspect_va_test_715", "Aspect_VA": [{"Aspect": "Service", "VA": "6.53#6.53"}]}
+{"ID": "rest26_aspect_va_test_716", "Aspect_VA": [{"Aspect": "place", "VA": "7.92#7.90"}]}
+{"ID": "rest26_aspect_va_test_717", "Aspect_VA": [{"Aspect": "Place", "VA": "4.19#5.36"}]}
+{"ID": "rest26_aspect_va_test_718", "Aspect_VA": [{"Aspect": "place", "VA": "4.72#5.56"}, {"Aspect": "beer knowledge", "VA": "3.99#5.50"}]}
+{"ID": "rest26_aspect_va_test_719", "Aspect_VA": [{"Aspect": "New Orleans meal", "VA": "7.50#7.53"}]}
+{"ID": "rest26_aspect_va_test_720", "Aspect_VA": [{"Aspect": "service", "VA": "7.48#7.50"}]}
+{"ID": "rest26_aspect_va_test_721", "Aspect_VA": [{"Aspect": "happy hour", "VA": "5.12#5.78"}, {"Aspect": "list", "VA": "4.34#5.24"}]}
+{"ID": "rest26_aspect_va_test_722", "Aspect_VA": [{"Aspect": "menu", "VA": "4.37#5.54"}]}
+{"ID": "rest26_aspect_va_test_723", "Aspect_VA": [{"Aspect": "house burger", "VA": "7.35#7.45"}, {"Aspect": "rosemary fries", "VA": "6.94#6.90"}]}
+{"ID": "rest26_aspect_va_test_724", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.38#7.38"}]}
+{"ID": "rest26_aspect_va_test_725", "Aspect_VA": [{"Aspect": "pizza steak", "VA": "7.66#7.76"}]}
+{"ID": "rest26_aspect_va_test_726", "Aspect_VA": [{"Aspect": "food", "VA": "7.26#7.35"}, {"Aspect": "server", "VA": "7.05#7.20"}]}
+{"ID": "rest26_aspect_va_test_727", "Aspect_VA": [{"Aspect": "American food place", "VA": "7.10#7.00"}]}
+{"ID": "rest26_aspect_va_test_728", "Aspect_VA": [{"Aspect": "regular menu", "VA": "7.60#7.62"}]}
+{"ID": "rest26_aspect_va_test_729", "Aspect_VA": [{"Aspect": "service", "VA": "7.58#7.60"}, {"Aspect": "beer selection", "VA": "7.04#7.12"}]}
+{"ID": "rest26_aspect_va_test_730", "Aspect_VA": [{"Aspect": "Chinese food", "VA": "6.82#6.84"}]}
+{"ID": "rest26_aspect_va_test_731", "Aspect_VA": [{"Aspect": "whiskey/bourbon", "VA": "7.50#7.50"}]}
+{"ID": "rest26_aspect_va_test_732", "Aspect_VA": [{"Aspect": "food", "VA": "7.55#7.54"}]}
+{"ID": "rest26_aspect_va_test_733", "Aspect_VA": [{"Aspect": "peach tea lemonade", "VA": "4.15#5.32"}, {"Aspect": "three times", "VA": "4.14#5.56"}]}
+{"ID": "rest26_aspect_va_test_734", "Aspect_VA": [{"Aspect": "food", "VA": "7.15#7.26"}]}
+{"ID": "rest26_aspect_va_test_735", "Aspect_VA": [{"Aspect": "chefs", "VA": "6.58#6.30"}, {"Aspect": "restaurant", "VA": "6.70#6.72"}]}
+{"ID": "rest26_aspect_va_test_736", "Aspect_VA": [{"Aspect": "bier", "VA": "6.64#6.68"}]}
+{"ID": "rest26_aspect_va_test_737", "Aspect_VA": [{"Aspect": "drink", "VA": "4.43#5.26"}, {"Aspect": "food", "VA": "4.32#5.49"}, {"Aspect": "cups", "VA": "3.53#5.95"}]}
+{"ID": "rest26_aspect_va_test_738", "Aspect_VA": [{"Aspect": "service", "VA": "7.67#7.68"}, {"Aspect": "Crème brûlée", "VA": "7.90#7.90"}]}
+{"ID": "rest26_aspect_va_test_739", "Aspect_VA": [{"Aspect": "portions", "VA": "7.51#7.53"}, {"Aspect": "items", "VA": "7.60#7.66"}]}
+{"ID": "rest26_aspect_va_test_740", "Aspect_VA": [{"Aspect": "food", "VA": "4.52#5.41"}]}
+{"ID": "rest26_aspect_va_test_741", "Aspect_VA": [{"Aspect": "food", "VA": "6.76#6.88"}, {"Aspect": "owner", "VA": "3.62#5.89"}]}
+{"ID": "rest26_aspect_va_test_742", "Aspect_VA": [{"Aspect": "atmosphere", "VA": "7.46#7.30"}, {"Aspect": "staff", "VA": "7.49#7.36"}]}
+{"ID": "rest26_aspect_va_test_743", "Aspect_VA": [{"Aspect": "dessert", "VA": "7.30#7.24"}, {"Aspect": "bread pudding", "VA": "7.50#7.64"}]}
+{"ID": "rest26_aspect_va_test_744", "Aspect_VA": [{"Aspect": "falafel nazi", "VA": "7.48#7.35"}, {"Aspect": "food truck nazi", "VA": "7.65#7.64"}]}
+{"ID": "rest26_aspect_va_test_745", "Aspect_VA": [{"Aspect": "Tako", "VA": "7.72#7.70"}]}
+{"ID": "rest26_aspect_va_test_746", "Aspect_VA": [{"Aspect": "service", "VA": "5.21#5.40"}]}
+{"ID": "rest26_aspect_va_test_747", "Aspect_VA": [{"Aspect": "broccoli", "VA": "4.14#5.47"}]}
+{"ID": "rest26_aspect_va_test_748", "Aspect_VA": [{"Aspect": "food", "VA": "7.19#7.40"}, {"Aspect": "place", "VA": "7.35#7.40"}]}
+{"ID": "rest26_aspect_va_test_749", "Aspect_VA": [{"Aspect": "waiter", "VA": "7.42#7.48"}]}
+{"ID": "rest26_aspect_va_test_750", "Aspect_VA": [{"Aspect": "service", "VA": "6.06#6.08"}, {"Aspect": "waitress", "VA": "4.56#5.44"}]}
+{"ID": "rest26_aspect_va_test_751", "Aspect_VA": [{"Aspect": "beer selections", "VA": "6.56#6.50"}]}
+{"ID": "rest26_aspect_va_test_752", "Aspect_VA": [{"Aspect": "onions", "VA": "3.54#5.82"}]}
+{"ID": "rest26_aspect_va_test_753", "Aspect_VA": [{"Aspect": "restaurant", "VA": "2.09#7.42"}]}
+{"ID": "rest26_aspect_va_test_754", "Aspect_VA": [{"Aspect": "dishes", "VA": "6.74#6.88"}]}
+{"ID": "rest26_aspect_va_test_755", "Aspect_VA": [{"Aspect": "standing there for 25 minutes", "VA": "3.53#6.01"}, {"Aspect": "being told 25 minutes", "VA": "3.44#5.98"}]}
+{"ID": "rest26_aspect_va_test_756", "Aspect_VA": [{"Aspect": "pastas", "VA": "7.62#7.62"}, {"Aspect": "menu items", "VA": "7.48#7.54"}]}
+{"ID": "rest26_aspect_va_test_757", "Aspect_VA": [{"Aspect": "atmosphere", "VA": "7.92#7.96"}, {"Aspect": "flavor combinations", "VA": "7.87#7.90"}]}
+{"ID": "rest26_aspect_va_test_758", "Aspect_VA": [{"Aspect": "meal", "VA": "7.41#7.45"}, {"Aspect": "tables", "VA": "6.59#6.56"}]}
+{"ID": "rest26_aspect_va_test_759", "Aspect_VA": [{"Aspect": "place", "VA": "7.98#8.01"}, {"Aspect": "menu", "VA": "8.03#8.06"}, {"Aspect": "food", "VA": "8.02#8.03"}]}
+{"ID": "rest26_aspect_va_test_760", "Aspect_VA": [{"Aspect": "lunch or dinner", "VA": "6.80#6.74"}]}
+{"ID": "rest26_aspect_va_test_761", "Aspect_VA": [{"Aspect": "menu", "VA": "5.20#5.73"}]}
+{"ID": "rest26_aspect_va_test_762", "Aspect_VA": [{"Aspect": "flash-frozen sashimi grade fish", "VA": "6.42#6.74"}]}
+{"ID": "rest26_aspect_va_test_763", "Aspect_VA": [{"Aspect": "breakfast", "VA": "7.84#7.92"}]}
+{"ID": "rest26_aspect_va_test_764", "Aspect_VA": [{"Aspect": "Best Taste of Asia", "VA": "4.06#5.29"}]}
+{"ID": "rest26_aspect_va_test_765", "Aspect_VA": [{"Aspect": "brunch", "VA": "6.07#6.16"}, {"Aspect": "game days", "VA": "7.43#7.50"}]}
+{"ID": "rest26_aspect_va_test_766", "Aspect_VA": [{"Aspect": "service", "VA": "5.64#5.87"}]}
+{"ID": "rest26_aspect_va_test_767", "Aspect_VA": [{"Aspect": "Fried chicken slider", "VA": "8.04#8.05"}, {"Aspect": "monte cristo", "VA": "8.02#8.05"}, {"Aspect": "BLT slider", "VA": "8.02#8.04"}, {"Aspect": "Cuban", "VA": "8.04#8.06"}]}
+{"ID": "rest26_aspect_va_test_768", "Aspect_VA": [{"Aspect": "strawberry sorbet", "VA": "8.03#8.07"}, {"Aspect": "prix fixe menu", "VA": "5.62#5.79"}]}
+{"ID": "rest26_aspect_va_test_769", "Aspect_VA": [{"Aspect": "lunch", "VA": "7.38#7.48"}, {"Aspect": "cookies", "VA": "8.00#8.05"}]}
+{"ID": "rest26_aspect_va_test_770", "Aspect_VA": [{"Aspect": "lighting", "VA": "6.25#6.31"}]}
+{"ID": "rest26_aspect_va_test_771", "Aspect_VA": [{"Aspect": "diner", "VA": "3.71#5.80"}, {"Aspect": "hostess", "VA": "7.22#7.26"}]}
+{"ID": "rest26_aspect_va_test_772", "Aspect_VA": [{"Aspect": "Anise flavor", "VA": "7.54#7.62"}, {"Aspect": "Italian wedding cookies", "VA": "6.76#6.96"}]}
+{"ID": "rest26_aspect_va_test_773", "Aspect_VA": [{"Aspect": "beer", "VA": "3.72#5.47"}, {"Aspect": "burger challenge", "VA": "3.64#5.59"}]}
+{"ID": "rest26_aspect_va_test_774", "Aspect_VA": [{"Aspect": "budget breakfast", "VA": "6.76#6.58"}]}
+{"ID": "rest26_aspect_va_test_775", "Aspect_VA": [{"Aspect": "tea paraphernalia", "VA": "7.38#7.44"}, {"Aspect": "teas", "VA": "7.43#7.48"}, {"Aspect": "place", "VA": "7.44#7.55"}]}
+{"ID": "rest26_aspect_va_test_776", "Aspect_VA": [{"Aspect": "new restaurant", "VA": "7.76#7.80"}, {"Aspect": "Indian Food", "VA": "7.61#7.62"}]}
+{"ID": "rest26_aspect_va_test_777", "Aspect_VA": [{"Aspect": "Vietnamese food", "VA": "7.26#7.22"}]}
+{"ID": "rest26_aspect_va_test_778", "Aspect_VA": [{"Aspect": "waiter", "VA": "8.04#8.10"}]}
+{"ID": "rest26_aspect_va_test_779", "Aspect_VA": [{"Aspect": "noodles", "VA": "3.61#5.88"}, {"Aspect": "Mac & Cheese", "VA": "5.85#5.58"}]}
+{"ID": "rest26_aspect_va_test_780", "Aspect_VA": [{"Aspect": "platters", "VA": "6.66#6.72"}]}
+{"ID": "rest26_aspect_va_test_781", "Aspect_VA": [{"Aspect": "pics de gallo", "VA": "2.82#6.70"}]}
+{"ID": "rest26_aspect_va_test_782", "Aspect_VA": [{"Aspect": "staffing", "VA": "4.11#5.59"}]}
+{"ID": "rest26_aspect_va_test_783", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.64#7.70"}, {"Aspect": "atmosphere", "VA": "7.55#7.63"}]}
+{"ID": "rest26_aspect_va_test_784", "Aspect_VA": [{"Aspect": "fried fish taco", "VA": "8.15#8.20"}, {"Aspect": "all of the other food", "VA": "7.72#7.80"}]}
+{"ID": "rest26_aspect_va_test_785", "Aspect_VA": [{"Aspect": "diner feel", "VA": "7.36#7.44"}, {"Aspect": "food", "VA": "6.91#6.91"}]}
+{"ID": "rest26_aspect_va_test_786", "Aspect_VA": [{"Aspect": "place", "VA": "7.52#7.58"}]}
+{"ID": "rest26_aspect_va_test_787", "Aspect_VA": [{"Aspect": "seat us outside", "VA": "4.16#5.59"}]}
+{"ID": "rest26_aspect_va_test_788", "Aspect_VA": [{"Aspect": "food", "VA": "6.76#6.80"}, {"Aspect": "bar", "VA": "4.98#5.48"}]}
+{"ID": "rest26_aspect_va_test_789", "Aspect_VA": [{"Aspect": "meal", "VA": "6.84#6.98"}]}
+{"ID": "rest26_aspect_va_test_790", "Aspect_VA": [{"Aspect": "customer service", "VA": "7.64#7.76"}]}
+{"ID": "rest26_aspect_va_test_791", "Aspect_VA": [{"Aspect": "breakfast", "VA": "7.12#7.16"}, {"Aspect": "portions", "VA": "7.53#7.56"}]}
+{"ID": "rest26_aspect_va_test_792", "Aspect_VA": [{"Aspect": "small plates", "VA": "7.15#7.20"}]}
+{"ID": "rest26_aspect_va_test_793", "Aspect_VA": [{"Aspect": "food", "VA": "6.20#6.74"}, {"Aspect": "place", "VA": "7.70#7.58"}, {"Aspect": "beer with mussels red and crab fries", "VA": "7.34#7.21"}]}
+{"ID": "rest26_aspect_va_test_794", "Aspect_VA": [{"Aspect": "place", "VA": "2.92#6.62"}, {"Aspect": "DD", "VA": "6.52#7.24"}]}
+{"ID": "rest26_aspect_va_test_795", "Aspect_VA": [{"Aspect": "girl", "VA": "5.34#5.58"}]}
+{"ID": "rest26_aspect_va_test_796", "Aspect_VA": [{"Aspect": "house margaritas", "VA": "7.33#7.36"}, {"Aspect": "Happy Hour", "VA": "6.84#6.96"}]}
+{"ID": "rest26_aspect_va_test_797", "Aspect_VA": [{"Aspect": "first drink", "VA": "6.46#6.57"}, {"Aspect": "pastry", "VA": "7.10#7.02"}, {"Aspect": "personal touch", "VA": "7.22#7.20"}]}
+{"ID": "rest26_aspect_va_test_798", "Aspect_VA": [{"Aspect": "TV show", "VA": "5.36#5.70"}, {"Aspect": "bar", "VA": "5.26#5.38"}]}
+{"ID": "rest26_aspect_va_test_799", "Aspect_VA": [{"Aspect": "pizza", "VA": "4.25#5.50"}, {"Aspect": "Servers", "VA": "7.15#7.16"}]}
+{"ID": "rest26_aspect_va_test_800", "Aspect_VA": [{"Aspect": "taste", "VA": "7.12#7.21"}, {"Aspect": "flavors", "VA": "7.12#7.06"}]}
+{"ID": "rest26_aspect_va_test_801", "Aspect_VA": [{"Aspect": "restaurant", "VA": "4.49#5.36"}]}
+{"ID": "rest26_aspect_va_test_802", "Aspect_VA": [{"Aspect": "BBQ", "VA": "3.85#5.70"}]}
+{"ID": "rest26_aspect_va_test_803", "Aspect_VA": [{"Aspect": "atmosphere", "VA": "4.54#5.51"}, {"Aspect": "restaurant", "VA": "4.04#5.63"}]}
+{"ID": "rest26_aspect_va_test_804", "Aspect_VA": [{"Aspect": "spices", "VA": "6.78#6.79"}, {"Aspect": "restaurant", "VA": "6.24#6.16"}, {"Aspect": "ingredients", "VA": "7.29#7.24"}]}
+{"ID": "rest26_aspect_va_test_805", "Aspect_VA": [{"Aspect": "service", "VA": "7.99#8.06"}]}
+{"ID": "rest26_aspect_va_test_806", "Aspect_VA": [{"Aspect": "Asian food", "VA": "7.30#7.32"}]}
+{"ID": "rest26_aspect_va_test_807", "Aspect_VA": [{"Aspect": "Italian cusine restaurant", "VA": "7.96#8.01"}, {"Aspect": "Contessa", "VA": "7.90#7.96"}]}
+{"ID": "rest26_aspect_va_test_808", "Aspect_VA": [{"Aspect": "french fries", "VA": "6.93#6.90"}, {"Aspect": "salads", "VA": "6.85#6.84"}, {"Aspect": "tea", "VA": "6.78#6.78"}]}
+{"ID": "rest26_aspect_va_test_809", "Aspect_VA": [{"Aspect": "store displays", "VA": "7.46#7.52"}, {"Aspect": "food", "VA": "7.38#7.34"}]}
+{"ID": "rest26_aspect_va_test_810", "Aspect_VA": [{"Aspect": "customer service", "VA": "2.93#6.56"}]}
+{"ID": "rest26_aspect_va_test_811", "Aspect_VA": [{"Aspect": "pasta", "VA": "7.86#7.96"}]}
+{"ID": "rest26_aspect_va_test_812", "Aspect_VA": [{"Aspect": "dessert", "VA": "7.70#7.78"}]}
+{"ID": "rest26_aspect_va_test_813", "Aspect_VA": [{"Aspect": "Udon Noodle Salad", "VA": "8.14#8.09"}, {"Aspect": "Crispy Hipcity Ranch", "VA": "7.93#7.89"}]}
+{"ID": "rest26_aspect_va_test_814", "Aspect_VA": [{"Aspect": "food", "VA": "4.25#5.58"}]}
+{"ID": "rest26_aspect_va_test_815", "Aspect_VA": [{"Aspect": "line", "VA": "5.65#6.01"}]}
+{"ID": "rest26_aspect_va_test_816", "Aspect_VA": [{"Aspect": "apple pie calzone", "VA": "3.62#5.67"}, {"Aspect": "dessert", "VA": "3.14#6.05"}]}
+{"ID": "rest26_aspect_va_test_817", "Aspect_VA": [{"Aspect": "lobster ravioli", "VA": "4.28#5.16"}]}
+{"ID": "rest26_aspect_va_test_818", "Aspect_VA": [{"Aspect": "food", "VA": "5.16#5.62"}]}
+{"ID": "rest26_aspect_va_test_819", "Aspect_VA": [{"Aspect": "food delivery", "VA": "7.48#7.54"}]}
+{"ID": "rest26_aspect_va_test_820", "Aspect_VA": [{"Aspect": "service experience", "VA": "4.15#5.54"}, {"Aspect": "Barbecue", "VA": "6.40#6.05"}]}
+{"ID": "rest26_aspect_va_test_821", "Aspect_VA": [{"Aspect": "crusted scallops", "VA": "7.61#7.63"}]}
+{"ID": "rest26_aspect_va_test_822", "Aspect_VA": [{"Aspect": "beef tacos", "VA": "8.07#8.06"}]}
+{"ID": "rest26_aspect_va_test_823", "Aspect_VA": [{"Aspect": "Groothie", "VA": "4.74#5.76"}]}
+{"ID": "rest26_aspect_va_test_824", "Aspect_VA": [{"Aspect": "food dishes", "VA": "7.76#7.72"}]}
+{"ID": "rest26_aspect_va_test_825", "Aspect_VA": [{"Aspect": "meal", "VA": "4.79#5.42"}, {"Aspect": "pancakes", "VA": "4.52#5.10"}, {"Aspect": "food", "VA": "4.51#5.37"}]}
+{"ID": "rest26_aspect_va_test_826", "Aspect_VA": [{"Aspect": "owner", "VA": "7.82#7.82"}, {"Aspect": "food", "VA": "8.02#8.04"}]}
+{"ID": "rest26_aspect_va_test_827", "Aspect_VA": [{"Aspect": "waitress", "VA": "4.85#5.28"}, {"Aspect": "40 minutes", "VA": "4.20#5.45"}]}
+{"ID": "rest26_aspect_va_test_828", "Aspect_VA": [{"Aspect": "Chinese delivery", "VA": "7.64#7.75"}]}
+{"ID": "rest26_aspect_va_test_829", "Aspect_VA": [{"Aspect": "bar food", "VA": "7.88#7.95"}]}
+{"ID": "rest26_aspect_va_test_830", "Aspect_VA": [{"Aspect": "rest", "VA": "6.62#6.73"}, {"Aspect": "egg drop soup", "VA": "6.90#7.06"}]}
+{"ID": "rest26_aspect_va_test_831", "Aspect_VA": [{"Aspect": "brunch", "VA": "7.54#7.60"}]}
+{"ID": "rest26_aspect_va_test_832", "Aspect_VA": [{"Aspect": "food", "VA": "7.56#7.56"}, {"Aspect": "atmosphere", "VA": "7.28#7.20"}, {"Aspect": "service", "VA": "7.54#7.56"}]}
+{"ID": "rest26_aspect_va_test_833", "Aspect_VA": [{"Aspect": "location", "VA": "5.98#5.96"}, {"Aspect": "Food", "VA": "5.70#5.49"}]}
+{"ID": "rest26_aspect_va_test_834", "Aspect_VA": [{"Aspect": "place", "VA": "6.84#6.86"}]}
+{"ID": "rest26_aspect_va_test_835", "Aspect_VA": [{"Aspect": "food", "VA": "4.57#5.20"}]}
+{"ID": "rest26_aspect_va_test_836", "Aspect_VA": [{"Aspect": "whiskey selection", "VA": "7.74#7.80"}, {"Aspect": "food choices", "VA": "7.70#7.75"}, {"Aspect": "ambiance", "VA": "7.68#7.76"}]}
+{"ID": "rest26_aspect_va_test_837", "Aspect_VA": [{"Aspect": "daily specials", "VA": "6.95#7.00"}]}
+{"ID": "rest26_aspect_va_test_838", "Aspect_VA": [{"Aspect": "pizza", "VA": "6.11#6.14"}]}
+{"ID": "rest26_aspect_va_test_839", "Aspect_VA": [{"Aspect": "Ethiopian food", "VA": "7.48#7.56"}]}
+{"ID": "rest26_aspect_va_test_840", "Aspect_VA": [{"Aspect": "crispy chicken skins", "VA": "4.07#5.52"}, {"Aspect": "Brussels sprouts", "VA": "7.65#7.64"}]}
+{"ID": "rest26_aspect_va_test_841", "Aspect_VA": [{"Aspect": "branch", "VA": "4.83#5.51"}, {"Aspect": "food", "VA": "5.76#5.64"}]}
+{"ID": "rest26_aspect_va_test_842", "Aspect_VA": [{"Aspect": "wine selection", "VA": "7.20#7.27"}, {"Aspect": "outdoor place", "VA": "7.63#7.66"}]}
+{"ID": "rest26_aspect_va_test_843", "Aspect_VA": [{"Aspect": "service", "VA": "3.06#6.46"}]}
+{"ID": "rest26_aspect_va_test_844", "Aspect_VA": [{"Aspect": "coffee", "VA": "7.48#7.55"}, {"Aspect": "fruit", "VA": "7.30#7.28"}]}
+{"ID": "rest26_aspect_va_test_845", "Aspect_VA": [{"Aspect": "fried chicken", "VA": "7.24#7.40"}, {"Aspect": "white beans", "VA": "6.64#6.73"}]}
+{"ID": "rest26_aspect_va_test_846", "Aspect_VA": [{"Aspect": "menu", "VA": "5.75#6.26"}]}
+{"ID": "rest26_aspect_va_test_847", "Aspect_VA": [{"Aspect": "food", "VA": "6.98#7.04"}]}
+{"ID": "rest26_aspect_va_test_848", "Aspect_VA": [{"Aspect": "stir fry dishes", "VA": "3.92#5.53"}]}
+{"ID": "rest26_aspect_va_test_849", "Aspect_VA": [{"Aspect": "staff", "VA": "7.22#7.34"}, {"Aspect": "food", "VA": "7.52#7.60"}, {"Aspect": "decor", "VA": "7.24#7.34"}]}
+{"ID": "rest26_aspect_va_test_850", "Aspect_VA": [{"Aspect": "blemish", "VA": "3.68#5.84"}, {"Aspect": "restaurant", "VA": "5.78#6.54"}]}
+{"ID": "rest26_aspect_va_test_851", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.07#7.12"}]}
+{"ID": "rest26_aspect_va_test_852", "Aspect_VA": [{"Aspect": "service", "VA": "7.50#7.44"}]}
+{"ID": "rest26_aspect_va_test_853", "Aspect_VA": [{"Aspect": "place", "VA": "6.90#6.82"}, {"Aspect": "dishes", "VA": "4.03#5.72"}]}
+{"ID": "rest26_aspect_va_test_854", "Aspect_VA": [{"Aspect": "Amanda", "VA": "7.72#7.80"}]}
+{"ID": "rest26_aspect_va_test_855", "Aspect_VA": [{"Aspect": "service", "VA": "7.41#7.50"}]}
+{"ID": "rest26_aspect_va_test_856", "Aspect_VA": [{"Aspect": "food", "VA": "2.38#7.24"}]}
+{"ID": "rest26_aspect_va_test_857", "Aspect_VA": [{"Aspect": "burger and fries", "VA": "4.94#5.44"}, {"Aspect": "Johnny Rockets", "VA": "4.44#5.42"}]}
+{"ID": "rest26_aspect_va_test_858", "Aspect_VA": [{"Aspect": "breakfast", "VA": "3.96#5.42"}]}
+{"ID": "rest26_aspect_va_test_859", "Aspect_VA": [{"Aspect": "tartar sauce", "VA": "7.37#7.46"}]}
+{"ID": "rest26_aspect_va_test_860", "Aspect_VA": [{"Aspect": "sushi bar", "VA": "6.94#6.94"}, {"Aspect": "sushi spot", "VA": "7.29#7.38"}]}
+{"ID": "rest26_aspect_va_test_861", "Aspect_VA": [{"Aspect": "fried green tomato appetizer", "VA": "7.32#7.42"}]}
+{"ID": "rest26_aspect_va_test_862", "Aspect_VA": [{"Aspect": "food", "VA": "7.18#7.22"}, {"Aspect": "decor", "VA": "6.98#6.85"}]}
+{"ID": "rest26_aspect_va_test_863", "Aspect_VA": [{"Aspect": "drinks", "VA": "7.91#7.94"}, {"Aspect": "service", "VA": "7.91#7.95"}, {"Aspect": "food", "VA": "7.92#7.96"}]}
+{"ID": "rest26_aspect_va_test_864", "Aspect_VA": [{"Aspect": "burgers", "VA": "3.68#6.09"}, {"Aspect": "fries", "VA": "3.72#6.10"}, {"Aspect": "atmosphere", "VA": "5.62#5.68"}]}
+{"ID": "rest26_aspect_va_test_865", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.10#6.17"}]}
+{"ID": "rest26_aspect_va_test_866", "Aspect_VA": [{"Aspect": "lunch special", "VA": "7.26#7.36"}]}
+{"ID": "rest26_aspect_va_test_867", "Aspect_VA": [{"Aspect": "marinated shrimp and jalapeño jus", "VA": "7.68#7.70"}]}
+{"ID": "rest26_aspect_va_test_868", "Aspect_VA": [{"Aspect": "pulled pork", "VA": "7.93#7.93"}]}
+{"ID": "rest26_aspect_va_test_869", "Aspect_VA": [{"Aspect": "food", "VA": "7.08#7.06"}]}
+{"ID": "rest26_aspect_va_test_870", "Aspect_VA": [{"Aspect": "BBQ Sauce", "VA": "2.96#6.34"}, {"Aspect": "Chicken", "VA": "2.56#6.80"}]}
+{"ID": "rest26_aspect_va_test_871", "Aspect_VA": [{"Aspect": "staff", "VA": "4.93#5.79"}, {"Aspect": "Chinese food take out", "VA": "6.70#6.70"}]}
+{"ID": "rest26_aspect_va_test_872", "Aspect_VA": [{"Aspect": "buffet", "VA": "5.89#5.65"}]}
+{"ID": "rest26_aspect_va_test_873", "Aspect_VA": [{"Aspect": "Mint Julep", "VA": "4.81#5.22"}, {"Aspect": "Riverbend", "VA": "5.18#5.22"}]}
+{"ID": "rest26_aspect_va_test_874", "Aspect_VA": [{"Aspect": "bread", "VA": "4.53#5.48"}]}
+{"ID": "rest26_aspect_va_test_875", "Aspect_VA": [{"Aspect": "dishes", "VA": "3.53#5.87"}, {"Aspect": "noodles", "VA": "3.38#5.92"}]}
+{"ID": "rest26_aspect_va_test_876", "Aspect_VA": [{"Aspect": "waitress", "VA": "4.70#5.11"}]}
+{"ID": "rest26_aspect_va_test_877", "Aspect_VA": [{"Aspect": "food", "VA": "4.28#5.28"}]}
+{"ID": "rest26_aspect_va_test_878", "Aspect_VA": [{"Aspect": "waiter", "VA": "7.04#7.16"}, {"Aspect": "pizza", "VA": "7.26#7.28"}]}
+{"ID": "rest26_aspect_va_test_879", "Aspect_VA": [{"Aspect": "beer", "VA": "5.44#5.24"}]}
+{"ID": "rest26_aspect_va_test_880", "Aspect_VA": [{"Aspect": "flavor", "VA": "7.39#7.54"}]}
+{"ID": "rest26_aspect_va_test_881", "Aspect_VA": [{"Aspect": "service", "VA": "7.30#7.39"}, {"Aspect": "Food", "VA": "7.18#7.24"}]}
+{"ID": "rest26_aspect_va_test_882", "Aspect_VA": [{"Aspect": "food", "VA": "6.96#6.99"}]}
+{"ID": "rest26_aspect_va_test_883", "Aspect_VA": [{"Aspect": "food", "VA": "7.54#7.56"}, {"Aspect": "atmosphere", "VA": "7.38#7.30"}]}
+{"ID": "rest26_aspect_va_test_884", "Aspect_VA": [{"Aspect": "service", "VA": "3.59#5.72"}]}
+{"ID": "rest26_aspect_va_test_885", "Aspect_VA": [{"Aspect": "meal", "VA": "4.61#5.24"}, {"Aspect": "manager experience", "VA": "4.44#5.40"}]}
+{"ID": "rest26_aspect_va_test_886", "Aspect_VA": [{"Aspect": "brunch", "VA": "3.26#6.15"}]}
+{"ID": "rest26_aspect_va_test_887", "Aspect_VA": [{"Aspect": "food", "VA": "8.00#8.04"}]}
+{"ID": "rest26_aspect_va_test_888", "Aspect_VA": [{"Aspect": "Beans", "VA": "7.30#7.40"}]}
+{"ID": "rest26_aspect_va_test_889", "Aspect_VA": [{"Aspect": "Jesse's", "VA": "6.10#6.10"}]}
+{"ID": "rest26_aspect_va_test_890", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.50#7.52"}]}
+{"ID": "rest26_aspect_va_test_891", "Aspect_VA": [{"Aspect": "diner", "VA": "7.41#7.50"}, {"Aspect": "desserts", "VA": "6.82#6.95"}]}
+{"ID": "rest26_aspect_va_test_892", "Aspect_VA": [{"Aspect": "lettuce", "VA": "4.18#5.51"}]}
+{"ID": "rest26_aspect_va_test_893", "Aspect_VA": [{"Aspect": "Restaurant week", "VA": "6.74#6.76"}]}
+{"ID": "rest26_aspect_va_test_894", "Aspect_VA": [{"Aspect": "beer", "VA": "4.03#5.34"}]}
+{"ID": "rest26_aspect_va_test_895", "Aspect_VA": [{"Aspect": "liquors", "VA": "3.38#5.94"}, {"Aspect": "cocktail", "VA": "3.49#5.83"}]}
+{"ID": "rest26_aspect_va_test_896", "Aspect_VA": [{"Aspect": "strawberry orange juice", "VA": "7.85#7.94"}]}
+{"ID": "rest26_aspect_va_test_897", "Aspect_VA": [{"Aspect": "bakery", "VA": "6.24#6.94"}, {"Aspect": "produce", "VA": "8.02#8.04"}]}
+{"ID": "rest26_aspect_va_test_898", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.68#5.76"}]}
+{"ID": "rest26_aspect_va_test_899", "Aspect_VA": [{"Aspect": "sashimi plate", "VA": "7.30#7.36"}, {"Aspect": "food", "VA": "6.79#6.86"}]}
+{"ID": "rest26_aspect_va_test_900", "Aspect_VA": [{"Aspect": "employee", "VA": "3.80#5.82"}]}
+{"ID": "rest26_aspect_va_test_901", "Aspect_VA": [{"Aspect": "courses", "VA": "7.88#7.86"}]}
+{"ID": "rest26_aspect_va_test_902", "Aspect_VA": [{"Aspect": "No Menu Monday", "VA": "6.94#7.00"}]}
+{"ID": "rest26_aspect_va_test_903", "Aspect_VA": [{"Aspect": "Chick-fil-A sandwhcih", "VA": "5.60#5.82"}]}
+{"ID": "rest26_aspect_va_test_904", "Aspect_VA": [{"Aspect": "food carts", "VA": "6.12#6.34"}]}
+{"ID": "rest26_aspect_va_test_905", "Aspect_VA": [{"Aspect": "food", "VA": "6.64#6.64"}, {"Aspect": "establishment", "VA": "6.89#6.90"}]}
+{"ID": "rest26_aspect_va_test_906", "Aspect_VA": [{"Aspect": "lemonade", "VA": "3.97#5.70"}, {"Aspect": "garlic bread", "VA": "3.70#5.76"}]}
+{"ID": "rest26_aspect_va_test_907", "Aspect_VA": [{"Aspect": "sushi chef", "VA": "6.84#6.75"}]}
+{"ID": "rest26_aspect_va_test_908", "Aspect_VA": [{"Aspect": "dish", "VA": "6.48#6.35"}]}
+{"ID": "rest26_aspect_va_test_909", "Aspect_VA": [{"Aspect": "vendors", "VA": "6.14#7.30"}, {"Aspect": "Food", "VA": "5.54#7.00"}]}
+{"ID": "rest26_aspect_va_test_910", "Aspect_VA": [{"Aspect": "pizza", "VA": "7.60#7.65"}]}
+{"ID": "rest26_aspect_va_test_911", "Aspect_VA": [{"Aspect": "original owners", "VA": "6.95#7.25"}, {"Aspect": "food", "VA": "2.66#6.83"}]}
+{"ID": "rest26_aspect_va_test_912", "Aspect_VA": [{"Aspect": "meal", "VA": "7.74#7.75"}]}
+{"ID": "rest26_aspect_va_test_913", "Aspect_VA": [{"Aspect": "restaurant", "VA": "7.16#7.20"}]}
+{"ID": "rest26_aspect_va_test_914", "Aspect_VA": [{"Aspect": "meal", "VA": "7.39#7.43"}]}
+{"ID": "rest26_aspect_va_test_915", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.12#6.22"}]}
+{"ID": "rest26_aspect_va_test_916", "Aspect_VA": [{"Aspect": "Service", "VA": "2.46#6.98"}, {"Aspect": "management", "VA": "2.50#6.98"}]}
+{"ID": "rest26_aspect_va_test_917", "Aspect_VA": [{"Aspect": "bottle of wine", "VA": "4.50#5.10"}]}
+{"ID": "rest26_aspect_va_test_918", "Aspect_VA": [{"Aspect": "first time experience", "VA": "6.22#6.36"}]}
+{"ID": "rest26_aspect_va_test_919", "Aspect_VA": [{"Aspect": "bagels", "VA": "4.78#5.18"}, {"Aspect": "food", "VA": "5.70#5.56"}]}
+{"ID": "rest26_aspect_va_test_920", "Aspect_VA": [{"Aspect": "food", "VA": "7.95#7.98"}, {"Aspect": "atmosphere", "VA": "7.20#7.14"}]}
+{"ID": "rest26_aspect_va_test_921", "Aspect_VA": [{"Aspect": "taste", "VA": "4.02#5.77"}, {"Aspect": "substance", "VA": "4.14#5.76"}]}
+{"ID": "rest26_aspect_va_test_922", "Aspect_VA": [{"Aspect": "pasta", "VA": "3.60#5.59"}]}
+{"ID": "rest26_aspect_va_test_923", "Aspect_VA": [{"Aspect": "food", "VA": "3.66#5.87"}, {"Aspect": "lunch", "VA": "7.08#7.18"}]}
+{"ID": "rest26_aspect_va_test_924", "Aspect_VA": [{"Aspect": "Lebanese food", "VA": "7.96#8.06"}, {"Aspect": "hookah's", "VA": "8.02#8.02"}, {"Aspect": "wine selection", "VA": "8.10#8.12"}]}
+{"ID": "rest26_aspect_va_test_925", "Aspect_VA": [{"Aspect": "place", "VA": "7.82#7.79"}, {"Aspect": "sushi", "VA": "7.83#7.80"}]}
+{"ID": "rest26_aspect_va_test_926", "Aspect_VA": [{"Aspect": "birthday dinner", "VA": "7.32#7.37"}]}
+{"ID": "rest26_aspect_va_test_927", "Aspect_VA": [{"Aspect": "atmosphere", "VA": "7.50#7.34"}, {"Aspect": "Caribbean fare", "VA": "7.79#7.76"}, {"Aspect": "service", "VA": "7.52#7.45"}]}
+{"ID": "rest26_aspect_va_test_928", "Aspect_VA": [{"Aspect": "aged ribeye steak", "VA": "7.75#7.86"}]}
+{"ID": "rest26_aspect_va_test_929", "Aspect_VA": [{"Aspect": "waitress", "VA": "4.00#5.36"}, {"Aspect": "dish", "VA": "3.70#5.63"}]}
+{"ID": "rest26_aspect_va_test_930", "Aspect_VA": [{"Aspect": "drinks", "VA": "4.44#5.22"}, {"Aspect": "combination", "VA": "4.64#5.13"}]}
+{"ID": "rest26_aspect_va_test_931", "Aspect_VA": [{"Aspect": "ambiance", "VA": "7.10#7.18"}, {"Aspect": "food", "VA": "7.40#7.49"}]}
+{"ID": "rest26_aspect_va_test_932", "Aspect_VA": [{"Aspect": "creamer", "VA": "6.94#6.94"}]}
+{"ID": "rest26_aspect_va_test_933", "Aspect_VA": [{"Aspect": "duo", "VA": "7.30#7.33"}]}
+{"ID": "rest26_aspect_va_test_934", "Aspect_VA": [{"Aspect": "Service", "VA": "7.18#7.32"}]}
+{"ID": "rest26_aspect_va_test_935", "Aspect_VA": [{"Aspect": "Breakfast", "VA": "3.33#5.96"}]}
+{"ID": "rest26_aspect_va_test_936", "Aspect_VA": [{"Aspect": "servings", "VA": "7.90#7.88"}, {"Aspect": "owner", "VA": "7.72#7.76"}]}
+{"ID": "rest26_aspect_va_test_937", "Aspect_VA": [{"Aspect": "staff", "VA": "7.25#7.37"}, {"Aspect": "pizza", "VA": "7.68#7.78"}]}
+{"ID": "rest26_aspect_va_test_938", "Aspect_VA": [{"Aspect": "wine", "VA": "7.24#7.19"}, {"Aspect": "cheeses", "VA": "7.22#7.16"}]}
+{"ID": "rest26_aspect_va_test_939", "Aspect_VA": [{"Aspect": "menu", "VA": "4.24#5.66"}]}
+{"ID": "rest26_aspect_va_test_940", "Aspect_VA": [{"Aspect": "food", "VA": "5.85#6.30"}]}
+{"ID": "rest26_aspect_va_test_941", "Aspect_VA": [{"Aspect": "restaurant", "VA": "3.85#5.38"}, {"Aspect": "cocktail", "VA": "5.96#5.84"}]}
+{"ID": "rest26_aspect_va_test_942", "Aspect_VA": [{"Aspect": "Taste of Havana", "VA": "6.59#6.30"}]}
+{"ID": "rest26_aspect_va_test_943", "Aspect_VA": [{"Aspect": "setting", "VA": "7.18#7.28"}, {"Aspect": "environment", "VA": "7.19#7.24"}, {"Aspect": "food", "VA": "6.58#6.40"}]}
+{"ID": "rest26_aspect_va_test_944", "Aspect_VA": [{"Aspect": "portions", "VA": "4.70#5.28"}]}
+{"ID": "rest26_aspect_va_test_945", "Aspect_VA": [{"Aspect": "restaurants", "VA": "7.81#7.78"}]}
+{"ID": "rest26_aspect_va_test_946", "Aspect_VA": [{"Aspect": "menu", "VA": "4.28#5.34"}]}
+{"ID": "rest26_aspect_va_test_947", "Aspect_VA": [{"Aspect": "dessert", "VA": "6.77#6.84"}]}
+{"ID": "rest26_aspect_va_test_948", "Aspect_VA": [{"Aspect": "hostess", "VA": "7.30#7.34"}, {"Aspect": "busboy", "VA": "7.40#7.46"}, {"Aspect": "staff", "VA": "7.32#7.40"}, {"Aspect": "waiter", "VA": "7.39#7.45"}]}
+{"ID": "rest26_aspect_va_test_949", "Aspect_VA": [{"Aspect": "hospitality", "VA": "7.98#7.94"}, {"Aspect": "food", "VA": "7.79#7.80"}]}
+{"ID": "rest26_aspect_va_test_950", "Aspect_VA": [{"Aspect": "ambiance", "VA": "7.62#7.68"}, {"Aspect": "service", "VA": "8.09#8.16"}]}
+{"ID": "rest26_aspect_va_test_951", "Aspect_VA": [{"Aspect": "drink", "VA": "3.70#5.62"}, {"Aspect": "lady", "VA": "4.54#5.42"}]}
+{"ID": "rest26_aspect_va_test_952", "Aspect_VA": [{"Aspect": "food", "VA": "4.22#5.26"}, {"Aspect": "service", "VA": "4.18#5.28"}]}
+{"ID": "rest26_aspect_va_test_953", "Aspect_VA": [{"Aspect": "selections", "VA": "7.85#7.79"}]}
+{"ID": "rest26_aspect_va_test_954", "Aspect_VA": [{"Aspect": "flinstones pushup-pop drink", "VA": "7.51#7.58"}]}
+{"ID": "rest26_aspect_va_test_955", "Aspect_VA": [{"Aspect": "pizzeria", "VA": "6.57#6.64"}]}
+{"ID": "rest26_aspect_va_test_956", "Aspect_VA": [{"Aspect": "wings", "VA": "6.28#6.20"}, {"Aspect": "fries", "VA": "6.32#6.24"}]}
+{"ID": "rest26_aspect_va_test_957", "Aspect_VA": [{"Aspect": "food", "VA": "6.80#6.82"}]}
+{"ID": "rest26_aspect_va_test_958", "Aspect_VA": [{"Aspect": "buffet", "VA": "6.76#6.80"}]}
+{"ID": "rest26_aspect_va_test_959", "Aspect_VA": [{"Aspect": "Wings", "VA": "4.14#5.56"}, {"Aspect": "burgers", "VA": "4.28#5.32"}, {"Aspect": "spinach artichoke dip", "VA": "4.96#5.24"}]}
+{"ID": "rest26_aspect_va_test_960", "Aspect_VA": [{"Aspect": "Pizza", "VA": "5.02#5.68"}]}
+{"ID": "rest26_aspect_va_test_961", "Aspect_VA": [{"Aspect": "staff", "VA": "7.30#7.42"}, {"Aspect": "interior design", "VA": "8.12#8.18"}, {"Aspect": "food", "VA": "7.85#7.86"}]}
+{"ID": "rest26_aspect_va_test_962", "Aspect_VA": [{"Aspect": "tall cookiesoh", "VA": "7.58#7.60"}]}
+{"ID": "rest26_aspect_va_test_963", "Aspect_VA": [{"Aspect": "small table", "VA": "5.67#5.57"}, {"Aspect": "restaurant", "VA": "5.76#5.72"}]}
+{"ID": "rest26_aspect_va_test_964", "Aspect_VA": [{"Aspect": "French-German dishes", "VA": "7.82#7.73"}]}
+{"ID": "rest26_aspect_va_test_965", "Aspect_VA": [{"Aspect": "quesadillas", "VA": "3.99#5.45"}]}
+{"ID": "rest26_aspect_va_test_966", "Aspect_VA": [{"Aspect": "service", "VA": "3.36#6.00"}]}
+{"ID": "rest26_aspect_va_test_967", "Aspect_VA": [{"Aspect": "foods", "VA": "8.17#8.16"}, {"Aspect": "Service", "VA": "8.02#8.04"}, {"Aspect": "entrees", "VA": "8.12#8.10"}]}
+{"ID": "rest26_aspect_va_test_968", "Aspect_VA": [{"Aspect": "whole milk", "VA": "7.51#7.62"}]}
+{"ID": "rest26_aspect_va_test_969", "Aspect_VA": [{"Aspect": "food", "VA": "7.96#8.00"}]}
+{"ID": "rest26_aspect_va_test_970", "Aspect_VA": [{"Aspect": "lunch buffet", "VA": "7.24#7.40"}]}
+{"ID": "rest26_aspect_va_test_971", "Aspect_VA": [{"Aspect": "menu", "VA": "5.12#5.49"}]}
+{"ID": "rest26_aspect_va_test_972", "Aspect_VA": [{"Aspect": "Indian food", "VA": "7.74#7.86"}]}
+{"ID": "rest26_aspect_va_test_973", "Aspect_VA": [{"Aspect": "Sandwiches", "VA": "7.46#7.60"}]}
+{"ID": "rest26_aspect_va_test_974", "Aspect_VA": [{"Aspect": "Bloody Mary", "VA": "2.34#7.06"}]}
+{"ID": "rest26_aspect_va_test_975", "Aspect_VA": [{"Aspect": "food", "VA": "7.52#7.55"}, {"Aspect": "selection", "VA": "7.51#7.60"}]}
+{"ID": "rest26_aspect_va_test_976", "Aspect_VA": [{"Aspect": "sub sandwich", "VA": "3.12#6.24"}, {"Aspect": "veggie pizza", "VA": "3.02#6.30"}]}
+{"ID": "rest26_aspect_va_test_977", "Aspect_VA": [{"Aspect": "beer selection", "VA": "7.17#7.28"}]}
+{"ID": "rest26_aspect_va_test_978", "Aspect_VA": [{"Aspect": "ticket", "VA": "7.28#7.42"}, {"Aspect": "sushi", "VA": "7.50#7.56"}]}
+{"ID": "rest26_aspect_va_test_979", "Aspect_VA": [{"Aspect": "Folks", "VA": "7.22#7.27"}, {"Aspect": "food", "VA": "7.54#7.59"}, {"Aspect": "Italian Specialties", "VA": "7.54#7.50"}]}
+{"ID": "rest26_aspect_va_test_980", "Aspect_VA": [{"Aspect": "tempura", "VA": "7.38#7.30"}, {"Aspect": "rice bowls", "VA": "7.43#7.36"}]}
+{"ID": "rest26_aspect_va_test_981", "Aspect_VA": [{"Aspect": "burger craving", "VA": "6.82#6.62"}]}
+{"ID": "rest26_aspect_va_test_982", "Aspect_VA": [{"Aspect": "roux", "VA": "4.26#5.62"}]}
+{"ID": "rest26_aspect_va_test_983", "Aspect_VA": [{"Aspect": "breakfast", "VA": "5.49#6.17"}, {"Aspect": "greek yogurt", "VA": "6.57#6.14"}]}
+{"ID": "rest26_aspect_va_test_984", "Aspect_VA": [{"Aspect": "waiter", "VA": "4.18#5.48"}]}
+{"ID": "rest26_aspect_va_test_985", "Aspect_VA": [{"Aspect": "service and accommodations", "VA": "7.99#7.92"}]}
+{"ID": "rest26_aspect_va_test_986", "Aspect_VA": [{"Aspect": "restaurant", "VA": "6.67#6.66"}, {"Aspect": "family restaurant", "VA": "6.70#6.65"}]}
+{"ID": "rest26_aspect_va_test_987", "Aspect_VA": [{"Aspect": "brunch place", "VA": "7.50#7.56"}]}
+{"ID": "rest26_aspect_va_test_988", "Aspect_VA": [{"Aspect": "BBQ nachos", "VA": "3.10#6.28"}]}
+{"ID": "rest26_aspect_va_test_989", "Aspect_VA": [{"Aspect": "client dinner", "VA": "7.22#7.28"}]}
+{"ID": "rest26_aspect_va_test_990", "Aspect_VA": [{"Aspect": "staff", "VA": "7.48#7.46"}, {"Aspect": "birthday dinner", "VA": "7.88#7.92"}]}
+{"ID": "rest26_aspect_va_test_991", "Aspect_VA": [{"Aspect": "restaurant", "VA": "5.98#6.12"}]}
+{"ID": "rest26_aspect_va_test_992", "Aspect_VA": [{"Aspect": "dinner", "VA": "6.92#7.06"}]}
+{"ID": "rest26_aspect_va_test_993", "Aspect_VA": [{"Aspect": "bar food", "VA": "4.47#5.48"}]}
+{"ID": "rest26_aspect_va_test_994", "Aspect_VA": [{"Aspect": "meal", "VA": "6.88#6.89"}]}
+{"ID": "rest26_aspect_va_test_995", "Aspect_VA": [{"Aspect": "beer", "VA": "8.08#8.14"}]}
+{"ID": "rest26_aspect_va_test_996", "Aspect_VA": [{"Aspect": "breakfast sandwich", "VA": "7.60#7.64"}]}
+{"ID": "rest26_aspect_va_test_997", "Aspect_VA": [{"Aspect": "food", "VA": "7.74#7.72"}]}
+{"ID": "rest26_aspect_va_test_998", "Aspect_VA": [{"Aspect": "waiter", "VA": "4.07#5.41"}, {"Aspect": "beef or pork", "VA": "3.12#6.20"}]}
+{"ID": "rest26_aspect_va_test_999", "Aspect_VA": [{"Aspect": "pizza", "VA": "6.92#6.82"}, {"Aspect": "brew", "VA": "6.76#6.68"}]}
+{"ID": "rest26_aspect_va_test_1000", "Aspect_VA": [{"Aspect": "food", "VA": "7.62#7.68"}]}

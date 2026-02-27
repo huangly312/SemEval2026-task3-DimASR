@@ -1,0 +1,70 @@
+{
+  "timestamp": "20260125_222048",
+  "ensemble_info": {
+    "model_mapping": {
+      "eng-laptop": [
+        "large-32-1e-5-7-sigmoid",
+        "large-32-2e-5-5-sigmoid"
+      ],
+      "eng-restaurant": [
+        "large-32-1e-5-7-sigmoid",
+        "large-32-8e-6-3-sigmoid"
+      ],
+      "zho-restaurant": [
+        "large-32-1e-5-3",
+        "large-32-1e-5-5-sigmoid",
+        "large-32-8e-6-7"
+      ],
+      "zho-laptop": [
+        "large-16-1e-5-7-sigmoid",
+        "large-32-2e-5-5-sigmoid",
+        "large-32-8e-6-3-sigmoid",
+        "large-32-8e-6-7"
+      ],
+      "zho-finance": [
+        "large-16-1e-5-7-sigmoid",
+        "large-32-1e-5-7-sigmoid",
+        "large-32-8e-6-7"
+      ],
+      "jpn-hotel": [
+        "large-32-1e-5-5-sigmoid",
+        "large-32-8e-6-3-sigmoid",
+        "large-32-8e-6-7"
+      ],
+      "jpn-finance": [
+        "large-16-1e-5-7-sigmoid",
+        "large-32-1e-5-5-sigmoid",
+        "large-32-1e-5-7-sigmoid",
+        "large-32-8e-6-7"
+      ],
+      "rus-restaurant": [
+        "large-16-1e-5-7-sigmoid",
+        "large-32-2e-5-5-sigmoid"
+      ],
+      "tat-restaurant": [
+        "large-32-1e-5-3",
+        "large-32-1e-5-7-sigmoid",
+        "large-32-8e-6-7"
+      ],
+      "ukr-restaurant": [
+        "large-16-1e-5-7-sigmoid",
+        "large-32-2e-5-5-sigmoid"
+      ]
+    }
+  },
+  "prediction_files": {
+    "count": 10,
+    "files": [
+      "pred_eng_laptop.jsonl",
+      "pred_eng_restaurant.jsonl",
+      "pred_zho_restaurant.jsonl",
+      "pred_zho_laptop.jsonl",
+      "pred_zho_finance.jsonl",
+      "pred_jpn_hotel.jsonl",
+      "pred_jpn_finance.jsonl",
+      "pred_rus_restaurant.jsonl",
+      "pred_tat_restaurant.jsonl",
+      "pred_ukr_restaurant.jsonl"
+    ]
+  }
+}

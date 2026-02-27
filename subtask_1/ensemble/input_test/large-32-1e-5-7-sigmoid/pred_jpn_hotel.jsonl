@@ -1,0 +1,800 @@
+{"ID": "hotel26_aspect_va_test_1", "Aspect_VA": [{"Aspect": "対応", "VA": "5.88#5.57"}]}
+{"ID": "hotel26_aspect_va_test_2", "Aspect_VA": [{"Aspect": "シャワー", "VA": "3.46#6.01"}]}
+{"ID": "hotel26_aspect_va_test_3", "Aspect_VA": [{"Aspect": "銭湯", "VA": "6.35#6.15"}]}
+{"ID": "hotel26_aspect_va_test_4", "Aspect_VA": [{"Aspect": "宿泊", "VA": "7.17#7.10"}]}
+{"ID": "hotel26_aspect_va_test_5", "Aspect_VA": [{"Aspect": "和室", "VA": "6.46#6.21"}]}
+{"ID": "hotel26_aspect_va_test_6", "Aspect_VA": [{"Aspect": "内装", "VA": "6.65#6.27"}]}
+{"ID": "hotel26_aspect_va_test_7", "Aspect_VA": [{"Aspect": "ウォシュレット", "VA": "3.59#5.90"}, {"Aspect": "水回り", "VA": "3.65#5.90"}]}
+{"ID": "hotel26_aspect_va_test_8", "Aspect_VA": [{"Aspect": "朝食", "VA": "3.95#5.84"}]}
+{"ID": "hotel26_aspect_va_test_9", "Aspect_VA": [{"Aspect": "数", "VA": "3.60#5.77"}]}
+{"ID": "hotel26_aspect_va_test_10", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.37#6.15"}]}
+{"ID": "hotel26_aspect_va_test_11", "Aspect_VA": [{"Aspect": "スタンドライト", "VA": "3.81#5.78"}]}
+{"ID": "hotel26_aspect_va_test_12", "Aspect_VA": [{"Aspect": "糞", "VA": "2.60#7.23"}]}
+{"ID": "hotel26_aspect_va_test_13", "Aspect_VA": [{"Aspect": "駅", "VA": "5.44#5.37"}]}
+{"ID": "hotel26_aspect_va_test_14", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.53#6.19"}]}
+{"ID": "hotel26_aspect_va_test_15", "Aspect_VA": [{"Aspect": "立地", "VA": "6.42#6.07"}]}
+{"ID": "hotel26_aspect_va_test_16", "Aspect_VA": [{"Aspect": "対応", "VA": "5.77#5.76"}]}
+{"ID": "hotel26_aspect_va_test_17", "Aspect_VA": [{"Aspect": "館内サービス", "VA": "5.89#5.55"}, {"Aspect": "駐車場", "VA": "3.70#6.00"}]}
+{"ID": "hotel26_aspect_va_test_18", "Aspect_VA": [{"Aspect": "立地", "VA": "7.28#7.24"}]}
+{"ID": "hotel26_aspect_va_test_19", "Aspect_VA": [{"Aspect": "対応", "VA": "6.61#6.36"}]}
+{"ID": "hotel26_aspect_va_test_20", "Aspect_VA": [{"Aspect": "朝食会場", "VA": "6.99#6.71"}, {"Aspect": "朝食", "VA": "6.99#6.88"}]}
+{"ID": "hotel26_aspect_va_test_21", "Aspect_VA": [{"Aspect": "朝食", "VA": "3.84#5.81"}]}
+{"ID": "hotel26_aspect_va_test_22", "Aspect_VA": [{"Aspect": "駐車場", "VA": "6.26#5.87"}, {"Aspect": "車", "VA": "6.14#5.79"}]}
+{"ID": "hotel26_aspect_va_test_23", "Aspect_VA": [{"Aspect": "水温", "VA": "5.41#6.20"}]}
+{"ID": "hotel26_aspect_va_test_24", "Aspect_VA": [{"Aspect": "プライベートビーチ", "VA": "7.09#6.88"}]}
+{"ID": "hotel26_aspect_va_test_25", "Aspect_VA": [{"Aspect": "掃除", "VA": "3.66#5.79"}]}
+{"ID": "hotel26_aspect_va_test_26", "Aspect_VA": [{"Aspect": "おもてなし", "VA": "7.61#7.51"}, {"Aspect": "食事", "VA": "7.60#7.50"}]}
+{"ID": "hotel26_aspect_va_test_27", "Aspect_VA": [{"Aspect": "設備", "VA": "6.31#5.99"}]}
+{"ID": "hotel26_aspect_va_test_28", "Aspect_VA": [{"Aspect": "アメニティー", "VA": "6.68#6.43"}]}
+{"ID": "hotel26_aspect_va_test_29", "Aspect_VA": [{"Aspect": "イタリアン", "VA": "6.47#6.21"}, {"Aspect": "和食", "VA": "6.52#6.27"}]}
+{"ID": "hotel26_aspect_va_test_30", "Aspect_VA": [{"Aspect": "朝食バイキング", "VA": "3.48#5.93"}]}
+{"ID": "hotel26_aspect_va_test_31", "Aspect_VA": [{"Aspect": "マッサージチェア", "VA": "6.71#6.51"}]}
+{"ID": "hotel26_aspect_va_test_32", "Aspect_VA": [{"Aspect": "利用", "VA": "5.64#5.42"}, {"Aspect": "バス", "VA": "3.48#6.39"}, {"Aspect": "部屋", "VA": "3.48#6.32"}]}
+{"ID": "hotel26_aspect_va_test_33", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.47#6.16"}]}
+{"ID": "hotel26_aspect_va_test_34", "Aspect_VA": [{"Aspect": "立地", "VA": "6.77#6.56"}]}
+{"ID": "hotel26_aspect_va_test_35", "Aspect_VA": [{"Aspect": "周りの音", "VA": "2.97#6.46"}]}
+{"ID": "hotel26_aspect_va_test_36", "Aspect_VA": [{"Aspect": "商業施設", "VA": "6.29#6.00"}, {"Aspect": "スーパー", "VA": "6.32#6.07"}]}
+{"ID": "hotel26_aspect_va_test_37", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.13#5.72"}]}
+{"ID": "hotel26_aspect_va_test_38", "Aspect_VA": [{"Aspect": "立地", "VA": "6.54#6.19"}]}
+{"ID": "hotel26_aspect_va_test_39", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.49#6.16"}]}
+{"ID": "hotel26_aspect_va_test_40", "Aspect_VA": [{"Aspect": "品数", "VA": "3.90#5.64"}]}
+{"ID": "hotel26_aspect_va_test_41", "Aspect_VA": [{"Aspect": "温泉", "VA": "7.01#6.89"}]}
+{"ID": "hotel26_aspect_va_test_42", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.01#6.93"}]}
+{"ID": "hotel26_aspect_va_test_43", "Aspect_VA": [{"Aspect": "宿泊客", "VA": "4.75#5.35"}]}
+{"ID": "hotel26_aspect_va_test_44", "Aspect_VA": [{"Aspect": "料理", "VA": "6.38#6.63"}, {"Aspect": "若狭牛", "VA": "3.22#6.26"}]}
+{"ID": "hotel26_aspect_va_test_45", "Aspect_VA": [{"Aspect": "応対", "VA": "6.63#6.41"}]}
+{"ID": "hotel26_aspect_va_test_46", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.65#6.50"}]}
+{"ID": "hotel26_aspect_va_test_47", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.47#6.17"}]}
+{"ID": "hotel26_aspect_va_test_48", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.97#6.76"}, {"Aspect": "テラス", "VA": "6.90#6.63"}, {"Aspect": "朝食", "VA": "6.98#6.67"}]}
+{"ID": "hotel26_aspect_va_test_49", "Aspect_VA": [{"Aspect": "立地", "VA": "6.79#6.69"}]}
+{"ID": "hotel26_aspect_va_test_50", "Aspect_VA": [{"Aspect": "立地", "VA": "6.93#6.76"}]}
+{"ID": "hotel26_aspect_va_test_51", "Aspect_VA": [{"Aspect": "割高", "VA": "3.57#5.96"}]}
+{"ID": "hotel26_aspect_va_test_52", "Aspect_VA": [{"Aspect": "味", "VA": "3.90#5.44"}]}
+{"ID": "hotel26_aspect_va_test_53", "Aspect_VA": [{"Aspect": "サービス", "VA": "2.84#6.83"}]}
+{"ID": "hotel26_aspect_va_test_54", "Aspect_VA": [{"Aspect": "朝ごはん", "VA": "4.16#5.37"}]}
+{"ID": "hotel26_aspect_va_test_55", "Aspect_VA": [{"Aspect": "夕食", "VA": "2.50#7.17"}]}
+{"ID": "hotel26_aspect_va_test_56", "Aspect_VA": [{"Aspect": "港", "VA": "6.79#6.48"}]}
+{"ID": "hotel26_aspect_va_test_57", "Aspect_VA": [{"Aspect": "朝食", "VA": "3.95#5.72"}]}
+{"ID": "hotel26_aspect_va_test_58", "Aspect_VA": [{"Aspect": "ホテル", "VA": "3.58#6.02"}]}
+{"ID": "hotel26_aspect_va_test_59", "Aspect_VA": [{"Aspect": "サウナ", "VA": "6.64#6.36"}, {"Aspect": "アイス", "VA": "6.72#6.53"}]}
+{"ID": "hotel26_aspect_va_test_60", "Aspect_VA": [{"Aspect": "館内", "VA": "6.53#6.18"}]}
+{"ID": "hotel26_aspect_va_test_61", "Aspect_VA": [{"Aspect": "木屑", "VA": "3.02#6.34"}, {"Aspect": "米粒", "VA": "2.71#6.80"}, {"Aspect": "掃除", "VA": "3.41#6.12"}]}
+{"ID": "hotel26_aspect_va_test_62", "Aspect_VA": [{"Aspect": "食事", "VA": "7.12#7.07"}]}
+{"ID": "hotel26_aspect_va_test_63", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.80#6.67"}]}
+{"ID": "hotel26_aspect_va_test_64", "Aspect_VA": [{"Aspect": "風呂", "VA": "3.68#6.13"}]}
+{"ID": "hotel26_aspect_va_test_65", "Aspect_VA": [{"Aspect": "お風呂", "VA": "3.72#5.94"}, {"Aspect": "フロント女性スタッフの態度", "VA": "3.48#5.87"}]}
+{"ID": "hotel26_aspect_va_test_66", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.51#6.20"}, {"Aspect": "飲み屋", "VA": "6.42#6.18"}, {"Aspect": "駅", "VA": "6.52#6.16"}]}
+{"ID": "hotel26_aspect_va_test_67", "Aspect_VA": [{"Aspect": "お茶", "VA": "6.80#6.62"}]}
+{"ID": "hotel26_aspect_va_test_68", "Aspect_VA": [{"Aspect": "部屋", "VA": "4.74#5.85"}]}
+{"ID": "hotel26_aspect_va_test_69", "Aspect_VA": [{"Aspect": "海側", "VA": "6.57#6.23"}, {"Aspect": "山側", "VA": "6.58#6.25"}]}
+{"ID": "hotel26_aspect_va_test_70", "Aspect_VA": [{"Aspect": "Wi-Fi", "VA": "3.82#5.52"}]}
+{"ID": "hotel26_aspect_va_test_71", "Aspect_VA": [{"Aspect": "シャワー", "VA": "3.14#6.43"}]}
+{"ID": "hotel26_aspect_va_test_72", "Aspect_VA": [{"Aspect": "段差", "VA": "3.27#6.37"}]}
+{"ID": "hotel26_aspect_va_test_73", "Aspect_VA": [{"Aspect": "風呂", "VA": "5.17#5.87"}]}
+{"ID": "hotel26_aspect_va_test_74", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.23#6.07"}]}
+{"ID": "hotel26_aspect_va_test_75", "Aspect_VA": [{"Aspect": "シャワー", "VA": "3.47#6.19"}]}
+{"ID": "hotel26_aspect_va_test_76", "Aspect_VA": [{"Aspect": "夕食", "VA": "3.39#6.05"}]}
+{"ID": "hotel26_aspect_va_test_77", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.24#6.13"}, {"Aspect": "空調", "VA": "4.57#5.51"}]}
+{"ID": "hotel26_aspect_va_test_78", "Aspect_VA": [{"Aspect": "施設", "VA": "6.61#6.42"}]}
+{"ID": "hotel26_aspect_va_test_79", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.43#6.27"}]}
+{"ID": "hotel26_aspect_va_test_80", "Aspect_VA": [{"Aspect": "駅", "VA": "6.14#5.75"}, {"Aspect": "大浴場", "VA": "6.10#5.76"}]}
+{"ID": "hotel26_aspect_va_test_81", "Aspect_VA": [{"Aspect": "マットレス", "VA": "3.24#6.20"}]}
+{"ID": "hotel26_aspect_va_test_82", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.64#6.35"}]}
+{"ID": "hotel26_aspect_va_test_83", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "3.41#6.14"}]}
+{"ID": "hotel26_aspect_va_test_84", "Aspect_VA": [{"Aspect": "送迎バス", "VA": "6.33#6.03"}, {"Aspect": "無料の朝食", "VA": "6.53#6.30"}]}
+{"ID": "hotel26_aspect_va_test_85", "Aspect_VA": [{"Aspect": "宿", "VA": "6.26#6.06"}]}
+{"ID": "hotel26_aspect_va_test_86", "Aspect_VA": [{"Aspect": "テレビ", "VA": "5.77#5.68"}]}
+{"ID": "hotel26_aspect_va_test_87", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.65#6.45"}]}
+{"ID": "hotel26_aspect_va_test_88", "Aspect_VA": [{"Aspect": "Wi-Fi", "VA": "3.64#5.73"}]}
+{"ID": "hotel26_aspect_va_test_89", "Aspect_VA": [{"Aspect": "レンタサイクル", "VA": "6.85#6.80"}]}
+{"ID": "hotel26_aspect_va_test_90", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.63#6.32"}, {"Aspect": "対応", "VA": "7.29#7.19"}, {"Aspect": "アニメティ", "VA": "6.63#6.27"}]}
+{"ID": "hotel26_aspect_va_test_91", "Aspect_VA": [{"Aspect": "眺望", "VA": "6.49#6.19"}]}
+{"ID": "hotel26_aspect_va_test_92", "Aspect_VA": [{"Aspect": "受付", "VA": "3.30#6.07"}]}
+{"ID": "hotel26_aspect_va_test_93", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.47#6.04"}]}
+{"ID": "hotel26_aspect_va_test_94", "Aspect_VA": [{"Aspect": "部屋", "VA": "4.01#5.73"}]}
+{"ID": "hotel26_aspect_va_test_95", "Aspect_VA": [{"Aspect": "水回り", "VA": "2.48#7.12"}]}
+{"ID": "hotel26_aspect_va_test_96", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.60#6.40"}, {"Aspect": "品数", "VA": "6.54#6.29"}]}
+{"ID": "hotel26_aspect_va_test_97", "Aspect_VA": [{"Aspect": "変わる前", "VA": "6.18#6.02"}]}
+{"ID": "hotel26_aspect_va_test_98", "Aspect_VA": [{"Aspect": "健康ランド", "VA": "6.88#6.67"}, {"Aspect": "ホテル", "VA": "4.13#5.76"}]}
+{"ID": "hotel26_aspect_va_test_99", "Aspect_VA": [{"Aspect": "ドリップパック", "VA": "6.27#6.03"}, {"Aspect": "サービス", "VA": "6.51#6.16"}]}
+{"ID": "hotel26_aspect_va_test_100", "Aspect_VA": [{"Aspect": "清掃", "VA": "4.16#5.59"}]}
+{"ID": "hotel26_aspect_va_test_101", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.39#6.04"}]}
+{"ID": "hotel26_aspect_va_test_102", "Aspect_VA": [{"Aspect": "気遣い", "VA": "3.81#5.87"}]}
+{"ID": "hotel26_aspect_va_test_103", "Aspect_VA": [{"Aspect": "天婦羅", "VA": "4.23#5.44"}]}
+{"ID": "hotel26_aspect_va_test_104", "Aspect_VA": [{"Aspect": "立地", "VA": "6.87#6.67"}]}
+{"ID": "hotel26_aspect_va_test_105", "Aspect_VA": [{"Aspect": "ビジネスホテル", "VA": "5.16#5.04"}]}
+{"ID": "hotel26_aspect_va_test_106", "Aspect_VA": [{"Aspect": "スタッフさんの対応", "VA": "6.53#6.35"}]}
+{"ID": "hotel26_aspect_va_test_107", "Aspect_VA": [{"Aspect": "掛け物", "VA": "3.35#6.07"}, {"Aspect": "食堂", "VA": "3.43#5.94"}]}
+{"ID": "hotel26_aspect_va_test_108", "Aspect_VA": [{"Aspect": "個々の商品", "VA": "7.01#6.67"}]}
+{"ID": "hotel26_aspect_va_test_109", "Aspect_VA": [{"Aspect": "清掃", "VA": "6.71#6.43"}]}
+{"ID": "hotel26_aspect_va_test_110", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.41#6.10"}]}
+{"ID": "hotel26_aspect_va_test_111", "Aspect_VA": [{"Aspect": "仕打ち", "VA": "3.53#6.05"}]}
+{"ID": "hotel26_aspect_va_test_112", "Aspect_VA": [{"Aspect": "サービス", "VA": "7.14#7.06"}]}
+{"ID": "hotel26_aspect_va_test_113", "Aspect_VA": [{"Aspect": "駐車場", "VA": "3.67#6.03"}]}
+{"ID": "hotel26_aspect_va_test_114", "Aspect_VA": [{"Aspect": "ホテル", "VA": "3.59#5.91"}]}
+{"ID": "hotel26_aspect_va_test_115", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.74#6.50"}]}
+{"ID": "hotel26_aspect_va_test_116", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.51#6.21"}]}
+{"ID": "hotel26_aspect_va_test_117", "Aspect_VA": [{"Aspect": "駅", "VA": "6.00#5.62"}]}
+{"ID": "hotel26_aspect_va_test_118", "Aspect_VA": [{"Aspect": "温泉", "VA": "7.10#6.92"}, {"Aspect": "お蕎麦巡り", "VA": "7.04#6.92"}]}
+{"ID": "hotel26_aspect_va_test_119", "Aspect_VA": [{"Aspect": "接客", "VA": "6.89#6.82"}]}
+{"ID": "hotel26_aspect_va_test_120", "Aspect_VA": [{"Aspect": "掃除", "VA": "5.55#5.73"}]}
+{"ID": "hotel26_aspect_va_test_121", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.08#5.63"}]}
+{"ID": "hotel26_aspect_va_test_122", "Aspect_VA": [{"Aspect": "大山の湯", "VA": "4.04#5.60"}]}
+{"ID": "hotel26_aspect_va_test_123", "Aspect_VA": [{"Aspect": "湯", "VA": "6.75#6.57"}]}
+{"ID": "hotel26_aspect_va_test_124", "Aspect_VA": [{"Aspect": "ヘアドライヤー", "VA": "2.71#6.79"}]}
+{"ID": "hotel26_aspect_va_test_125", "Aspect_VA": [{"Aspect": "人", "VA": "6.03#5.79"}]}
+{"ID": "hotel26_aspect_va_test_126", "Aspect_VA": [{"Aspect": "カツオのたたき", "VA": "6.75#6.87"}]}
+{"ID": "hotel26_aspect_va_test_127", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "3.96#5.73"}]}
+{"ID": "hotel26_aspect_va_test_128", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.22#5.73"}]}
+{"ID": "hotel26_aspect_va_test_129", "Aspect_VA": [{"Aspect": "対応", "VA": "7.06#6.85"}]}
+{"ID": "hotel26_aspect_va_test_130", "Aspect_VA": [{"Aspect": "魚介類", "VA": "3.71#5.98"}]}
+{"ID": "hotel26_aspect_va_test_131", "Aspect_VA": [{"Aspect": "ウェルカムバー", "VA": "6.66#6.38"}]}
+{"ID": "hotel26_aspect_va_test_132", "Aspect_VA": [{"Aspect": "駐車場", "VA": "3.82#5.69"}]}
+{"ID": "hotel26_aspect_va_test_133", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.59#6.30"}]}
+{"ID": "hotel26_aspect_va_test_134", "Aspect_VA": [{"Aspect": "掃除", "VA": "3.02#6.51"}, {"Aspect": "部屋", "VA": "2.76#6.84"}]}
+{"ID": "hotel26_aspect_va_test_135", "Aspect_VA": [{"Aspect": "コーヒー", "VA": "6.72#6.42"}, {"Aspect": "朝食", "VA": "6.71#6.43"}]}
+{"ID": "hotel26_aspect_va_test_136", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.61#6.47"}]}
+{"ID": "hotel26_aspect_va_test_137", "Aspect_VA": [{"Aspect": "食事メニュー", "VA": "6.74#6.57"}]}
+{"ID": "hotel26_aspect_va_test_138", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "5.96#6.01"}]}
+{"ID": "hotel26_aspect_va_test_139", "Aspect_VA": [{"Aspect": "タオル", "VA": "3.21#6.49"}]}
+{"ID": "hotel26_aspect_va_test_140", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.52#6.23"}, {"Aspect": "伊勢神宮", "VA": "6.25#5.90"}]}
+{"ID": "hotel26_aspect_va_test_141", "Aspect_VA": [{"Aspect": "宿", "VA": "6.83#6.62"}, {"Aspect": "対応", "VA": "6.56#6.23"}]}
+{"ID": "hotel26_aspect_va_test_142", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.98#6.76"}, {"Aspect": "露天風呂", "VA": "6.76#6.66"}]}
+{"ID": "hotel26_aspect_va_test_143", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.66#6.56"}]}
+{"ID": "hotel26_aspect_va_test_144", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.49#6.05"}, {"Aspect": "朝食", "VA": "6.78#6.45"}]}
+{"ID": "hotel26_aspect_va_test_145", "Aspect_VA": [{"Aspect": "バストイレ", "VA": "3.16#6.13"}, {"Aspect": "使い勝手", "VA": "3.07#6.18"}, {"Aspect": "建物", "VA": "3.14#6.32"}]}
+{"ID": "hotel26_aspect_va_test_146", "Aspect_VA": [{"Aspect": "屋上", "VA": "6.63#6.40"}]}
+{"ID": "hotel26_aspect_va_test_147", "Aspect_VA": [{"Aspect": "バスタブ", "VA": "6.37#5.96"}, {"Aspect": "部屋", "VA": "6.52#6.14"}]}
+{"ID": "hotel26_aspect_va_test_148", "Aspect_VA": [{"Aspect": "内容", "VA": "3.82#5.78"}]}
+{"ID": "hotel26_aspect_va_test_149", "Aspect_VA": [{"Aspect": "立地", "VA": "7.12#7.08"}]}
+{"ID": "hotel26_aspect_va_test_150", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.62#6.59"}]}
+{"ID": "hotel26_aspect_va_test_151", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.19#6.00"}, {"Aspect": "評価", "VA": "3.93#5.60"}]}
+{"ID": "hotel26_aspect_va_test_152", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.42#6.25"}, {"Aspect": "食事", "VA": "6.41#6.25"}]}
+{"ID": "hotel26_aspect_va_test_153", "Aspect_VA": [{"Aspect": "フリードリンク", "VA": "3.61#5.92"}]}
+{"ID": "hotel26_aspect_va_test_154", "Aspect_VA": [{"Aspect": "コンビニ", "VA": "6.53#6.25"}]}
+{"ID": "hotel26_aspect_va_test_155", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.74#6.47"}]}
+{"ID": "hotel26_aspect_va_test_156", "Aspect_VA": [{"Aspect": "源泉", "VA": "7.25#7.25"}, {"Aspect": "客室のお風呂", "VA": "7.25#7.20"}]}
+{"ID": "hotel26_aspect_va_test_157", "Aspect_VA": [{"Aspect": "対応", "VA": "6.40#6.14"}]}
+{"ID": "hotel26_aspect_va_test_158", "Aspect_VA": [{"Aspect": "夜鳴きそば", "VA": "4.09#5.57"}, {"Aspect": "大浴場付き宿泊施設", "VA": "4.26#5.35"}]}
+{"ID": "hotel26_aspect_va_test_159", "Aspect_VA": [{"Aspect": "室内", "VA": "6.38#6.01"}]}
+{"ID": "hotel26_aspect_va_test_160", "Aspect_VA": [{"Aspect": "プラン", "VA": "6.77#6.40"}, {"Aspect": "ホテル", "VA": "7.27#7.08"}]}
+{"ID": "hotel26_aspect_va_test_161", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "3.74#5.95"}]}
+{"ID": "hotel26_aspect_va_test_162", "Aspect_VA": [{"Aspect": "サウナ", "VA": "3.69#5.72"}]}
+{"ID": "hotel26_aspect_va_test_163", "Aspect_VA": [{"Aspect": "宿泊プラン", "VA": "7.35#7.35"}]}
+{"ID": "hotel26_aspect_va_test_164", "Aspect_VA": [{"Aspect": "冷蔵庫", "VA": "3.44#5.88"}, {"Aspect": "室内", "VA": "3.47#5.90"}]}
+{"ID": "hotel26_aspect_va_test_165", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.11#5.70"}]}
+{"ID": "hotel26_aspect_va_test_166", "Aspect_VA": [{"Aspect": "食事", "VA": "6.75#6.65"}]}
+{"ID": "hotel26_aspect_va_test_167", "Aspect_VA": [{"Aspect": "腰痛持ち", "VA": "6.16#5.88"}]}
+{"ID": "hotel26_aspect_va_test_168", "Aspect_VA": [{"Aspect": "リンス", "VA": "6.73#6.57"}, {"Aspect": "シャンプー", "VA": "6.73#6.56"}, {"Aspect": "洗顔", "VA": "6.70#6.51"}]}
+{"ID": "hotel26_aspect_va_test_169", "Aspect_VA": [{"Aspect": "お風呂", "VA": "7.24#7.06"}, {"Aspect": "部屋", "VA": "7.24#7.06"}]}
+{"ID": "hotel26_aspect_va_test_170", "Aspect_VA": [{"Aspect": "お料理", "VA": "6.53#6.21"}]}
+{"ID": "hotel26_aspect_va_test_171", "Aspect_VA": [{"Aspect": "大きな声", "VA": "3.56#6.49"}, {"Aspect": "笑い声", "VA": "3.28#6.56"}]}
+{"ID": "hotel26_aspect_va_test_172", "Aspect_VA": [{"Aspect": "対応", "VA": "3.47#6.13"}]}
+{"ID": "hotel26_aspect_va_test_173", "Aspect_VA": [{"Aspect": "バイキング", "VA": "6.29#6.05"}, {"Aspect": "繁華街", "VA": "4.08#5.49"}]}
+{"ID": "hotel26_aspect_va_test_174", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.64#6.29"}, {"Aspect": "フロント", "VA": "3.82#5.80"}]}
+{"ID": "hotel26_aspect_va_test_175", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.40#6.09"}, {"Aspect": "立地", "VA": "6.36#5.93"}]}
+{"ID": "hotel26_aspect_va_test_176", "Aspect_VA": [{"Aspect": "景色", "VA": "6.40#6.10"}]}
+{"ID": "hotel26_aspect_va_test_177", "Aspect_VA": [{"Aspect": "宿泊者", "VA": "6.84#6.67"}]}
+{"ID": "hotel26_aspect_va_test_178", "Aspect_VA": [{"Aspect": "ホテル前駐車場", "VA": "3.51#5.84"}]}
+{"ID": "hotel26_aspect_va_test_179", "Aspect_VA": [{"Aspect": "自転車", "VA": "3.37#6.08"}]}
+{"ID": "hotel26_aspect_va_test_180", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.68#6.47"}]}
+{"ID": "hotel26_aspect_va_test_181", "Aspect_VA": [{"Aspect": "掃除", "VA": "4.37#5.92"}]}
+{"ID": "hotel26_aspect_va_test_182", "Aspect_VA": [{"Aspect": "料理の説明", "VA": "4.23#5.71"}]}
+{"ID": "hotel26_aspect_va_test_183", "Aspect_VA": [{"Aspect": "立地", "VA": "5.81#5.55"}]}
+{"ID": "hotel26_aspect_va_test_184", "Aspect_VA": [{"Aspect": "駅", "VA": "6.34#6.00"}, {"Aspect": "立地", "VA": "7.02#6.88"}]}
+{"ID": "hotel26_aspect_va_test_185", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.22#7.21"}]}
+{"ID": "hotel26_aspect_va_test_186", "Aspect_VA": [{"Aspect": "受付のスタッフ", "VA": "6.53#6.31"}, {"Aspect": "雰囲気", "VA": "6.49#6.21"}]}
+{"ID": "hotel26_aspect_va_test_187", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.27#6.02"}]}
+{"ID": "hotel26_aspect_va_test_188", "Aspect_VA": [{"Aspect": "システム", "VA": "3.68#5.94"}]}
+{"ID": "hotel26_aspect_va_test_189", "Aspect_VA": [{"Aspect": "空港", "VA": "6.36#5.85"}]}
+{"ID": "hotel26_aspect_va_test_190", "Aspect_VA": [{"Aspect": "温泉", "VA": "5.05#5.08"}]}
+{"ID": "hotel26_aspect_va_test_191", "Aspect_VA": [{"Aspect": "バイキング", "VA": "5.96#5.64"}]}
+{"ID": "hotel26_aspect_va_test_192", "Aspect_VA": [{"Aspect": "食事", "VA": "4.23#5.71"}]}
+{"ID": "hotel26_aspect_va_test_193", "Aspect_VA": [{"Aspect": "中サイズ", "VA": "5.12#5.37"}]}
+{"ID": "hotel26_aspect_va_test_194", "Aspect_VA": [{"Aspect": "大浴場", "VA": "7.29#7.16"}, {"Aspect": "部屋", "VA": "6.52#6.19"}]}
+{"ID": "hotel26_aspect_va_test_195", "Aspect_VA": [{"Aspect": "岡山駅", "VA": "6.43#6.13"}]}
+{"ID": "hotel26_aspect_va_test_196", "Aspect_VA": [{"Aspect": "立地", "VA": "7.12#7.09"}]}
+{"ID": "hotel26_aspect_va_test_197", "Aspect_VA": [{"Aspect": "フロント", "VA": "3.50#6.04"}]}
+{"ID": "hotel26_aspect_va_test_198", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "4.17#5.87"}]}
+{"ID": "hotel26_aspect_va_test_199", "Aspect_VA": [{"Aspect": "トイレ", "VA": "7.25#7.08"}, {"Aspect": "対応", "VA": "6.70#6.44"}, {"Aspect": "風呂", "VA": "7.14#6.98"}]}
+{"ID": "hotel26_aspect_va_test_200", "Aspect_VA": [{"Aspect": "アメニティー", "VA": "3.92#5.54"}]}
+{"ID": "hotel26_aspect_va_test_201", "Aspect_VA": [{"Aspect": "ベーカリースタッフ", "VA": "3.44#6.15"}]}
+{"ID": "hotel26_aspect_va_test_202", "Aspect_VA": [{"Aspect": "ホテル", "VA": "7.17#7.00"}]}
+{"ID": "hotel26_aspect_va_test_203", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "6.48#6.11"}, {"Aspect": "騒音", "VA": "3.50#6.07"}, {"Aspect": "部屋", "VA": "6.61#6.28"}]}
+{"ID": "hotel26_aspect_va_test_204", "Aspect_VA": [{"Aspect": "温泉", "VA": "7.57#7.47"}]}
+{"ID": "hotel26_aspect_va_test_205", "Aspect_VA": [{"Aspect": "蛇口", "VA": "3.40#6.05"}, {"Aspect": "設備", "VA": "3.66#5.67"}]}
+{"ID": "hotel26_aspect_va_test_206", "Aspect_VA": [{"Aspect": "繁華街", "VA": "4.66#5.42"}]}
+{"ID": "hotel26_aspect_va_test_207", "Aspect_VA": [{"Aspect": "場所", "VA": "6.43#6.06"}]}
+{"ID": "hotel26_aspect_va_test_208", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "6.71#6.55"}]}
+{"ID": "hotel26_aspect_va_test_209", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "2.83#6.61"}]}
+{"ID": "hotel26_aspect_va_test_210", "Aspect_VA": [{"Aspect": "他の面", "VA": "6.54#6.14"}]}
+{"ID": "hotel26_aspect_va_test_211", "Aspect_VA": [{"Aspect": "値段", "VA": "4.42#4.97"}]}
+{"ID": "hotel26_aspect_va_test_212", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.20#5.97"}]}
+{"ID": "hotel26_aspect_va_test_213", "Aspect_VA": [{"Aspect": "店", "VA": "6.20#5.79"}]}
+{"ID": "hotel26_aspect_va_test_214", "Aspect_VA": [{"Aspect": "駅", "VA": "6.76#6.73"}]}
+{"ID": "hotel26_aspect_va_test_215", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.61#6.35"}]}
+{"ID": "hotel26_aspect_va_test_216", "Aspect_VA": [{"Aspect": "立地", "VA": "4.00#5.69"}]}
+{"ID": "hotel26_aspect_va_test_217", "Aspect_VA": [{"Aspect": "全て", "VA": "6.95#6.73"}]}
+{"ID": "hotel26_aspect_va_test_218", "Aspect_VA": [{"Aspect": "食事", "VA": "7.24#7.17"}]}
+{"ID": "hotel26_aspect_va_test_219", "Aspect_VA": [{"Aspect": "周り", "VA": "6.34#6.00"}]}
+{"ID": "hotel26_aspect_va_test_220", "Aspect_VA": [{"Aspect": "駅", "VA": "6.26#5.95"}]}
+{"ID": "hotel26_aspect_va_test_221", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.41#6.02"}]}
+{"ID": "hotel26_aspect_va_test_222", "Aspect_VA": [{"Aspect": "喫煙室", "VA": "6.10#5.99"}]}
+{"ID": "hotel26_aspect_va_test_223", "Aspect_VA": [{"Aspect": "全面禁煙", "VA": "7.29#7.18"}]}
+{"ID": "hotel26_aspect_va_test_224", "Aspect_VA": [{"Aspect": "騒音", "VA": "3.41#6.34"}]}
+{"ID": "hotel26_aspect_va_test_225", "Aspect_VA": [{"Aspect": "アメニティー", "VA": "6.83#6.63"}]}
+{"ID": "hotel26_aspect_va_test_226", "Aspect_VA": [{"Aspect": "電源", "VA": "4.32#5.42"}]}
+{"ID": "hotel26_aspect_va_test_227", "Aspect_VA": [{"Aspect": "金額", "VA": "6.41#6.12"}]}
+{"ID": "hotel26_aspect_va_test_228", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.79#6.54"}]}
+{"ID": "hotel26_aspect_va_test_229", "Aspect_VA": [{"Aspect": "ロケーション", "VA": "6.48#6.12"}]}
+{"ID": "hotel26_aspect_va_test_230", "Aspect_VA": [{"Aspect": "休憩所", "VA": "7.48#7.38"}, {"Aspect": "風呂", "VA": "6.50#6.20"}, {"Aspect": "アイス", "VA": "7.43#7.37"}]}
+{"ID": "hotel26_aspect_va_test_231", "Aspect_VA": [{"Aspect": "立地", "VA": "6.41#6.10"}]}
+{"ID": "hotel26_aspect_va_test_232", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.84#6.67"}]}
+{"ID": "hotel26_aspect_va_test_233", "Aspect_VA": [{"Aspect": "バスタオルの交換", "VA": "3.04#6.26"}, {"Aspect": "清掃", "VA": "3.06#6.35"}]}
+{"ID": "hotel26_aspect_va_test_234", "Aspect_VA": [{"Aspect": "アクセス", "VA": "6.47#6.04"}]}
+{"ID": "hotel26_aspect_va_test_235", "Aspect_VA": [{"Aspect": "立地", "VA": "7.76#7.62"}, {"Aspect": "音", "VA": "2.77#7.21"}, {"Aspect": "部屋", "VA": "7.69#7.53"}]}
+{"ID": "hotel26_aspect_va_test_236", "Aspect_VA": [{"Aspect": "wifi", "VA": "6.01#5.79"}]}
+{"ID": "hotel26_aspect_va_test_237", "Aspect_VA": [{"Aspect": "充電器", "VA": "5.60#5.63"}]}
+{"ID": "hotel26_aspect_va_test_238", "Aspect_VA": [{"Aspect": "海鮮", "VA": "7.24#7.08"}, {"Aspect": "天ぷら", "VA": "7.05#6.92"}]}
+{"ID": "hotel26_aspect_va_test_239", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.49#6.20"}, {"Aspect": "風呂", "VA": "6.40#6.11"}]}
+{"ID": "hotel26_aspect_va_test_240", "Aspect_VA": [{"Aspect": "ビジネスホテル", "VA": "5.17#4.88"}]}
+{"ID": "hotel26_aspect_va_test_241", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.76#5.83"}]}
+{"ID": "hotel26_aspect_va_test_242", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.29#6.15"}]}
+{"ID": "hotel26_aspect_va_test_243", "Aspect_VA": [{"Aspect": "海鮮丼", "VA": "7.23#7.27"}]}
+{"ID": "hotel26_aspect_va_test_244", "Aspect_VA": [{"Aspect": "空気清浄機", "VA": "4.08#5.51"}]}
+{"ID": "hotel26_aspect_va_test_245", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.47#6.25"}]}
+{"ID": "hotel26_aspect_va_test_246", "Aspect_VA": [{"Aspect": "受け付", "VA": "6.51#6.30"}]}
+{"ID": "hotel26_aspect_va_test_247", "Aspect_VA": [{"Aspect": "自販機", "VA": "6.25#5.92"}]}
+{"ID": "hotel26_aspect_va_test_248", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.71#6.71"}]}
+{"ID": "hotel26_aspect_va_test_249", "Aspect_VA": [{"Aspect": "お部屋のデスク", "VA": "7.16#6.98"}]}
+{"ID": "hotel26_aspect_va_test_250", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.58#6.29"}]}
+{"ID": "hotel26_aspect_va_test_251", "Aspect_VA": [{"Aspect": "大浴場", "VA": "2.96#6.48"}]}
+{"ID": "hotel26_aspect_va_test_252", "Aspect_VA": [{"Aspect": "夕食", "VA": "3.80#5.55"}]}
+{"ID": "hotel26_aspect_va_test_253", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "4.37#5.83"}]}
+{"ID": "hotel26_aspect_va_test_254", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.54#6.35"}]}
+{"ID": "hotel26_aspect_va_test_255", "Aspect_VA": [{"Aspect": "寝具", "VA": "6.56#6.19"}, {"Aspect": "部屋", "VA": "6.41#6.03"}]}
+{"ID": "hotel26_aspect_va_test_256", "Aspect_VA": [{"Aspect": "立地", "VA": "6.39#6.12"}]}
+{"ID": "hotel26_aspect_va_test_257", "Aspect_VA": [{"Aspect": "バス・トイレの段差", "VA": "6.29#6.06"}]}
+{"ID": "hotel26_aspect_va_test_258", "Aspect_VA": [{"Aspect": "立地", "VA": "6.30#6.02"}]}
+{"ID": "hotel26_aspect_va_test_259", "Aspect_VA": [{"Aspect": "コンセント", "VA": "3.57#5.75"}]}
+{"ID": "hotel26_aspect_va_test_260", "Aspect_VA": [{"Aspect": "立地", "VA": "7.15#7.11"}]}
+{"ID": "hotel26_aspect_va_test_261", "Aspect_VA": [{"Aspect": "駐車場案内", "VA": "6.53#6.26"}]}
+{"ID": "hotel26_aspect_va_test_262", "Aspect_VA": [{"Aspect": "食事", "VA": "6.94#6.92"}]}
+{"ID": "hotel26_aspect_va_test_263", "Aspect_VA": [{"Aspect": "スタッフ対応", "VA": "7.04#6.93"}, {"Aspect": "料理", "VA": "7.36#7.30"}, {"Aspect": "温泉", "VA": "6.65#6.46"}]}
+{"ID": "hotel26_aspect_va_test_264", "Aspect_VA": [{"Aspect": "サービス", "VA": "3.58#5.87"}]}
+{"ID": "hotel26_aspect_va_test_265", "Aspect_VA": [{"Aspect": "照明ライト", "VA": "3.52#6.15"}, {"Aspect": "目", "VA": "3.33#6.19"}]}
+{"ID": "hotel26_aspect_va_test_266", "Aspect_VA": [{"Aspect": "椅子", "VA": "3.25#6.28"}]}
+{"ID": "hotel26_aspect_va_test_267", "Aspect_VA": [{"Aspect": "チェックイン後", "VA": "6.50#6.19"}]}
+{"ID": "hotel26_aspect_va_test_268", "Aspect_VA": [{"Aspect": "朝食バイキング", "VA": "7.16#7.12"}, {"Aspect": "駅", "VA": "6.36#5.99"}]}
+{"ID": "hotel26_aspect_va_test_269", "Aspect_VA": [{"Aspect": "サービス", "VA": "7.43#7.40"}, {"Aspect": "設備", "VA": "7.43#7.38"}]}
+{"ID": "hotel26_aspect_va_test_270", "Aspect_VA": [{"Aspect": "お部屋", "VA": "7.07#6.89"}]}
+{"ID": "hotel26_aspect_va_test_271", "Aspect_VA": [{"Aspect": "ベッド", "VA": "6.62#6.28"}]}
+{"ID": "hotel26_aspect_va_test_272", "Aspect_VA": [{"Aspect": "駅", "VA": "3.85#5.61"}]}
+{"ID": "hotel26_aspect_va_test_273", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.85#6.64"}]}
+{"ID": "hotel26_aspect_va_test_274", "Aspect_VA": [{"Aspect": "お風呂", "VA": "6.40#6.10"}, {"Aspect": "ベッド", "VA": "6.43#6.13"}, {"Aspect": "ご飯", "VA": "6.44#6.20"}]}
+{"ID": "hotel26_aspect_va_test_275", "Aspect_VA": [{"Aspect": "湯の温度", "VA": "3.51#5.93"}, {"Aspect": "大浴場", "VA": "3.17#6.25"}]}
+{"ID": "hotel26_aspect_va_test_276", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.86#6.71"}]}
+{"ID": "hotel26_aspect_va_test_277", "Aspect_VA": [{"Aspect": "食事", "VA": "6.89#6.67"}, {"Aspect": "品数", "VA": "6.45#6.18"}]}
+{"ID": "hotel26_aspect_va_test_278", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.46#6.30"}, {"Aspect": "建物", "VA": "3.68#5.91"}]}
+{"ID": "hotel26_aspect_va_test_279", "Aspect_VA": [{"Aspect": "朝ご飯", "VA": "6.38#6.17"}]}
+{"ID": "hotel26_aspect_va_test_280", "Aspect_VA": [{"Aspect": "心づかい", "VA": "6.16#5.86"}]}
+{"ID": "hotel26_aspect_va_test_281", "Aspect_VA": [{"Aspect": "受付スペース", "VA": "6.81#6.47"}]}
+{"ID": "hotel26_aspect_va_test_282", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.75#6.47"}]}
+{"ID": "hotel26_aspect_va_test_283", "Aspect_VA": [{"Aspect": "設備", "VA": "6.73#6.43"}, {"Aspect": "食事", "VA": "7.59#7.54"}]}
+{"ID": "hotel26_aspect_va_test_284", "Aspect_VA": [{"Aspect": "料理", "VA": "6.93#6.78"}]}
+{"ID": "hotel26_aspect_va_test_285", "Aspect_VA": [{"Aspect": "駐車場", "VA": "6.36#6.09"}]}
+{"ID": "hotel26_aspect_va_test_286", "Aspect_VA": [{"Aspect": "品数", "VA": "3.64#5.75"}]}
+{"ID": "hotel26_aspect_va_test_287", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.35#6.16"}]}
+{"ID": "hotel26_aspect_va_test_288", "Aspect_VA": [{"Aspect": "温泉隣接", "VA": "6.78#6.66"}, {"Aspect": "朝食付き", "VA": "6.99#6.93"}, {"Aspect": "駅直結", "VA": "6.78#6.52"}]}
+{"ID": "hotel26_aspect_va_test_289", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.52#6.33"}]}
+{"ID": "hotel26_aspect_va_test_290", "Aspect_VA": [{"Aspect": "フロント", "VA": "7.14#7.04"}]}
+{"ID": "hotel26_aspect_va_test_291", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.56#6.20"}]}
+{"ID": "hotel26_aspect_va_test_292", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.58#6.32"}]}
+{"ID": "hotel26_aspect_va_test_293", "Aspect_VA": [{"Aspect": "ご飯", "VA": "6.62#6.37"}]}
+{"ID": "hotel26_aspect_va_test_294", "Aspect_VA": [{"Aspect": "接遇", "VA": "6.76#6.57"}, {"Aspect": "フロントスタッフ", "VA": "6.93#6.82"}]}
+{"ID": "hotel26_aspect_va_test_295", "Aspect_VA": [{"Aspect": "価格", "VA": "6.51#6.25"}, {"Aspect": "ビジネス利用", "VA": "4.44#6.16"}]}
+{"ID": "hotel26_aspect_va_test_296", "Aspect_VA": [{"Aspect": "対応", "VA": "6.71#6.49"}]}
+{"ID": "hotel26_aspect_va_test_297", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.51#6.27"}]}
+{"ID": "hotel26_aspect_va_test_298", "Aspect_VA": [{"Aspect": "ベット", "VA": "6.90#6.75"}, {"Aspect": "空間", "VA": "6.65#6.48"}]}
+{"ID": "hotel26_aspect_va_test_299", "Aspect_VA": [{"Aspect": "風呂", "VA": "7.25#7.16"}]}
+{"ID": "hotel26_aspect_va_test_300", "Aspect_VA": [{"Aspect": "化粧水", "VA": "7.43#7.32"}]}
+{"ID": "hotel26_aspect_va_test_301", "Aspect_VA": [{"Aspect": "メニュー", "VA": "6.56#6.32"}, {"Aspect": "質", "VA": "6.51#6.24"}]}
+{"ID": "hotel26_aspect_va_test_302", "Aspect_VA": [{"Aspect": "夜食", "VA": "3.07#6.34"}]}
+{"ID": "hotel26_aspect_va_test_303", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.29#7.29"}]}
+{"ID": "hotel26_aspect_va_test_304", "Aspect_VA": [{"Aspect": "温泉", "VA": "3.41#6.04"}]}
+{"ID": "hotel26_aspect_va_test_305", "Aspect_VA": [{"Aspect": "大浴場", "VA": "3.64#6.04"}, {"Aspect": "外国人観光客", "VA": "4.61#5.60"}]}
+{"ID": "hotel26_aspect_va_test_306", "Aspect_VA": [{"Aspect": "コンビニ", "VA": "6.24#5.75"}, {"Aspect": "掃除", "VA": "6.79#6.46"}, {"Aspect": "駅", "VA": "6.22#5.75"}, {"Aspect": "部屋", "VA": "6.40#5.97"}]}
+{"ID": "hotel26_aspect_va_test_307", "Aspect_VA": [{"Aspect": "コスパ", "VA": "6.92#6.78"}, {"Aspect": "部屋", "VA": "6.67#6.45"}, {"Aspect": "ベッド", "VA": "6.69#6.44"}]}
+{"ID": "hotel26_aspect_va_test_308", "Aspect_VA": [{"Aspect": "五条駅", "VA": "6.22#5.93"}]}
+{"ID": "hotel26_aspect_va_test_309", "Aspect_VA": [{"Aspect": "飲食", "VA": "6.00#5.55"}]}
+{"ID": "hotel26_aspect_va_test_310", "Aspect_VA": [{"Aspect": "部屋", "VA": "5.24#5.05"}, {"Aspect": "朝食バイキング", "VA": "7.13#6.89"}, {"Aspect": "レストラン", "VA": "6.53#6.35"}]}
+{"ID": "hotel26_aspect_va_test_311", "Aspect_VA": [{"Aspect": "ラウンジ", "VA": "3.24#6.28"}, {"Aspect": "コーヒーサービス", "VA": "5.27#5.73"}]}
+{"ID": "hotel26_aspect_va_test_312", "Aspect_VA": [{"Aspect": "接客", "VA": "7.07#6.98"}, {"Aspect": "食事", "VA": "6.61#6.33"}]}
+{"ID": "hotel26_aspect_va_test_313", "Aspect_VA": [{"Aspect": "場所", "VA": "6.47#6.11"}]}
+{"ID": "hotel26_aspect_va_test_314", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.49#6.04"}]}
+{"ID": "hotel26_aspect_va_test_315", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.43#6.11"}]}
+{"ID": "hotel26_aspect_va_test_316", "Aspect_VA": [{"Aspect": "朝食バイキング", "VA": "6.74#6.57"}]}
+{"ID": "hotel26_aspect_va_test_317", "Aspect_VA": [{"Aspect": "調度類", "VA": "7.40#7.22"}, {"Aspect": "朝食", "VA": "7.11#6.87"}, {"Aspect": "部屋", "VA": "7.44#7.22"}, {"Aspect": "どれも", "VA": "7.90#7.76"}]}
+{"ID": "hotel26_aspect_va_test_318", "Aspect_VA": [{"Aspect": "浴室", "VA": "3.74#5.71"}, {"Aspect": "部屋", "VA": "3.71#5.67"}]}
+{"ID": "hotel26_aspect_va_test_319", "Aspect_VA": [{"Aspect": "ヘアオイル", "VA": "7.39#7.37"}, {"Aspect": "種類", "VA": "6.69#6.30"}, {"Aspect": "部屋", "VA": "6.49#6.14"}]}
+{"ID": "hotel26_aspect_va_test_320", "Aspect_VA": [{"Aspect": "バストイレ別", "VA": "6.49#6.29"}]}
+{"ID": "hotel26_aspect_va_test_321", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.94#6.77"}]}
+{"ID": "hotel26_aspect_va_test_322", "Aspect_VA": [{"Aspect": "食事", "VA": "6.52#6.19"}]}
+{"ID": "hotel26_aspect_va_test_323", "Aspect_VA": [{"Aspect": "ロッカー", "VA": "6.35#5.88"}]}
+{"ID": "hotel26_aspect_va_test_324", "Aspect_VA": [{"Aspect": "値段", "VA": "6.30#6.06"}]}
+{"ID": "hotel26_aspect_va_test_325", "Aspect_VA": [{"Aspect": "停留所", "VA": "6.21#5.82"}]}
+{"ID": "hotel26_aspect_va_test_326", "Aspect_VA": [{"Aspect": "接客", "VA": "6.64#6.35"}]}
+{"ID": "hotel26_aspect_va_test_327", "Aspect_VA": [{"Aspect": "窓", "VA": "3.48#5.97"}]}
+{"ID": "hotel26_aspect_va_test_328", "Aspect_VA": [{"Aspect": "値段", "VA": "6.33#5.88"}, {"Aspect": "立地", "VA": "6.37#6.06"}, {"Aspect": "食事", "VA": "6.34#6.03"}, {"Aspect": "部屋", "VA": "6.36#6.09"}]}
+{"ID": "hotel26_aspect_va_test_329", "Aspect_VA": [{"Aspect": "スムージー", "VA": "6.81#6.48"}, {"Aspect": "レイアウト", "VA": "6.75#6.44"}, {"Aspect": "トッピング", "VA": "6.82#6.50"}, {"Aspect": "ヨーグルト", "VA": "6.76#6.45"}, {"Aspect": "野菜", "VA": "6.79#6.50"}]}
+{"ID": "hotel26_aspect_va_test_330", "Aspect_VA": [{"Aspect": "ミネラルウォーター", "VA": "6.52#6.50"}]}
+{"ID": "hotel26_aspect_va_test_331", "Aspect_VA": [{"Aspect": "空港バス乗り場", "VA": "6.19#5.74"}]}
+{"ID": "hotel26_aspect_va_test_332", "Aspect_VA": [{"Aspect": "サウナ", "VA": "7.19#7.08"}, {"Aspect": "京都駅", "VA": "6.38#6.10"}]}
+{"ID": "hotel26_aspect_va_test_333", "Aspect_VA": [{"Aspect": "ユニバ", "VA": "6.29#5.98"}, {"Aspect": "ココ", "VA": "6.60#6.31"}]}
+{"ID": "hotel26_aspect_va_test_334", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.55#6.25"}]}
+{"ID": "hotel26_aspect_va_test_335", "Aspect_VA": [{"Aspect": "ぼたん鍋", "VA": "7.24#7.17"}]}
+{"ID": "hotel26_aspect_va_test_336", "Aspect_VA": [{"Aspect": "種類", "VA": "4.43#5.34"}, {"Aspect": "風呂", "VA": "7.03#6.86"}]}
+{"ID": "hotel26_aspect_va_test_337", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.64#6.37"}]}
+{"ID": "hotel26_aspect_va_test_338", "Aspect_VA": [{"Aspect": "ユニットバス", "VA": "3.74#5.71"}, {"Aspect": "景色", "VA": "3.69#5.70"}]}
+{"ID": "hotel26_aspect_va_test_339", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.51#6.08"}]}
+{"ID": "hotel26_aspect_va_test_340", "Aspect_VA": [{"Aspect": "それ以外", "VA": "7.76#7.61"}, {"Aspect": "風呂", "VA": "7.46#7.26"}]}
+{"ID": "hotel26_aspect_va_test_341", "Aspect_VA": [{"Aspect": "コーヒーサービス", "VA": "6.33#6.11"}]}
+{"ID": "hotel26_aspect_va_test_342", "Aspect_VA": [{"Aspect": "みやこみち", "VA": "6.25#5.84"}, {"Aspect": "飲食", "VA": "6.08#5.59"}, {"Aspect": "買い物", "VA": "6.10#5.66"}]}
+{"ID": "hotel26_aspect_va_test_343", "Aspect_VA": [{"Aspect": "全体的", "VA": "6.18#5.85"}]}
+{"ID": "hotel26_aspect_va_test_344", "Aspect_VA": [{"Aspect": "対応", "VA": "7.18#7.00"}]}
+{"ID": "hotel26_aspect_va_test_345", "Aspect_VA": [{"Aspect": "サンドイッチ", "VA": "7.25#7.18"}]}
+{"ID": "hotel26_aspect_va_test_346", "Aspect_VA": [{"Aspect": "パン", "VA": "6.62#6.37"}, {"Aspect": "ヨーグルト", "VA": "6.60#6.25"}]}
+{"ID": "hotel26_aspect_va_test_347", "Aspect_VA": [{"Aspect": "ベット", "VA": "6.33#5.98"}, {"Aspect": "部屋", "VA": "6.49#6.15"}]}
+{"ID": "hotel26_aspect_va_test_348", "Aspect_VA": [{"Aspect": "立地", "VA": "6.46#6.12"}]}
+{"ID": "hotel26_aspect_va_test_349", "Aspect_VA": [{"Aspect": "宿泊", "VA": "6.92#6.74"}]}
+{"ID": "hotel26_aspect_va_test_350", "Aspect_VA": [{"Aspect": "対応", "VA": "6.74#6.66"}]}
+{"ID": "hotel26_aspect_va_test_351", "Aspect_VA": [{"Aspect": "無料のレンタサイクル", "VA": "6.96#6.87"}]}
+{"ID": "hotel26_aspect_va_test_352", "Aspect_VA": [{"Aspect": "ベット", "VA": "6.63#6.44"}]}
+{"ID": "hotel26_aspect_va_test_353", "Aspect_VA": [{"Aspect": "駐車場", "VA": "3.56#5.89"}]}
+{"ID": "hotel26_aspect_va_test_354", "Aspect_VA": [{"Aspect": "食事", "VA": "6.40#6.10"}]}
+{"ID": "hotel26_aspect_va_test_355", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.89#6.82"}]}
+{"ID": "hotel26_aspect_va_test_356", "Aspect_VA": [{"Aspect": "動作", "VA": "6.59#6.19"}, {"Aspect": "笑顔", "VA": "6.59#6.25"}, {"Aspect": "夕食", "VA": "6.55#6.15"}]}
+{"ID": "hotel26_aspect_va_test_357", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.36#6.20"}]}
+{"ID": "hotel26_aspect_va_test_358", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.54#6.26"}]}
+{"ID": "hotel26_aspect_va_test_359", "Aspect_VA": [{"Aspect": "食事", "VA": "3.30#6.11"}, {"Aspect": "サービス", "VA": "3.28#6.12"}]}
+{"ID": "hotel26_aspect_va_test_360", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.60#6.32"}, {"Aspect": "ドライヤー", "VA": "6.48#6.09"}]}
+{"ID": "hotel26_aspect_va_test_361", "Aspect_VA": [{"Aspect": "立地", "VA": "7.26#7.07"}]}
+{"ID": "hotel26_aspect_va_test_362", "Aspect_VA": [{"Aspect": "建物", "VA": "7.20#6.93"}, {"Aspect": "部屋", "VA": "6.63#6.33"}]}
+{"ID": "hotel26_aspect_va_test_363", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.27#5.99"}, {"Aspect": "部屋", "VA": "6.24#5.98"}, {"Aspect": "大浴場", "VA": "6.28#5.96"}]}
+{"ID": "hotel26_aspect_va_test_364", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.37#6.07"}]}
+{"ID": "hotel26_aspect_va_test_365", "Aspect_VA": [{"Aspect": "宿泊価格", "VA": "3.56#6.03"}]}
+{"ID": "hotel26_aspect_va_test_366", "Aspect_VA": [{"Aspect": "夕食", "VA": "6.43#6.19"}, {"Aspect": "建物", "VA": "6.72#6.43"}]}
+{"ID": "hotel26_aspect_va_test_367", "Aspect_VA": [{"Aspect": "ベッド", "VA": "6.39#5.95"}, {"Aspect": "レイアウト", "VA": "6.45#6.09"}]}
+{"ID": "hotel26_aspect_va_test_368", "Aspect_VA": [{"Aspect": "フリードリンク", "VA": "6.79#6.56"}, {"Aspect": "朝食", "VA": "6.30#6.50"}]}
+{"ID": "hotel26_aspect_va_test_369", "Aspect_VA": [{"Aspect": "時間", "VA": "6.69#6.48"}]}
+{"ID": "hotel26_aspect_va_test_370", "Aspect_VA": [{"Aspect": "食事", "VA": "7.24#7.20"}]}
+{"ID": "hotel26_aspect_va_test_371", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.53#6.24"}]}
+{"ID": "hotel26_aspect_va_test_372", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.58#6.18"}]}
+{"ID": "hotel26_aspect_va_test_373", "Aspect_VA": [{"Aspect": "心遣い", "VA": "6.89#6.60"}, {"Aspect": "サービス", "VA": "6.87#6.55"}]}
+{"ID": "hotel26_aspect_va_test_374", "Aspect_VA": [{"Aspect": "空港", "VA": "3.94#5.49"}]}
+{"ID": "hotel26_aspect_va_test_375", "Aspect_VA": [{"Aspect": "駅", "VA": "4.11#5.53"}]}
+{"ID": "hotel26_aspect_va_test_376", "Aspect_VA": [{"Aspect": "朝食バイキング", "VA": "7.20#7.12"}, {"Aspect": "夕飯", "VA": "7.23#7.14"}, {"Aspect": "温泉", "VA": "6.53#6.20"}]}
+{"ID": "hotel26_aspect_va_test_377", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "7.14#7.16"}]}
+{"ID": "hotel26_aspect_va_test_378", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.31#6.11"}]}
+{"ID": "hotel26_aspect_va_test_379", "Aspect_VA": [{"Aspect": "料理", "VA": "3.43#6.17"}]}
+{"ID": "hotel26_aspect_va_test_380", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.44#6.20"}]}
+{"ID": "hotel26_aspect_va_test_381", "Aspect_VA": [{"Aspect": "料金", "VA": "6.49#6.00"}, {"Aspect": "施設", "VA": "4.20#5.68"}, {"Aspect": "部屋", "VA": "6.60#6.23"}, {"Aspect": "朝食", "VA": "6.65#6.32"}, {"Aspect": "ホテル", "VA": "6.92#6.77"}]}
+{"ID": "hotel26_aspect_va_test_382", "Aspect_VA": [{"Aspect": "料理", "VA": "6.58#6.31"}]}
+{"ID": "hotel26_aspect_va_test_383", "Aspect_VA": [{"Aspect": "暖房", "VA": "3.31#6.18"}]}
+{"ID": "hotel26_aspect_va_test_384", "Aspect_VA": [{"Aspect": "立地", "VA": "4.03#5.68"}]}
+{"ID": "hotel26_aspect_va_test_385", "Aspect_VA": [{"Aspect": "感じの悪い方", "VA": "3.41#6.04"}]}
+{"ID": "hotel26_aspect_va_test_386", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.72#6.50"}, {"Aspect": "部屋", "VA": "6.37#5.94"}, {"Aspect": "サービス", "VA": "6.68#6.52"}]}
+{"ID": "hotel26_aspect_va_test_387", "Aspect_VA": [{"Aspect": "夕食", "VA": "6.87#6.73"}]}
+{"ID": "hotel26_aspect_va_test_388", "Aspect_VA": [{"Aspect": "朝食コーナー", "VA": "2.94#6.47"}]}
+{"ID": "hotel26_aspect_va_test_389", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.52#6.24"}]}
+{"ID": "hotel26_aspect_va_test_390", "Aspect_VA": [{"Aspect": "無料飲食", "VA": "7.07#7.04"}]}
+{"ID": "hotel26_aspect_va_test_391", "Aspect_VA": [{"Aspect": "食事", "VA": "2.89#6.73"}]}
+{"ID": "hotel26_aspect_va_test_392", "Aspect_VA": [{"Aspect": "食事", "VA": "4.37#5.66"}]}
+{"ID": "hotel26_aspect_va_test_393", "Aspect_VA": [{"Aspect": "朝食バイキング", "VA": "6.61#6.35"}]}
+{"ID": "hotel26_aspect_va_test_394", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.39#6.52"}]}
+{"ID": "hotel26_aspect_va_test_395", "Aspect_VA": [{"Aspect": "駐車場", "VA": "6.30#5.97"}]}
+{"ID": "hotel26_aspect_va_test_396", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.46#6.07"}]}
+{"ID": "hotel26_aspect_va_test_397", "Aspect_VA": [{"Aspect": "お値段", "VA": "6.38#6.07"}]}
+{"ID": "hotel26_aspect_va_test_398", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.48#6.18"}]}
+{"ID": "hotel26_aspect_va_test_399", "Aspect_VA": [{"Aspect": "掃除", "VA": "6.45#6.13"}, {"Aspect": "お部屋", "VA": "6.85#6.52"}]}
+{"ID": "hotel26_aspect_va_test_400", "Aspect_VA": [{"Aspect": "エレベーター", "VA": "6.44#6.25"}]}
+{"ID": "hotel26_aspect_va_test_401", "Aspect_VA": [{"Aspect": "シャワーブース", "VA": "6.50#6.17"}]}
+{"ID": "hotel26_aspect_va_test_402", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.57#6.30"}, {"Aspect": "部屋", "VA": "6.38#6.02"}]}
+{"ID": "hotel26_aspect_va_test_403", "Aspect_VA": [{"Aspect": "お風呂", "VA": "6.47#6.15"}]}
+{"ID": "hotel26_aspect_va_test_404", "Aspect_VA": [{"Aspect": "結露", "VA": "5.04#5.21"}]}
+{"ID": "hotel26_aspect_va_test_405", "Aspect_VA": [{"Aspect": "サウナ", "VA": "4.50#5.26"}]}
+{"ID": "hotel26_aspect_va_test_406", "Aspect_VA": [{"Aspect": "接客", "VA": "6.45#6.11"}]}
+{"ID": "hotel26_aspect_va_test_407", "Aspect_VA": [{"Aspect": "立地", "VA": "7.14#7.11"}]}
+{"ID": "hotel26_aspect_va_test_408", "Aspect_VA": [{"Aspect": "値段", "VA": "3.78#5.94"}]}
+{"ID": "hotel26_aspect_va_test_409", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.50#6.22"}]}
+{"ID": "hotel26_aspect_va_test_410", "Aspect_VA": [{"Aspect": "バランス", "VA": "6.75#6.42"}]}
+{"ID": "hotel26_aspect_va_test_411", "Aspect_VA": [{"Aspect": "価値", "VA": "3.22#5.98"}]}
+{"ID": "hotel26_aspect_va_test_412", "Aspect_VA": [{"Aspect": "ビール", "VA": "6.52#6.05"}]}
+{"ID": "hotel26_aspect_va_test_413", "Aspect_VA": [{"Aspect": "価値", "VA": "7.37#7.23"}]}
+{"ID": "hotel26_aspect_va_test_414", "Aspect_VA": [{"Aspect": "小さいテーブルと椅子", "VA": "6.65#6.45"}]}
+{"ID": "hotel26_aspect_va_test_415", "Aspect_VA": [{"Aspect": "ベッド", "VA": "6.32#6.04"}]}
+{"ID": "hotel26_aspect_va_test_416", "Aspect_VA": [{"Aspect": "スマホの充電器", "VA": "3.71#5.78"}]}
+{"ID": "hotel26_aspect_va_test_417", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.66#6.37"}]}
+{"ID": "hotel26_aspect_va_test_418", "Aspect_VA": [{"Aspect": "料理", "VA": "6.55#6.26"}]}
+{"ID": "hotel26_aspect_va_test_419", "Aspect_VA": [{"Aspect": "説明", "VA": "4.01#5.92"}]}
+{"ID": "hotel26_aspect_va_test_420", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.23#7.16"}, {"Aspect": "朝食のレベル", "VA": "7.23#7.13"}]}
+{"ID": "hotel26_aspect_va_test_421", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.99#6.97"}]}
+{"ID": "hotel26_aspect_va_test_422", "Aspect_VA": [{"Aspect": "２４時間プラン", "VA": "6.49#6.18"}]}
+{"ID": "hotel26_aspect_va_test_423", "Aspect_VA": [{"Aspect": "天然温泉", "VA": "6.53#6.32"}]}
+{"ID": "hotel26_aspect_va_test_424", "Aspect_VA": [{"Aspect": "滞在", "VA": "6.70#6.55"}]}
+{"ID": "hotel26_aspect_va_test_425", "Aspect_VA": [{"Aspect": "ホテルの雰囲気", "VA": "6.63#6.17"}]}
+{"ID": "hotel26_aspect_va_test_426", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.30#5.89"}]}
+{"ID": "hotel26_aspect_va_test_427", "Aspect_VA": [{"Aspect": "貸出し品", "VA": "6.36#6.08"}]}
+{"ID": "hotel26_aspect_va_test_428", "Aspect_VA": [{"Aspect": "サウナ", "VA": "7.37#7.32"}]}
+{"ID": "hotel26_aspect_va_test_429", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.55#6.16"}, {"Aspect": "アメニティ", "VA": "6.73#6.44"}, {"Aspect": "清掃", "VA": "6.74#6.38"}]}
+{"ID": "hotel26_aspect_va_test_430", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.87#6.71"}]}
+{"ID": "hotel26_aspect_va_test_431", "Aspect_VA": [{"Aspect": "温泉", "VA": "5.58#5.61"}]}
+{"ID": "hotel26_aspect_va_test_432", "Aspect_VA": [{"Aspect": "お部屋", "VA": "6.54#6.15"}, {"Aspect": "サービス", "VA": "6.40#5.99"}]}
+{"ID": "hotel26_aspect_va_test_433", "Aspect_VA": [{"Aspect": "ツインルーム", "VA": "7.15#7.14"}]}
+{"ID": "hotel26_aspect_va_test_434", "Aspect_VA": [{"Aspect": "対応", "VA": "6.66#6.39"}]}
+{"ID": "hotel26_aspect_va_test_435", "Aspect_VA": [{"Aspect": "サウナ", "VA": "3.60#5.92"}]}
+{"ID": "hotel26_aspect_va_test_436", "Aspect_VA": [{"Aspect": "バイキング", "VA": "7.06#7.02"}]}
+{"ID": "hotel26_aspect_va_test_437", "Aspect_VA": [{"Aspect": "寿司", "VA": "6.57#6.30"}]}
+{"ID": "hotel26_aspect_va_test_438", "Aspect_VA": [{"Aspect": "料金", "VA": "6.74#6.48"}, {"Aspect": "眺望", "VA": "6.68#6.44"}, {"Aspect": "部屋", "VA": "6.57#6.14"}]}
+{"ID": "hotel26_aspect_va_test_439", "Aspect_VA": [{"Aspect": "お部屋", "VA": "6.43#6.01"}, {"Aspect": "食事", "VA": "6.51#6.27"}]}
+{"ID": "hotel26_aspect_va_test_440", "Aspect_VA": [{"Aspect": "トイレ", "VA": "5.02#5.82"}]}
+{"ID": "hotel26_aspect_va_test_441", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.57#6.27"}]}
+{"ID": "hotel26_aspect_va_test_442", "Aspect_VA": [{"Aspect": "照明", "VA": "4.22#5.56"}]}
+{"ID": "hotel26_aspect_va_test_443", "Aspect_VA": [{"Aspect": "清掃", "VA": "6.76#6.38"}]}
+{"ID": "hotel26_aspect_va_test_444", "Aspect_VA": [{"Aspect": "景色", "VA": "7.09#7.01"}]}
+{"ID": "hotel26_aspect_va_test_445", "Aspect_VA": [{"Aspect": "種類", "VA": "6.72#6.49"}]}
+{"ID": "hotel26_aspect_va_test_446", "Aspect_VA": [{"Aspect": "雪見露天風呂", "VA": "7.32#7.26"}, {"Aspect": "景観", "VA": "7.25#7.22"}]}
+{"ID": "hotel26_aspect_va_test_447", "Aspect_VA": [{"Aspect": "夕日", "VA": "6.58#6.30"}]}
+{"ID": "hotel26_aspect_va_test_448", "Aspect_VA": [{"Aspect": "景色", "VA": "7.49#7.40"}, {"Aspect": "温泉", "VA": "7.51#7.44"}, {"Aspect": "スタッフ", "VA": "7.44#7.36"}, {"Aspect": "サービス", "VA": "7.46#7.36"}, {"Aspect": "内装", "VA": "7.49#7.38"}]}
+{"ID": "hotel26_aspect_va_test_449", "Aspect_VA": [{"Aspect": "セパレートバストイレ", "VA": "6.92#6.66"}, {"Aspect": "アクセス", "VA": "6.35#5.96"}]}
+{"ID": "hotel26_aspect_va_test_450", "Aspect_VA": [{"Aspect": "ウエルカムドリンク", "VA": "6.96#6.82"}, {"Aspect": "バス、トイレ", "VA": "6.82#6.70"}, {"Aspect": "コーヒーサービス", "VA": "7.09#7.07"}]}
+{"ID": "hotel26_aspect_va_test_451", "Aspect_VA": [{"Aspect": "男湯", "VA": "6.48#6.31"}]}
+{"ID": "hotel26_aspect_va_test_452", "Aspect_VA": [{"Aspect": "食事", "VA": "6.55#6.41"}]}
+{"ID": "hotel26_aspect_va_test_453", "Aspect_VA": [{"Aspect": "コーヒーサービス", "VA": "6.43#6.23"}, {"Aspect": "フロント", "VA": "6.50#6.22"}]}
+{"ID": "hotel26_aspect_va_test_454", "Aspect_VA": [{"Aspect": "広さ", "VA": "5.83#5.49"}, {"Aspect": "部屋", "VA": "6.42#6.07"}]}
+{"ID": "hotel26_aspect_va_test_455", "Aspect_VA": [{"Aspect": "フルーツ", "VA": "6.50#6.19"}, {"Aspect": "野菜", "VA": "6.52#6.20"}, {"Aspect": "食事", "VA": "4.45#5.20"}]}
+{"ID": "hotel26_aspect_va_test_456", "Aspect_VA": [{"Aspect": "観光", "VA": "6.53#5.99"}, {"Aspect": "ロビー", "VA": "6.63#6.09"}, {"Aspect": "加賀棒茶", "VA": "6.76#6.36"}, {"Aspect": "金沢城", "VA": "6.41#5.86"}, {"Aspect": "アメニティ", "VA": "6.85#6.48"}, {"Aspect": "コーヒー", "VA": "6.74#6.25"}]}
+{"ID": "hotel26_aspect_va_test_457", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.42#6.14"}]}
+{"ID": "hotel26_aspect_va_test_458", "Aspect_VA": [{"Aspect": "Wi-Fi", "VA": "4.91#5.17"}]}
+{"ID": "hotel26_aspect_va_test_459", "Aspect_VA": [{"Aspect": "景色", "VA": "7.34#7.38"}, {"Aspect": "駅", "VA": "3.99#5.57"}]}
+{"ID": "hotel26_aspect_va_test_460", "Aspect_VA": [{"Aspect": "おもてなし", "VA": "6.97#6.99"}]}
+{"ID": "hotel26_aspect_va_test_461", "Aspect_VA": [{"Aspect": "対応", "VA": "6.62#6.35"}]}
+{"ID": "hotel26_aspect_va_test_462", "Aspect_VA": [{"Aspect": "周り", "VA": "3.28#6.28"}]}
+{"ID": "hotel26_aspect_va_test_463", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.61#6.37"}, {"Aspect": "見た目", "VA": "7.12#6.91"}, {"Aspect": "食事", "VA": "7.33#7.17"}]}
+{"ID": "hotel26_aspect_va_test_464", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.75#6.47"}]}
+{"ID": "hotel26_aspect_va_test_465", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.54#6.19"}]}
+{"ID": "hotel26_aspect_va_test_466", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.68#6.55"}]}
+{"ID": "hotel26_aspect_va_test_467", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.17#6.22"}, {"Aspect": "コンセント", "VA": "3.33#6.08"}]}
+{"ID": "hotel26_aspect_va_test_468", "Aspect_VA": [{"Aspect": "料理", "VA": "6.38#6.06"}]}
+{"ID": "hotel26_aspect_va_test_469", "Aspect_VA": [{"Aspect": "対応", "VA": "7.10#7.05"}, {"Aspect": "管理人", "VA": "7.04#6.95"}]}
+{"ID": "hotel26_aspect_va_test_470", "Aspect_VA": [{"Aspect": "宿", "VA": "6.61#6.39"}]}
+{"ID": "hotel26_aspect_va_test_471", "Aspect_VA": [{"Aspect": "値段", "VA": "6.74#7.05"}]}
+{"ID": "hotel26_aspect_va_test_472", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.45#6.22"}]}
+{"ID": "hotel26_aspect_va_test_473", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.94#6.84"}]}
+{"ID": "hotel26_aspect_va_test_474", "Aspect_VA": [{"Aspect": "床鳴り", "VA": "3.51#6.02"}, {"Aspect": "トイレ", "VA": "3.55#6.09"}, {"Aspect": "流れ", "VA": "3.54#5.98"}]}
+{"ID": "hotel26_aspect_va_test_475", "Aspect_VA": [{"Aspect": "サービス", "VA": "7.34#7.27"}]}
+{"ID": "hotel26_aspect_va_test_476", "Aspect_VA": [{"Aspect": "品数", "VA": "3.89#5.67"}, {"Aspect": "食事", "VA": "5.20#5.06"}]}
+{"ID": "hotel26_aspect_va_test_477", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "3.76#5.81"}]}
+{"ID": "hotel26_aspect_va_test_478", "Aspect_VA": [{"Aspect": "案内", "VA": "6.60#6.34"}]}
+{"ID": "hotel26_aspect_va_test_479", "Aspect_VA": [{"Aspect": "眺め", "VA": "5.87#5.47"}, {"Aspect": "部屋", "VA": "6.43#6.04"}]}
+{"ID": "hotel26_aspect_va_test_480", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.63#6.38"}]}
+{"ID": "hotel26_aspect_va_test_481", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.58#6.22"}]}
+{"ID": "hotel26_aspect_va_test_482", "Aspect_VA": [{"Aspect": "利用", "VA": "6.50#6.11"}]}
+{"ID": "hotel26_aspect_va_test_483", "Aspect_VA": [{"Aspect": "それ以外", "VA": "7.31#7.26"}]}
+{"ID": "hotel26_aspect_va_test_484", "Aspect_VA": [{"Aspect": "ウェルカムドリンク", "VA": "7.26#7.14"}, {"Aspect": "ロビー", "VA": "6.78#6.48"}, {"Aspect": "抹茶", "VA": "7.05#6.88"}]}
+{"ID": "hotel26_aspect_va_test_485", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.57#6.18"}]}
+{"ID": "hotel26_aspect_va_test_486", "Aspect_VA": [{"Aspect": "立地", "VA": "6.09#5.68"}]}
+{"ID": "hotel26_aspect_va_test_487", "Aspect_VA": [{"Aspect": "ラウンジ", "VA": "6.58#6.21"}]}
+{"ID": "hotel26_aspect_va_test_488", "Aspect_VA": [{"Aspect": "汚れ", "VA": "3.08#6.33"}]}
+{"ID": "hotel26_aspect_va_test_489", "Aspect_VA": [{"Aspect": "夕食", "VA": "7.29#7.24"}]}
+{"ID": "hotel26_aspect_va_test_490", "Aspect_VA": [{"Aspect": "フロント", "VA": "3.57#6.10"}]}
+{"ID": "hotel26_aspect_va_test_491", "Aspect_VA": [{"Aspect": "雰囲気", "VA": "6.52#6.26"}, {"Aspect": "施設", "VA": "4.09#5.72"}, {"Aspect": "清掃", "VA": "6.77#6.42"}]}
+{"ID": "hotel26_aspect_va_test_492", "Aspect_VA": [{"Aspect": "接客", "VA": "6.26#5.89"}, {"Aspect": "部屋", "VA": "6.46#6.06"}]}
+{"ID": "hotel26_aspect_va_test_493", "Aspect_VA": [{"Aspect": "立地", "VA": "7.13#7.02"}]}
+{"ID": "hotel26_aspect_va_test_494", "Aspect_VA": [{"Aspect": "もみじ饅頭", "VA": "6.68#6.60"}]}
+{"ID": "hotel26_aspect_va_test_495", "Aspect_VA": [{"Aspect": "食パン", "VA": "6.56#6.29"}]}
+{"ID": "hotel26_aspect_va_test_496", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.50#6.21"}, {"Aspect": "温泉", "VA": "6.60#6.32"}, {"Aspect": "眺望", "VA": "6.55#6.15"}]}
+{"ID": "hotel26_aspect_va_test_497", "Aspect_VA": [{"Aspect": "音", "VA": "5.40#5.32"}]}
+{"ID": "hotel26_aspect_va_test_498", "Aspect_VA": [{"Aspect": "ビジネスホテル", "VA": "6.54#6.22"}]}
+{"ID": "hotel26_aspect_va_test_499", "Aspect_VA": [{"Aspect": "シングルルーム", "VA": "6.21#5.94"}]}
+{"ID": "hotel26_aspect_va_test_500", "Aspect_VA": [{"Aspect": "ドライヤー", "VA": "6.43#6.11"}]}
+{"ID": "hotel26_aspect_va_test_501", "Aspect_VA": [{"Aspect": "駐車場", "VA": "6.30#5.97"}, {"Aspect": "温泉街", "VA": "6.42#6.09"}]}
+{"ID": "hotel26_aspect_va_test_502", "Aspect_VA": [{"Aspect": "WiFi", "VA": "4.03#5.75"}]}
+{"ID": "hotel26_aspect_va_test_503", "Aspect_VA": [{"Aspect": "量", "VA": "3.32#6.02"}, {"Aspect": "薬味", "VA": "3.27#6.04"}, {"Aspect": "刺身", "VA": "3.23#6.13"}]}
+{"ID": "hotel26_aspect_va_test_504", "Aspect_VA": [{"Aspect": "声", "VA": "6.31#6.02"}, {"Aspect": "音", "VA": "6.32#6.05"}]}
+{"ID": "hotel26_aspect_va_test_505", "Aspect_VA": [{"Aspect": "食事", "VA": "3.67#5.84"}]}
+{"ID": "hotel26_aspect_va_test_506", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.31#7.36"}, {"Aspect": "種類", "VA": "5.20#5.77"}]}
+{"ID": "hotel26_aspect_va_test_507", "Aspect_VA": [{"Aspect": "ジャグジー", "VA": "3.57#6.03"}, {"Aspect": "他", "VA": "6.87#6.59"}]}
+{"ID": "hotel26_aspect_va_test_508", "Aspect_VA": [{"Aspect": "内装", "VA": "6.63#6.15"}]}
+{"ID": "hotel26_aspect_va_test_509", "Aspect_VA": [{"Aspect": "対応", "VA": "7.00#6.93"}]}
+{"ID": "hotel26_aspect_va_test_510", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.13#6.95"}, {"Aspect": "夕食", "VA": "7.04#6.89"}]}
+{"ID": "hotel26_aspect_va_test_511", "Aspect_VA": [{"Aspect": "フロント", "VA": "3.93#5.84"}]}
+{"ID": "hotel26_aspect_va_test_512", "Aspect_VA": [{"Aspect": "スパ", "VA": "6.14#6.09"}]}
+{"ID": "hotel26_aspect_va_test_513", "Aspect_VA": [{"Aspect": "プラン", "VA": "7.76#7.61"}, {"Aspect": "お昼", "VA": "6.84#6.50"}]}
+{"ID": "hotel26_aspect_va_test_514", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.59#6.21"}]}
+{"ID": "hotel26_aspect_va_test_515", "Aspect_VA": [{"Aspect": "夜鳴きそば", "VA": "3.27#6.10"}]}
+{"ID": "hotel26_aspect_va_test_516", "Aspect_VA": [{"Aspect": "子供連れ", "VA": "6.38#5.95"}]}
+{"ID": "hotel26_aspect_va_test_517", "Aspect_VA": [{"Aspect": "駅", "VA": "6.29#5.95"}, {"Aspect": "部屋", "VA": "6.39#6.02"}]}
+{"ID": "hotel26_aspect_va_test_518", "Aspect_VA": [{"Aspect": "お風呂", "VA": "7.59#7.55"}, {"Aspect": "接客", "VA": "7.55#7.50"}, {"Aspect": "お部屋", "VA": "7.57#7.54"}]}
+{"ID": "hotel26_aspect_va_test_519", "Aspect_VA": [{"Aspect": "夕食", "VA": "6.44#6.25"}]}
+{"ID": "hotel26_aspect_va_test_520", "Aspect_VA": [{"Aspect": "お風呂", "VA": "3.45#6.22"}]}
+{"ID": "hotel26_aspect_va_test_521", "Aspect_VA": [{"Aspect": "食事", "VA": "6.66#6.43"}]}
+{"ID": "hotel26_aspect_va_test_522", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.43#6.01"}]}
+{"ID": "hotel26_aspect_va_test_523", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.58#6.21"}]}
+{"ID": "hotel26_aspect_va_test_524", "Aspect_VA": [{"Aspect": "足風呂", "VA": "7.69#7.60"}, {"Aspect": "サウナ", "VA": "7.62#7.54"}, {"Aspect": "富士市", "VA": "7.73#7.66"}]}
+{"ID": "hotel26_aspect_va_test_525", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.48#6.20"}]}
+{"ID": "hotel26_aspect_va_test_526", "Aspect_VA": [{"Aspect": "ウェルカムドリンク", "VA": "6.36#6.19"}]}
+{"ID": "hotel26_aspect_va_test_527", "Aspect_VA": [{"Aspect": "食事", "VA": "5.93#5.62"}, {"Aspect": "立地", "VA": "7.04#6.80"}]}
+{"ID": "hotel26_aspect_va_test_528", "Aspect_VA": [{"Aspect": "浜松駅", "VA": "3.91#5.74"}, {"Aspect": "スタッフ", "VA": "6.40#6.15"}]}
+{"ID": "hotel26_aspect_va_test_529", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.51#6.27"}]}
+{"ID": "hotel26_aspect_va_test_530", "Aspect_VA": [{"Aspect": "チェックイン", "VA": "3.77#5.71"}, {"Aspect": "提携駐車場", "VA": "6.25#6.02"}]}
+{"ID": "hotel26_aspect_va_test_531", "Aspect_VA": [{"Aspect": "値段", "VA": "6.73#6.57"}, {"Aspect": "部屋", "VA": "6.46#6.04"}, {"Aspect": "駅", "VA": "6.27#5.88"}]}
+{"ID": "hotel26_aspect_va_test_532", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.90#6.77"}]}
+{"ID": "hotel26_aspect_va_test_533", "Aspect_VA": [{"Aspect": "併設フレンチレストラン", "VA": "6.57#6.26"}]}
+{"ID": "hotel26_aspect_va_test_534", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.46#6.06"}]}
+{"ID": "hotel26_aspect_va_test_535", "Aspect_VA": [{"Aspect": "手続き", "VA": "6.61#6.28"}]}
+{"ID": "hotel26_aspect_va_test_536", "Aspect_VA": [{"Aspect": "朝食", "VA": "4.26#6.45"}]}
+{"ID": "hotel26_aspect_va_test_537", "Aspect_VA": [{"Aspect": "種類", "VA": "7.12#6.95"}, {"Aspect": "和食", "VA": "6.87#6.58"}, {"Aspect": "洋食", "VA": "6.88#6.63"}]}
+{"ID": "hotel26_aspect_va_test_538", "Aspect_VA": [{"Aspect": "バスの本数", "VA": "3.67#5.73"}]}
+{"ID": "hotel26_aspect_va_test_539", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.63#6.31"}]}
+{"ID": "hotel26_aspect_va_test_540", "Aspect_VA": [{"Aspect": "スタッフの方", "VA": "7.00#6.77"}]}
+{"ID": "hotel26_aspect_va_test_541", "Aspect_VA": [{"Aspect": "レストランの雰囲気", "VA": "6.35#5.99"}, {"Aspect": "メニュー", "VA": "6.65#6.39"}]}
+{"ID": "hotel26_aspect_va_test_542", "Aspect_VA": [{"Aspect": "駅", "VA": "6.66#6.51"}]}
+{"ID": "hotel26_aspect_va_test_543", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.39#6.18"}]}
+{"ID": "hotel26_aspect_va_test_544", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.57#6.34"}]}
+{"ID": "hotel26_aspect_va_test_545", "Aspect_VA": [{"Aspect": "ホテルの湯", "VA": "6.67#6.41"}, {"Aspect": "山荘", "VA": "6.61#6.33"}]}
+{"ID": "hotel26_aspect_va_test_546", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.57#6.14"}]}
+{"ID": "hotel26_aspect_va_test_547", "Aspect_VA": [{"Aspect": "心遣い", "VA": "6.79#6.59"}]}
+{"ID": "hotel26_aspect_va_test_548", "Aspect_VA": [{"Aspect": "立地", "VA": "6.89#6.54"}, {"Aspect": "大浴場", "VA": "6.89#6.58"}, {"Aspect": "マッサージチェア", "VA": "6.82#6.52"}]}
+{"ID": "hotel26_aspect_va_test_549", "Aspect_VA": [{"Aspect": "サービス", "VA": "7.30#7.24"}, {"Aspect": "レイトチェックアウト", "VA": "7.41#7.34"}]}
+{"ID": "hotel26_aspect_va_test_550", "Aspect_VA": [{"Aspect": "室内", "VA": "3.75#5.76"}]}
+{"ID": "hotel26_aspect_va_test_551", "Aspect_VA": [{"Aspect": "対応", "VA": "6.64#6.53"}]}
+{"ID": "hotel26_aspect_va_test_552", "Aspect_VA": [{"Aspect": "食事", "VA": "7.59#7.44"}, {"Aspect": "部屋", "VA": "7.25#7.05"}, {"Aspect": "サービス", "VA": "7.63#7.48"}]}
+{"ID": "hotel26_aspect_va_test_553", "Aspect_VA": [{"Aspect": "お風呂上がり", "VA": "2.68#7.11"}]}
+{"ID": "hotel26_aspect_va_test_554", "Aspect_VA": [{"Aspect": "利用", "VA": "6.30#5.81"}]}
+{"ID": "hotel26_aspect_va_test_555", "Aspect_VA": [{"Aspect": "１階", "VA": "6.58#6.24"}, {"Aspect": "気持ち", "VA": "6.65#6.14"}]}
+{"ID": "hotel26_aspect_va_test_556", "Aspect_VA": [{"Aspect": "感じ", "VA": "6.47#6.20"}]}
+{"ID": "hotel26_aspect_va_test_557", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.55#6.32"}]}
+{"ID": "hotel26_aspect_va_test_558", "Aspect_VA": [{"Aspect": "アルバイト", "VA": "3.65#6.09"}]}
+{"ID": "hotel26_aspect_va_test_559", "Aspect_VA": [{"Aspect": "立地", "VA": "7.07#6.83"}]}
+{"ID": "hotel26_aspect_va_test_560", "Aspect_VA": [{"Aspect": "トイレ", "VA": "3.32#6.19"}, {"Aspect": "アメニティ", "VA": "6.85#6.59"}]}
+{"ID": "hotel26_aspect_va_test_561", "Aspect_VA": [{"Aspect": "食事", "VA": "6.63#6.33"}]}
+{"ID": "hotel26_aspect_va_test_562", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.49#6.11"}]}
+{"ID": "hotel26_aspect_va_test_563", "Aspect_VA": [{"Aspect": "対応", "VA": "6.58#6.27"}, {"Aspect": "ホテル", "VA": "6.51#6.29"}]}
+{"ID": "hotel26_aspect_va_test_564", "Aspect_VA": [{"Aspect": "スプーン", "VA": "3.28#6.11"}]}
+{"ID": "hotel26_aspect_va_test_565", "Aspect_VA": [{"Aspect": "工事", "VA": "3.17#6.66"}, {"Aspect": "館内", "VA": "5.71#6.18"}]}
+{"ID": "hotel26_aspect_va_test_566", "Aspect_VA": [{"Aspect": "料理", "VA": "6.45#6.23"}]}
+{"ID": "hotel26_aspect_va_test_567", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.83#5.75"}, {"Aspect": "ホテル", "VA": "6.67#6.45"}, {"Aspect": "立地", "VA": "6.40#5.95"}]}
+{"ID": "hotel26_aspect_va_test_568", "Aspect_VA": [{"Aspect": "うれしの茶", "VA": "7.16#7.09"}]}
+{"ID": "hotel26_aspect_va_test_569", "Aspect_VA": [{"Aspect": "サービス", "VA": "4.54#6.06"}]}
+{"ID": "hotel26_aspect_va_test_570", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.97#6.74"}]}
+{"ID": "hotel26_aspect_va_test_571", "Aspect_VA": [{"Aspect": "対応", "VA": "6.34#6.63"}, {"Aspect": "台拭き", "VA": "3.35#6.38"}]}
+{"ID": "hotel26_aspect_va_test_572", "Aspect_VA": [{"Aspect": "ベット", "VA": "6.70#6.44"}, {"Aspect": "部屋", "VA": "6.76#6.55"}]}
+{"ID": "hotel26_aspect_va_test_573", "Aspect_VA": [{"Aspect": "部屋", "VA": "7.48#7.35"}]}
+{"ID": "hotel26_aspect_va_test_574", "Aspect_VA": [{"Aspect": "設備", "VA": "3.75#5.95"}]}
+{"ID": "hotel26_aspect_va_test_575", "Aspect_VA": [{"Aspect": "朝食バイキング", "VA": "6.70#6.57"}]}
+{"ID": "hotel26_aspect_va_test_576", "Aspect_VA": [{"Aspect": "コスパ", "VA": "6.45#6.11"}]}
+{"ID": "hotel26_aspect_va_test_577", "Aspect_VA": [{"Aspect": "全て", "VA": "6.35#5.95"}]}
+{"ID": "hotel26_aspect_va_test_578", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.48#6.26"}]}
+{"ID": "hotel26_aspect_va_test_579", "Aspect_VA": [{"Aspect": "立地", "VA": "6.85#6.67"}]}
+{"ID": "hotel26_aspect_va_test_580", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.21#7.11"}]}
+{"ID": "hotel26_aspect_va_test_581", "Aspect_VA": [{"Aspect": "コスパ", "VA": "6.41#6.12"}]}
+{"ID": "hotel26_aspect_va_test_582", "Aspect_VA": [{"Aspect": "立地", "VA": "7.30#7.20"}]}
+{"ID": "hotel26_aspect_va_test_583", "Aspect_VA": [{"Aspect": "便利", "VA": "6.70#6.48"}]}
+{"ID": "hotel26_aspect_va_test_584", "Aspect_VA": [{"Aspect": "ベツト", "VA": "6.17#5.97"}]}
+{"ID": "hotel26_aspect_va_test_585", "Aspect_VA": [{"Aspect": "部屋のお風呂", "VA": "6.79#6.66"}]}
+{"ID": "hotel26_aspect_va_test_586", "Aspect_VA": [{"Aspect": "コーヒーサービス", "VA": "6.57#6.43"}]}
+{"ID": "hotel26_aspect_va_test_587", "Aspect_VA": [{"Aspect": "値段", "VA": "6.30#5.87"}, {"Aspect": "臭い", "VA": "5.37#5.36"}]}
+{"ID": "hotel26_aspect_va_test_588", "Aspect_VA": [{"Aspect": "エアコン", "VA": "3.96#5.77"}, {"Aspect": "シャワー", "VA": "3.91#5.81"}, {"Aspect": "部屋", "VA": "6.28#5.88"}]}
+{"ID": "hotel26_aspect_va_test_589", "Aspect_VA": [{"Aspect": "食事", "VA": "7.25#7.06"}]}
+{"ID": "hotel26_aspect_va_test_590", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.44#6.27"}]}
+{"ID": "hotel26_aspect_va_test_591", "Aspect_VA": [{"Aspect": "支払い", "VA": "7.13#7.07"}]}
+{"ID": "hotel26_aspect_va_test_592", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.53#6.04"}, {"Aspect": "外観", "VA": "7.13#6.95"}]}
+{"ID": "hotel26_aspect_va_test_593", "Aspect_VA": [{"Aspect": "風呂", "VA": "7.15#7.04"}]}
+{"ID": "hotel26_aspect_va_test_594", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.56#6.40"}]}
+{"ID": "hotel26_aspect_va_test_595", "Aspect_VA": [{"Aspect": "建物", "VA": "4.07#5.64"}]}
+{"ID": "hotel26_aspect_va_test_596", "Aspect_VA": [{"Aspect": "駐車場", "VA": "4.23#5.52"}]}
+{"ID": "hotel26_aspect_va_test_597", "Aspect_VA": [{"Aspect": "温泉", "VA": "5.76#6.91"}]}
+{"ID": "hotel26_aspect_va_test_598", "Aspect_VA": [{"Aspect": "デスク", "VA": "3.82#5.76"}]}
+{"ID": "hotel26_aspect_va_test_599", "Aspect_VA": [{"Aspect": "種類", "VA": "6.50#6.22"}, {"Aspect": "ラウンジ", "VA": "6.44#6.22"}]}
+{"ID": "hotel26_aspect_va_test_600", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.69#6.62"}]}
+{"ID": "hotel26_aspect_va_test_601", "Aspect_VA": [{"Aspect": "建物", "VA": "3.99#5.72"}, {"Aspect": "館内", "VA": "6.41#6.06"}]}
+{"ID": "hotel26_aspect_va_test_602", "Aspect_VA": [{"Aspect": "ヒレステーキ付きのプラン", "VA": "7.42#7.30"}]}
+{"ID": "hotel26_aspect_va_test_603", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.60#6.41"}, {"Aspect": "立地", "VA": "7.29#7.13"}]}
+{"ID": "hotel26_aspect_va_test_604", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.82#6.53"}]}
+{"ID": "hotel26_aspect_va_test_605", "Aspect_VA": [{"Aspect": "ユニットバス", "VA": "6.05#5.90"}]}
+{"ID": "hotel26_aspect_va_test_606", "Aspect_VA": [{"Aspect": "受付の方", "VA": "5.56#5.31"}]}
+{"ID": "hotel26_aspect_va_test_607", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.90#6.65"}, {"Aspect": "アクセス", "VA": "4.09#5.58"}]}
+{"ID": "hotel26_aspect_va_test_608", "Aspect_VA": [{"Aspect": "フロント", "VA": "6.54#6.27"}]}
+{"ID": "hotel26_aspect_va_test_609", "Aspect_VA": [{"Aspect": "換気扇", "VA": "3.66#5.85"}]}
+{"ID": "hotel26_aspect_va_test_610", "Aspect_VA": [{"Aspect": "旅", "VA": "6.79#6.64"}]}
+{"ID": "hotel26_aspect_va_test_611", "Aspect_VA": [{"Aspect": "朝食の場所", "VA": "3.41#5.97"}, {"Aspect": "回転", "VA": "3.58#5.77"}]}
+{"ID": "hotel26_aspect_va_test_612", "Aspect_VA": [{"Aspect": "立地", "VA": "6.65#6.27"}]}
+{"ID": "hotel26_aspect_va_test_613", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "6.54#6.27"}]}
+{"ID": "hotel26_aspect_va_test_614", "Aspect_VA": [{"Aspect": "ホテル", "VA": "5.18#5.09"}]}
+{"ID": "hotel26_aspect_va_test_615", "Aspect_VA": [{"Aspect": "花垣", "VA": "3.52#5.81"}]}
+{"ID": "hotel26_aspect_va_test_616", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.39#7.41"}]}
+{"ID": "hotel26_aspect_va_test_617", "Aspect_VA": [{"Aspect": "お風呂", "VA": "6.52#6.29"}, {"Aspect": "温度", "VA": "6.37#6.05"}]}
+{"ID": "hotel26_aspect_va_test_618", "Aspect_VA": [{"Aspect": "草", "VA": "3.25#6.86"}]}
+{"ID": "hotel26_aspect_va_test_619", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.40#6.07"}]}
+{"ID": "hotel26_aspect_va_test_620", "Aspect_VA": [{"Aspect": "フロントの方の対応", "VA": "7.10#6.96"}]}
+{"ID": "hotel26_aspect_va_test_621", "Aspect_VA": [{"Aspect": "ベッドのカバー", "VA": "3.12#6.35"}]}
+{"ID": "hotel26_aspect_va_test_622", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.17#7.05"}]}
+{"ID": "hotel26_aspect_va_test_623", "Aspect_VA": [{"Aspect": "上階の足音", "VA": "3.16#6.47"}]}
+{"ID": "hotel26_aspect_va_test_624", "Aspect_VA": [{"Aspect": "食事部屋", "VA": "3.56#6.12"}]}
+{"ID": "hotel26_aspect_va_test_625", "Aspect_VA": [{"Aspect": "お食事", "VA": "6.78#6.91"}]}
+{"ID": "hotel26_aspect_va_test_626", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "6.44#6.26"}, {"Aspect": "お湯", "VA": "4.64#5.71"}, {"Aspect": "部屋の露天風呂", "VA": "6.54#6.35"}]}
+{"ID": "hotel26_aspect_va_test_627", "Aspect_VA": [{"Aspect": "面倒なことがないこと", "VA": "6.29#6.00"}]}
+{"ID": "hotel26_aspect_va_test_628", "Aspect_VA": [{"Aspect": "チェックアウト", "VA": "3.31#6.25"}]}
+{"ID": "hotel26_aspect_va_test_629", "Aspect_VA": [{"Aspect": "食事", "VA": "7.21#7.16"}]}
+{"ID": "hotel26_aspect_va_test_630", "Aspect_VA": [{"Aspect": "品数", "VA": "4.37#5.54"}, {"Aspect": "朝食", "VA": "6.59#6.40"}]}
+{"ID": "hotel26_aspect_va_test_631", "Aspect_VA": [{"Aspect": "バスの発着", "VA": "6.22#5.85"}]}
+{"ID": "hotel26_aspect_va_test_632", "Aspect_VA": [{"Aspect": "フェイスパック", "VA": "6.58#6.23"}]}
+{"ID": "hotel26_aspect_va_test_633", "Aspect_VA": [{"Aspect": "清掃", "VA": "6.74#6.37"}, {"Aspect": "サービス", "VA": "6.50#6.14"}]}
+{"ID": "hotel26_aspect_va_test_634", "Aspect_VA": [{"Aspect": "料理", "VA": "6.55#6.26"}]}
+{"ID": "hotel26_aspect_va_test_635", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.94#6.83"}]}
+{"ID": "hotel26_aspect_va_test_636", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.72#6.48"}]}
+{"ID": "hotel26_aspect_va_test_637", "Aspect_VA": [{"Aspect": "駐車場", "VA": "3.75#5.75"}]}
+{"ID": "hotel26_aspect_va_test_638", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.72#6.40"}, {"Aspect": "ホテル", "VA": "6.68#6.46"}]}
+{"ID": "hotel26_aspect_va_test_639", "Aspect_VA": [{"Aspect": "対応", "VA": "6.76#6.48"}]}
+{"ID": "hotel26_aspect_va_test_640", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.32#6.37"}]}
+{"ID": "hotel26_aspect_va_test_641", "Aspect_VA": [{"Aspect": "枕", "VA": "5.01#5.60"}]}
+{"ID": "hotel26_aspect_va_test_642", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.33#6.12"}]}
+{"ID": "hotel26_aspect_va_test_643", "Aspect_VA": [{"Aspect": "対応", "VA": "6.81#6.54"}, {"Aspect": "サウナ", "VA": "7.12#6.91"}, {"Aspect": "大浴場", "VA": "7.15#6.95"}]}
+{"ID": "hotel26_aspect_va_test_644", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.93#5.75"}]}
+{"ID": "hotel26_aspect_va_test_645", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.39#5.94"}, {"Aspect": "居心地", "VA": "6.93#6.78"}, {"Aspect": "八幡浜駅", "VA": "6.30#5.98"}]}
+{"ID": "hotel26_aspect_va_test_646", "Aspect_VA": [{"Aspect": "入浴時間", "VA": "3.59#5.98"}, {"Aspect": "朝風呂", "VA": "3.11#6.62"}]}
+{"ID": "hotel26_aspect_va_test_647", "Aspect_VA": [{"Aspect": "部屋の広さ", "VA": "7.50#7.20"}, {"Aspect": "清潔感", "VA": "7.50#7.23"}, {"Aspect": "立地", "VA": "7.49#7.20"}, {"Aspect": "サービス", "VA": "7.61#7.29"}]}
+{"ID": "hotel26_aspect_va_test_648", "Aspect_VA": [{"Aspect": "サービス面", "VA": "2.30#7.24"}]}
+{"ID": "hotel26_aspect_va_test_649", "Aspect_VA": [{"Aspect": "部屋", "VA": "4.37#5.59"}]}
+{"ID": "hotel26_aspect_va_test_650", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.48#6.16"}]}
+{"ID": "hotel26_aspect_va_test_651", "Aspect_VA": [{"Aspect": "温度調整", "VA": "3.51#5.86"}]}
+{"ID": "hotel26_aspect_va_test_652", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.47#6.28"}]}
+{"ID": "hotel26_aspect_va_test_653", "Aspect_VA": [{"Aspect": "バス・トイレ", "VA": "6.37#6.09"}]}
+{"ID": "hotel26_aspect_va_test_654", "Aspect_VA": [{"Aspect": "コンビニがとなり", "VA": "6.34#6.11"}]}
+{"ID": "hotel26_aspect_va_test_655", "Aspect_VA": [{"Aspect": "立地", "VA": "6.48#6.05"}]}
+{"ID": "hotel26_aspect_va_test_656", "Aspect_VA": [{"Aspect": "風呂", "VA": "6.51#6.22"}, {"Aspect": "部屋", "VA": "6.28#6.01"}]}
+{"ID": "hotel26_aspect_va_test_657", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.37#5.99"}, {"Aspect": "コスパ", "VA": "3.94#5.58"}]}
+{"ID": "hotel26_aspect_va_test_658", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "4.16#6.17"}, {"Aspect": "料理", "VA": "7.26#6.99"}]}
+{"ID": "hotel26_aspect_va_test_659", "Aspect_VA": [{"Aspect": "部屋", "VA": "7.09#6.95"}]}
+{"ID": "hotel26_aspect_va_test_660", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.62#6.39"}]}
+{"ID": "hotel26_aspect_va_test_661", "Aspect_VA": [{"Aspect": "夕食", "VA": "6.54#6.34"}]}
+{"ID": "hotel26_aspect_va_test_662", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.72#6.48"}, {"Aspect": "宿泊", "VA": "6.69#6.44"}]}
+{"ID": "hotel26_aspect_va_test_663", "Aspect_VA": [{"Aspect": "クラブラウンジ", "VA": "7.09#6.98"}, {"Aspect": "居心地", "VA": "6.61#6.45"}]}
+{"ID": "hotel26_aspect_va_test_664", "Aspect_VA": [{"Aspect": "ホテルスタッフ", "VA": "6.39#6.15"}]}
+{"ID": "hotel26_aspect_va_test_665", "Aspect_VA": [{"Aspect": "坪庭", "VA": "3.97#5.81"}]}
+{"ID": "hotel26_aspect_va_test_666", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.64#6.29"}]}
+{"ID": "hotel26_aspect_va_test_667", "Aspect_VA": [{"Aspect": "シャワー", "VA": "3.29#6.13"}]}
+{"ID": "hotel26_aspect_va_test_668", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.62#6.35"}]}
+{"ID": "hotel26_aspect_va_test_669", "Aspect_VA": [{"Aspect": "ビジネスホテル", "VA": "7.59#7.46"}]}
+{"ID": "hotel26_aspect_va_test_670", "Aspect_VA": [{"Aspect": "大浴場", "VA": "6.40#5.97"}, {"Aspect": "シャワー", "VA": "6.27#6.09"}]}
+{"ID": "hotel26_aspect_va_test_671", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.42#6.18"}]}
+{"ID": "hotel26_aspect_va_test_672", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.71#6.51"}]}
+{"ID": "hotel26_aspect_va_test_673", "Aspect_VA": [{"Aspect": "お部屋", "VA": "6.58#6.23"}]}
+{"ID": "hotel26_aspect_va_test_674", "Aspect_VA": [{"Aspect": "ご飯食べ放題", "VA": "6.66#6.51"}]}
+{"ID": "hotel26_aspect_va_test_675", "Aspect_VA": [{"Aspect": "メニュー", "VA": "3.72#5.89"}]}
+{"ID": "hotel26_aspect_va_test_676", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.63#6.36"}]}
+{"ID": "hotel26_aspect_va_test_677", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.57#6.21"}]}
+{"ID": "hotel26_aspect_va_test_678", "Aspect_VA": [{"Aspect": "対応", "VA": "6.52#6.21"}]}
+{"ID": "hotel26_aspect_va_test_679", "Aspect_VA": [{"Aspect": "宿泊施設", "VA": "6.82#6.64"}]}
+{"ID": "hotel26_aspect_va_test_680", "Aspect_VA": [{"Aspect": "荷物", "VA": "5.66#6.03"}]}
+{"ID": "hotel26_aspect_va_test_681", "Aspect_VA": [{"Aspect": "立地", "VA": "4.16#5.55"}]}
+{"ID": "hotel26_aspect_va_test_682", "Aspect_VA": [{"Aspect": "立地", "VA": "6.28#5.86"}]}
+{"ID": "hotel26_aspect_va_test_683", "Aspect_VA": [{"Aspect": "竹林の風呂", "VA": "7.02#6.79"}, {"Aspect": "風呂", "VA": "6.77#6.52"}]}
+{"ID": "hotel26_aspect_va_test_684", "Aspect_VA": [{"Aspect": "対応", "VA": "6.62#6.40"}]}
+{"ID": "hotel26_aspect_va_test_685", "Aspect_VA": [{"Aspect": "食事", "VA": "6.50#6.26"}]}
+{"ID": "hotel26_aspect_va_test_686", "Aspect_VA": [{"Aspect": "部屋", "VA": "7.01#6.94"}]}
+{"ID": "hotel26_aspect_va_test_687", "Aspect_VA": [{"Aspect": "飲み放題", "VA": "6.45#6.11"}, {"Aspect": "料理", "VA": "6.58#6.25"}]}
+{"ID": "hotel26_aspect_va_test_688", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.74#6.49"}, {"Aspect": "見晴らし", "VA": "6.51#6.19"}]}
+{"ID": "hotel26_aspect_va_test_689", "Aspect_VA": [{"Aspect": "ホテル", "VA": "6.55#6.23"}]}
+{"ID": "hotel26_aspect_va_test_690", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.28#6.00"}]}
+{"ID": "hotel26_aspect_va_test_691", "Aspect_VA": [{"Aspect": "自動販売機", "VA": "6.26#5.97"}]}
+{"ID": "hotel26_aspect_va_test_692", "Aspect_VA": [{"Aspect": "全体的", "VA": "6.00#5.74"}]}
+{"ID": "hotel26_aspect_va_test_693", "Aspect_VA": [{"Aspect": "接客", "VA": "6.61#6.32"}]}
+{"ID": "hotel26_aspect_va_test_694", "Aspect_VA": [{"Aspect": "入り口", "VA": "6.22#5.93"}, {"Aspect": "場所", "VA": "6.53#6.20"}]}
+{"ID": "hotel26_aspect_va_test_695", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "6.84#6.59"}, {"Aspect": "部屋", "VA": "6.72#6.38"}]}
+{"ID": "hotel26_aspect_va_test_696", "Aspect_VA": [{"Aspect": "駅チカ度合い", "VA": "7.02#6.82"}]}
+{"ID": "hotel26_aspect_va_test_697", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.59#6.29"}]}
+{"ID": "hotel26_aspect_va_test_698", "Aspect_VA": [{"Aspect": "コンセント", "VA": "3.29#6.02"}]}
+{"ID": "hotel26_aspect_va_test_699", "Aspect_VA": [{"Aspect": "朝食", "VA": "3.60#5.89"}]}
+{"ID": "hotel26_aspect_va_test_700", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.31#5.99"}]}
+{"ID": "hotel26_aspect_va_test_701", "Aspect_VA": [{"Aspect": "部屋", "VA": "7.03#6.85"}]}
+{"ID": "hotel26_aspect_va_test_702", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.52#6.11"}]}
+{"ID": "hotel26_aspect_va_test_703", "Aspect_VA": [{"Aspect": "立地", "VA": "6.40#6.06"}]}
+{"ID": "hotel26_aspect_va_test_704", "Aspect_VA": [{"Aspect": "シティホテル", "VA": "5.24#5.48"}]}
+{"ID": "hotel26_aspect_va_test_705", "Aspect_VA": [{"Aspect": "カレー", "VA": "6.46#6.30"}, {"Aspect": "デザート", "VA": "6.50#6.31"}, {"Aspect": "唐揚げ", "VA": "6.45#6.29"}, {"Aspect": "ご飯", "VA": "6.49#6.32"}]}
+{"ID": "hotel26_aspect_va_test_706", "Aspect_VA": [{"Aspect": "立地", "VA": "7.40#7.32"}]}
+{"ID": "hotel26_aspect_va_test_707", "Aspect_VA": [{"Aspect": "ホテル", "VA": "7.27#7.08"}]}
+{"ID": "hotel26_aspect_va_test_708", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.49#6.10"}, {"Aspect": "サービス", "VA": "6.79#6.54"}]}
+{"ID": "hotel26_aspect_va_test_709", "Aspect_VA": [{"Aspect": "立地", "VA": "6.96#6.84"}, {"Aspect": "対応", "VA": "7.04#6.87"}]}
+{"ID": "hotel26_aspect_va_test_710", "Aspect_VA": [{"Aspect": "滝", "VA": "6.78#6.80"}]}
+{"ID": "hotel26_aspect_va_test_711", "Aspect_VA": [{"Aspect": "展望大浴場", "VA": "6.61#6.33"}]}
+{"ID": "hotel26_aspect_va_test_712", "Aspect_VA": [{"Aspect": "利便性", "VA": "7.06#6.81"}]}
+{"ID": "hotel26_aspect_va_test_713", "Aspect_VA": [{"Aspect": "ドリンクバー", "VA": "7.25#7.20"}]}
+{"ID": "hotel26_aspect_va_test_714", "Aspect_VA": [{"Aspect": "対応", "VA": "6.66#6.40"}, {"Aspect": "サービス", "VA": "7.37#7.17"}]}
+{"ID": "hotel26_aspect_va_test_715", "Aspect_VA": [{"Aspect": "ベッドの下", "VA": "6.78#6.62"}]}
+{"ID": "hotel26_aspect_va_test_716", "Aspect_VA": [{"Aspect": "朝食", "VA": "3.14#6.34"}, {"Aspect": "米", "VA": "3.35#6.18"}]}
+{"ID": "hotel26_aspect_va_test_717", "Aspect_VA": [{"Aspect": "さつまいも", "VA": "7.28#6.96"}]}
+{"ID": "hotel26_aspect_va_test_718", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.43#6.09"}]}
+{"ID": "hotel26_aspect_va_test_719", "Aspect_VA": [{"Aspect": "アメニティ", "VA": "6.35#5.90"}]}
+{"ID": "hotel26_aspect_va_test_720", "Aspect_VA": [{"Aspect": "駐車場", "VA": "6.14#5.83"}, {"Aspect": "街中", "VA": "6.24#5.88"}]}
+{"ID": "hotel26_aspect_va_test_721", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "6.70#6.33"}, {"Aspect": "時間", "VA": "6.78#6.57"}]}
+{"ID": "hotel26_aspect_va_test_722", "Aspect_VA": [{"Aspect": "シーツカバー", "VA": "3.26#6.53"}]}
+{"ID": "hotel26_aspect_va_test_723", "Aspect_VA": [{"Aspect": "係", "VA": "6.92#6.86"}, {"Aspect": "夕飯", "VA": "7.22#7.08"}]}
+{"ID": "hotel26_aspect_va_test_724", "Aspect_VA": [{"Aspect": "空気", "VA": "3.63#5.80"}]}
+{"ID": "hotel26_aspect_va_test_725", "Aspect_VA": [{"Aspect": "時間", "VA": "6.61#6.43"}, {"Aspect": "アドベンチャーワールド", "VA": "6.28#5.86"}]}
+{"ID": "hotel26_aspect_va_test_726", "Aspect_VA": [{"Aspect": "客室", "VA": "3.86#5.68"}]}
+{"ID": "hotel26_aspect_va_test_727", "Aspect_VA": [{"Aspect": "清潔感", "VA": "6.39#6.04"}]}
+{"ID": "hotel26_aspect_va_test_728", "Aspect_VA": [{"Aspect": "大浴場", "VA": "4.06#6.22"}]}
+{"ID": "hotel26_aspect_va_test_729", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.41#7.24"}, {"Aspect": "種類", "VA": "6.86#6.58"}]}
+{"ID": "hotel26_aspect_va_test_730", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.46#6.20"}]}
+{"ID": "hotel26_aspect_va_test_731", "Aspect_VA": [{"Aspect": "リッチ", "VA": "6.31#5.88"}, {"Aspect": "環境", "VA": "6.38#6.04"}]}
+{"ID": "hotel26_aspect_va_test_732", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.43#5.99"}]}
+{"ID": "hotel26_aspect_va_test_733", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.81#5.78"}]}
+{"ID": "hotel26_aspect_va_test_734", "Aspect_VA": [{"Aspect": "対応", "VA": "6.40#6.15"}]}
+{"ID": "hotel26_aspect_va_test_735", "Aspect_VA": [{"Aspect": "寝心地", "VA": "7.01#6.91"}, {"Aspect": "ツイン", "VA": "4.75#5.76"}]}
+{"ID": "hotel26_aspect_va_test_736", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.99#6.82"}, {"Aspect": "プール", "VA": "7.03#6.88"}, {"Aspect": "はしゃキッズ", "VA": "6.94#6.71"}]}
+{"ID": "hotel26_aspect_va_test_737", "Aspect_VA": [{"Aspect": "サービス", "VA": "7.28#7.07"}, {"Aspect": "景色", "VA": "7.31#7.10"}]}
+{"ID": "hotel26_aspect_va_test_738", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.58#6.32"}, {"Aspect": "心配り", "VA": "6.60#6.40"}]}
+{"ID": "hotel26_aspect_va_test_739", "Aspect_VA": [{"Aspect": "見送り", "VA": "6.97#6.83"}]}
+{"ID": "hotel26_aspect_va_test_740", "Aspect_VA": [{"Aspect": "対応", "VA": "6.41#6.01"}, {"Aspect": "接客", "VA": "6.84#6.65"}]}
+{"ID": "hotel26_aspect_va_test_741", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.65#6.38"}]}
+{"ID": "hotel26_aspect_va_test_742", "Aspect_VA": [{"Aspect": "バス", "VA": "6.54#6.33"}]}
+{"ID": "hotel26_aspect_va_test_743", "Aspect_VA": [{"Aspect": "部屋", "VA": "3.01#6.57"}, {"Aspect": "食事内容", "VA": "3.13#6.72"}]}
+{"ID": "hotel26_aspect_va_test_744", "Aspect_VA": [{"Aspect": "表情", "VA": "3.59#6.05"}, {"Aspect": "朝食", "VA": "6.92#6.69"}, {"Aspect": "挨拶", "VA": "3.33#6.14"}]}
+{"ID": "hotel26_aspect_va_test_745", "Aspect_VA": [{"Aspect": "立地", "VA": "7.24#7.13"}]}
+{"ID": "hotel26_aspect_va_test_746", "Aspect_VA": [{"Aspect": "食事", "VA": "6.80#6.65"}]}
+{"ID": "hotel26_aspect_va_test_747", "Aspect_VA": [{"Aspect": "女性", "VA": "6.62#6.31"}]}
+{"ID": "hotel26_aspect_va_test_748", "Aspect_VA": [{"Aspect": "掃除", "VA": "3.40#6.20"}]}
+{"ID": "hotel26_aspect_va_test_749", "Aspect_VA": [{"Aspect": "風呂", "VA": "7.30#7.23"}]}
+{"ID": "hotel26_aspect_va_test_750", "Aspect_VA": [{"Aspect": "夕食", "VA": "2.31#7.52"}]}
+{"ID": "hotel26_aspect_va_test_751", "Aspect_VA": [{"Aspect": "全体", "VA": "6.37#6.03"}]}
+{"ID": "hotel26_aspect_va_test_752", "Aspect_VA": [{"Aspect": "食事", "VA": "6.89#6.71"}, {"Aspect": "部屋", "VA": "6.87#6.69"}, {"Aspect": "温泉", "VA": "6.88#6.73"}]}
+{"ID": "hotel26_aspect_va_test_753", "Aspect_VA": [{"Aspect": "広さ", "VA": "6.44#6.06"}, {"Aspect": "部屋", "VA": "6.51#6.17"}]}
+{"ID": "hotel26_aspect_va_test_754", "Aspect_VA": [{"Aspect": "駅", "VA": "6.34#5.89"}]}
+{"ID": "hotel26_aspect_va_test_755", "Aspect_VA": [{"Aspect": "サービス", "VA": "6.75#6.50"}]}
+{"ID": "hotel26_aspect_va_test_756", "Aspect_VA": [{"Aspect": "立地", "VA": "7.13#7.07"}]}
+{"ID": "hotel26_aspect_va_test_757", "Aspect_VA": [{"Aspect": "メンテナンス", "VA": "3.03#6.27"}]}
+{"ID": "hotel26_aspect_va_test_758", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.73#6.48"}]}
+{"ID": "hotel26_aspect_va_test_759", "Aspect_VA": [{"Aspect": "部屋", "VA": "7.06#6.87"}]}
+{"ID": "hotel26_aspect_va_test_760", "Aspect_VA": [{"Aspect": "古民家", "VA": "5.54#5.69"}]}
+{"ID": "hotel26_aspect_va_test_761", "Aspect_VA": [{"Aspect": "設備", "VA": "3.67#5.94"}]}
+{"ID": "hotel26_aspect_va_test_762", "Aspect_VA": [{"Aspect": "値段", "VA": "3.61#6.19"}]}
+{"ID": "hotel26_aspect_va_test_763", "Aspect_VA": [{"Aspect": "温度", "VA": "6.35#6.04"}]}
+{"ID": "hotel26_aspect_va_test_764", "Aspect_VA": [{"Aspect": "チェックイン機", "VA": "3.65#5.94"}]}
+{"ID": "hotel26_aspect_va_test_765", "Aspect_VA": [{"Aspect": "対応", "VA": "6.62#6.38"}, {"Aspect": "コンビニ", "VA": "6.37#6.08"}, {"Aspect": "飲み屋", "VA": "6.29#6.06"}]}
+{"ID": "hotel26_aspect_va_test_766", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.94#6.79"}]}
+{"ID": "hotel26_aspect_va_test_767", "Aspect_VA": [{"Aspect": "共有スペース", "VA": "6.51#6.05"}, {"Aspect": "廊下", "VA": "6.33#5.92"}, {"Aspect": "部屋", "VA": "6.50#6.05"}]}
+{"ID": "hotel26_aspect_va_test_768", "Aspect_VA": [{"Aspect": "食事", "VA": "7.07#6.95"}, {"Aspect": "デザート食べ放題", "VA": "6.61#6.35"}]}
+{"ID": "hotel26_aspect_va_test_769", "Aspect_VA": [{"Aspect": "バイキング", "VA": "6.72#6.52"}]}
+{"ID": "hotel26_aspect_va_test_770", "Aspect_VA": [{"Aspect": "お部屋", "VA": "6.95#6.78"}]}
+{"ID": "hotel26_aspect_va_test_771", "Aspect_VA": [{"Aspect": "価格", "VA": "6.34#6.08"}]}
+{"ID": "hotel26_aspect_va_test_772", "Aspect_VA": [{"Aspect": "対応", "VA": "6.93#6.86"}]}
+{"ID": "hotel26_aspect_va_test_773", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.60#6.35"}, {"Aspect": "部屋", "VA": "6.54#6.22"}]}
+{"ID": "hotel26_aspect_va_test_774", "Aspect_VA": [{"Aspect": "露天風呂", "VA": "5.60#6.36"}, {"Aspect": "お湯", "VA": "3.54#6.08"}]}
+{"ID": "hotel26_aspect_va_test_775", "Aspect_VA": [{"Aspect": "部屋", "VA": "7.22#7.08"}]}
+{"ID": "hotel26_aspect_va_test_776", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "6.44#6.23"}]}
+{"ID": "hotel26_aspect_va_test_777", "Aspect_VA": [{"Aspect": "朝食", "VA": "6.41#6.23"}]}
+{"ID": "hotel26_aspect_va_test_778", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.31#6.04"}, {"Aspect": "風呂", "VA": "6.39#6.06"}]}
+{"ID": "hotel26_aspect_va_test_779", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.28#5.89"}, {"Aspect": "内装", "VA": "4.40#5.38"}, {"Aspect": "施設", "VA": "4.46#5.36"}]}
+{"ID": "hotel26_aspect_va_test_780", "Aspect_VA": [{"Aspect": "大浴場", "VA": "3.38#6.08"}]}
+{"ID": "hotel26_aspect_va_test_781", "Aspect_VA": [{"Aspect": "コーヒー", "VA": "3.88#5.88"}, {"Aspect": "アメニティ", "VA": "3.98#5.89"}, {"Aspect": "それ以外", "VA": "7.18#7.18"}]}
+{"ID": "hotel26_aspect_va_test_782", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.84#6.67"}]}
+{"ID": "hotel26_aspect_va_test_783", "Aspect_VA": [{"Aspect": "筑波山", "VA": "7.32#7.23"}]}
+{"ID": "hotel26_aspect_va_test_784", "Aspect_VA": [{"Aspect": "部屋", "VA": "6.69#6.29"}, {"Aspect": "駅", "VA": "6.28#5.92"}, {"Aspect": "風呂", "VA": "4.45#5.86"}, {"Aspect": "立地", "VA": "6.45#6.07"}, {"Aspect": "接客", "VA": "6.47#5.98"}]}
+{"ID": "hotel26_aspect_va_test_785", "Aspect_VA": [{"Aspect": "味", "VA": "6.38#6.09"}, {"Aspect": "朝食", "VA": "6.55#6.23"}]}
+{"ID": "hotel26_aspect_va_test_786", "Aspect_VA": [{"Aspect": "対応", "VA": "7.09#7.00"}]}
+{"ID": "hotel26_aspect_va_test_787", "Aspect_VA": [{"Aspect": "食事", "VA": "7.04#6.95"}]}
+{"ID": "hotel26_aspect_va_test_788", "Aspect_VA": [{"Aspect": "朝食", "VA": "7.12#7.06"}]}
+{"ID": "hotel26_aspect_va_test_789", "Aspect_VA": [{"Aspect": "眺め", "VA": "6.05#5.62"}, {"Aspect": "部屋", "VA": "6.43#5.98"}, {"Aspect": "ご飯", "VA": "6.54#6.23"}]}
+{"ID": "hotel26_aspect_va_test_790", "Aspect_VA": [{"Aspect": "宿泊施設", "VA": "7.27#7.16"}]}
+{"ID": "hotel26_aspect_va_test_791", "Aspect_VA": [{"Aspect": "部屋", "VA": "4.26#5.69"}]}
+{"ID": "hotel26_aspect_va_test_792", "Aspect_VA": [{"Aspect": "対応", "VA": "6.78#6.64"}]}
+{"ID": "hotel26_aspect_va_test_793", "Aspect_VA": [{"Aspect": "湯加減", "VA": "6.39#6.16"}, {"Aspect": "風呂", "VA": "5.81#6.11"}]}
+{"ID": "hotel26_aspect_va_test_794", "Aspect_VA": [{"Aspect": "温泉", "VA": "6.95#6.82"}]}
+{"ID": "hotel26_aspect_va_test_795", "Aspect_VA": [{"Aspect": "料理", "VA": "7.17#6.96"}]}
+{"ID": "hotel26_aspect_va_test_796", "Aspect_VA": [{"Aspect": "スタッフ", "VA": "4.95#6.93"}]}
+{"ID": "hotel26_aspect_va_test_797", "Aspect_VA": [{"Aspect": "畳スペース", "VA": "6.30#6.06"}]}
+{"ID": "hotel26_aspect_va_test_798", "Aspect_VA": [{"Aspect": "温泉", "VA": "7.32#7.33"}, {"Aspect": "食事", "VA": "6.50#6.18"}]}
+{"ID": "hotel26_aspect_va_test_799", "Aspect_VA": [{"Aspect": "食材", "VA": "3.61#5.96"}]}
+{"ID": "hotel26_aspect_va_test_800", "Aspect_VA": [{"Aspect": "朝食", "VA": "3.83#5.71"}]}

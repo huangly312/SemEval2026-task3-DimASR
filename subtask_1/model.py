@@ -47,7 +47,14 @@ class TransformerVARegressor(nn.Module):
         )
         cls_output = outputs.last_hidden_state[:, 0]  # [CLS] token
         x = self.dropout(cls_output)
-        return self.reg_head(x)
+        # predictions = self.reg_head(x)    
+        # return predictions
+    
+        # 【todo】新的尝试
+        raw_output = self.reg_head(x)
+        # 使用 sigmoid 将输出限制到 [0, 1]，然后缩放到 [1, 9] 范围
+        scaled_output = torch.sigmoid(raw_output) * 8.0 + 1.0  # [1, 9]
+        return scaled_output
 
 
     def train_epoch(self, dataloader, optimizer, loss_fn, device):

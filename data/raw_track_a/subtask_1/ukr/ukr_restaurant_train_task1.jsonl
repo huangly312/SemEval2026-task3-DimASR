@@ -996,7 +996,6 @@
 {"ID":"24578:8_995","Text":"Салати взагалі виявилися найсмачнішими.","Quadruplet":[{"Aspect":"Салати","Opinion":"найсмачнішими","Category":"FOOD#QUALITY","VA":"8#7.7"}]}
 {"ID":"24578:18_996","Text":"Ще можна купити додому масло оливкове.","Quadruplet":[{"Aspect":"масло оливкове","Opinion":"можна купити","Category":"FOOD#STYLE_OPTIONS","VA":"6.12#5.38"}]}
 {"ID":"24713:1_997","Text":"Зал чудовий.","Quadruplet":[{"Aspect":"Зал","Opinion":"чудовий","Category":"AMBIENCE#GENERAL","VA":"7.8#7.1"}]}
-{"ID":"24713:3_998","Text":"Ми вибрали середнє у ціновій категорії меню.","Quadruplet":[{"Aspect":"меню","Opinion":"середнє","Category":"RESTAURANT#PRICES","VA":"5#16.5"}]}
 {"ID":"24713:4_999","Text":"Коли прийшли, мене здивувала невелика кількість закусок.","Quadruplet":[{"Aspect":"закусок","Opinion":"невелика","Category":"FOOD#STYLE_OPTIONS","VA":"3.33#5.67"}]}
 {"ID":"24713:6_1000","Text":"Сирна тарілка вразила засохлим сиром.","Quadruplet":[{"Aspect":"Сирна тарілка","Opinion":"вразила засохлим сиром","Category":"FOOD#QUALITY","VA":"1.67#7.67"},{"Aspect":"сиром","Opinion":"засохлим","Category":"FOOD#QUALITY","VA":"2#7.5"}]}
 {"ID":"24713:7_1001","Text":"Фрукти були на останньому подиху.","Quadruplet":[{"Aspect":"Фрукти","Opinion":"на останньому подиху","Category":"FOOD#QUALITY","VA":"1.5#7.75"}]}

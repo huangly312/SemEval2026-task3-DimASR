@@ -996,7 +996,6 @@
 {"ID":"24578:8_995","Text":"Салаты вообще оказались вкуснейшими.","Quadruplet":[{"Aspect":"Салаты","Opinion":"вкуснейшими","Category":"FOOD#QUALITY","VA":"8#7.7"}]}
 {"ID":"24578:18_996","Text":"Еще можно купить домой масло оливковое.","Quadruplet":[{"Aspect":"масло оливковое","Opinion":"можно купить","Category":"FOOD#STYLE_OPTIONS","VA":"6.12#5.38"}]}
 {"ID":"24713:1_997","Text":"Зал замечательный.","Quadruplet":[{"Aspect":"Зал","Opinion":"замечательный","Category":"AMBIENCE#GENERAL","VA":"7.8#7.1"}]}
-{"ID":"24713:3_998","Text":"Мы выбрали среднее в ценовой категории меню.","Quadruplet":[{"Aspect":"меню","Opinion":"среднее","Category":"RESTAURANT#PRICES","VA":"5#16.5"}]}
 {"ID":"24713:4_999","Text":"Когда пришли, меня удивило небольшое кол-во закусок.","Quadruplet":[{"Aspect":"закусок","Opinion":"небольшое","Category":"FOOD#STYLE_OPTIONS","VA":"3.33#5.67"}]}
 {"ID":"24713:6_1000","Text":"Сырная тарелка поразила засохшим сыром.","Quadruplet":[{"Aspect":"Сырная тарелка","Opinion":"поразила засохшим сыром","Category":"FOOD#QUALITY","VA":"1.67#7.67"},{"Aspect":"сыром","Opinion":"засохшим","Category":"FOOD#QUALITY","VA":"2#7.5"}]}
 {"ID":"24713:7_1001","Text":"Фрукты были на последнем издыхании.","Quadruplet":[{"Aspect":"Фрукты","Opinion":"на последнем издыхании","Category":"FOOD#QUALITY","VA":"1.5#7.75"}]}

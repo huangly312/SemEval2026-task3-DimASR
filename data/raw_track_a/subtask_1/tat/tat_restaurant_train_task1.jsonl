@@ -996,7 +996,6 @@
 {"ID":"24578:8_995","Text":"Салатлар гомумән бик тәмле булып чыкты.","Quadruplet":[{"Aspect":"Салатлар","Opinion":"бик тәмле","Category":"FOOD#QUALITY","VA":"8#7.7"}]}
 {"ID":"24578:18_996","Text":"Тагын өйгә зәйтүн мае сатып алырга мөмкин.","Quadruplet":[{"Aspect":"зәйтүн мае","Opinion":"сатып алырга мөмкин","Category":"FOOD#STYLE_OPTIONS","VA":"6.12#5.38"}]}
 {"ID":"24713:1_997","Text":"Зал бик шәп.","Quadruplet":[{"Aspect":"Зал","Opinion":"шәп","Category":"AMBIENCE#GENERAL","VA":"7.8#7.1"}]}
-{"ID":"24713:3_998","Text":"Без менюның бәя категориясендә уртачасын сайладык.","Quadruplet":[{"Aspect":"менюның","Opinion":"уртачасын","Category":"RESTAURANT#PRICES","VA":"5#16.5"}]}
 {"ID":"24713:4_999","Text":"Килгәч, мине бик аз кабымлыклар гаҗәпләндерде.","Quadruplet":[{"Aspect":"кабымлыклар","Opinion":"бик аз","Category":"FOOD#STYLE_OPTIONS","VA":"3.33#5.67"}]}
 {"ID":"24713:6_1000","Text":"Сыр тәлинкәсе корыган сыр белән шаккатырды.","Quadruplet":[{"Aspect":"Сыр тәлинкәсе","Opinion":"корыган сыр белән шаккатырды","Category":"FOOD#QUALITY","VA":"1.67#7.67"},{"Aspect":"сыр белән","Opinion":"корыган","Category":"FOOD#QUALITY","VA":"2#7.5"}]}
 {"ID":"24713:7_1001","Text":"Җимешләр соңгы сулышын ала иделәр.","Quadruplet":[{"Aspect":"Җимешләр","Opinion":"соңгы сулышын ала иделәр","Category":"FOOD#QUALITY","VA":"1.5#7.75"}]}

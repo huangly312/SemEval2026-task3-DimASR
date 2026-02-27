@@ -3,6 +3,7 @@ os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 import torch
 import torch.nn as nn
 import json
+import pandas as pd
 from torch.utils.data import DataLoader
 from sklearn.model_selection import train_test_split
 from transformers import AutoTokenizer
@@ -12,10 +13,85 @@ from utils import load_jsonl, jsonl_to_df
 from evaluation import get_prd, evaluate_predictions_task1
 from utils import set_global_seed, worker_init_fn
 
+# 定义所有语言-领域组合
+LANG_DOMAIN_COMBINATIONS = [
+    ('eng', 'laptop'),
+    ('eng', 'restaurant'),
+    ('zho', 'restaurant'),
+    ('zho', 'laptop'),
+    ('zho', 'finance'),
+    ('jpn', 'hotel'),
+    ('jpn', 'finance'),
+    ('rus', 'restaurant'),
+    ('tat', 'restaurant'),
+    ('ukr', 'restaurant'),
+]
+
+
+def load_all_training_data(subtask="subtask_1", task="task1", lang_domain_combinations=None):
+    """
+    加载指定语言和领域的训练数据并合并
+    
+    Args:
+        subtask: 子任务目录名
+        task: 任务类型
+        lang_domain_combinations: 语言-领域组合列表，格式为 [('lang', 'domain'), ...]
+                                 如果为None，则使用所有组合（LANG_DOMAIN_COMBINATIONS）
+        
+    Returns:
+        合并后的DataFrame
+    """
+    # 如果没有指定组合，使用所有组合
+    if lang_domain_combinations is None:
+        lang_domain_combinations = LANG_DOMAIN_COMBINATIONS
+    
+    all_dataframes = []
+    
+    print(f"\n{'='*80}")
+    if lang_domain_combinations == LANG_DOMAIN_COMBINATIONS:
+        print("加载所有语言和领域的训练数据")
+    else:
+        print(f"加载指定的语言和领域组合的训练数据（共 {len(lang_domain_combinations)} 个组合）")
+    print(f"{'='*80}\n")
+    
+    for lang, domain in lang_domain_combinations:
+        train_path = f"data/raw_track_a/{subtask}/{lang}/{lang}_{domain}_train_{task}.jsonl"
+        if lang == 'zho' and domain == 'restaurant':
+            train_path = f"data/raw_track_a/{subtask}/{lang}/zho_restaurant_combine_sighan2024.jsonl"
+        
+        if not os.path.exists(train_path):
+            print(f"警告: 文件不存在，跳过 {lang}-{domain}: {train_path}")
+            continue
+        
+        print(f"加载: {lang}-{domain} -> {train_path}")
+        train_raw = load_jsonl(train_path)
+        train_df = jsonl_to_df(train_raw)
+        
+        # 添加语言和领域信息（可选，用于分析）
+        train_df['Lang'] = lang
+        train_df['Domain'] = domain
+        
+        all_dataframes.append(train_df)
+        print(f"  数据量: {len(train_df)} 条\n")
+    
+    if not all_dataframes:
+        raise ValueError("没有找到任何训练数据文件！")
+    
+    # 合并所有数据
+    combined_df = pd.concat(all_dataframes, ignore_index=True)
+    
+    print(f"{'='*80}")
+    print(f"数据合并完成:")
+    print(f"  总数据量: {len(combined_df)} 条")
+    print(f"  语言-领域组合数: {len(lang_domain_combinations)}")
+    print(f"{'='*80}\n")
+    
+    return combined_df
+
 
 def train_model(config, exp_dir):
     """
-    训练模型的主函数
+    训练模型的主函数（使用所有语言和领域的数据）
     
     Args:
         config: 配置字典，包含所有训练参数
@@ -29,8 +105,6 @@ def train_model(config, exp_dir):
     # 从配置中提取参数
     subtask = config["subtask"]
     task = config["task"]
-    lang = config["lang"]
-    domain = config["domain"]
     model_name = config["model_name"]
     model_path = config.get("model_path", model_name)
     use_local_only = config.get("use_local_only", False)
@@ -42,26 +116,28 @@ def train_model(config, exp_dir):
     seed = 42  # 固定随机种子，确保每次运行结果一致
     set_global_seed(seed)
     
-    # 构建路径
-    train_path = f"data/raw_track_a/{subtask}/{lang}/{lang}_{domain}_train_{task}.jsonl"
-    
     # 使用实验目录保存模型和日志
     best_model_path = os.path.join(exp_dir, "best_model.pth")
     training_log_path = os.path.join(exp_dir, "trainlog.json")
     
     # 注意：日志记录已在 main.py 中设置，这里不需要再次设置
-    # 加载数据
-    print(f"\n{'='*80}")
-    print(f"加载训练数据: {train_path}")
-    train_raw = load_jsonl(train_path)
-    train_df = jsonl_to_df(train_raw)
+    # 获取语言-领域组合（如果配置中指定了，则使用指定的；否则使用所有组合）
+    lang_domain_combinations = config.get("lang_domain_combinations", None)
+    if lang_domain_combinations is not None:
+        # 将配置中的列表转换为元组列表
+        # 配置格式可能是：[['eng', 'laptop'], ['eng', 'restaurant']] 或 [['eng', 'laptop']]
+        lang_domain_combinations = [tuple(combo) if isinstance(combo, list) else combo 
+                                    for combo in lang_domain_combinations]
+    
+    # 加载训练数据
+    combined_df = load_all_training_data(subtask, task, lang_domain_combinations=lang_domain_combinations)
     
     # 划分训练集和验证集
-    train_df, dev_df = train_test_split(train_df, test_size=0.1, random_state=seed)
+    train_df, dev_df = train_test_split(combined_df, test_size=0.1, random_state=seed)
     
     # 输出数据集大小
     print(f"{'='*80}")
-    print(f"数据集大小统计:")
+    print(f"数据集划分:")
     print(f"  训练集: {len(train_df)} 条")
     print(f"  验证集: {len(dev_df)} 条")
     print(f"{'='*80}\n")
@@ -102,8 +178,16 @@ def train_model(config, exp_dir):
     patience_counter = 0  # 当前连续没有改进的epoch数
     early_stopped = False  # 是否因为early stopping而停止
     
+    # 确定使用的组合列表（用于日志记录）
+    used_combinations = lang_domain_combinations if lang_domain_combinations else LANG_DOMAIN_COMBINATIONS
+    is_all_combinations = (lang_domain_combinations is None or 
+                          sorted(used_combinations) == sorted(LANG_DOMAIN_COMBINATIONS))
+    
     print(f"\n{'='*80}")
-    print(f"Training {model_name} on {lang}-{domain} dataset")
+    if is_all_combinations:
+        print(f"Training {model_name} on combined dataset (all languages and domains)")
+    else:
+        print(f"Training {model_name} on combined dataset ({len(used_combinations)} specified language-domain combinations)")
     print(f"Early Stopping: patience={patience} (停止条件: 连续{patience}个epoch验证集RMSE无改进)")
     print(f"{'='*80}\n")
     
@@ -135,13 +219,8 @@ def train_model(config, exp_dir):
             best_score = current_score
             best_epoch = epoch + 1  # 更新最优模型对应的epoch
             patience_counter = 0  # 重置patience计数器
-            torch.save({
-                'epoch': epoch + 1,
-                'model_state_dict': model.state_dict(),
-                'optimizer_state_dict': optimizer.state_dict(),
-                'best_score': best_score,
-                'eval_metrics': eval_metrics
-            }, best_model_path)
+            # 保存模型（仅保存 model_state_dict）
+            torch.save(model.state_dict(), best_model_path)
             print(f"  >>> Best model saved (RMSE_VA: {best_score:.6f}) at epoch {epoch+1}")
         else:
             patience_counter += 1
@@ -164,11 +243,11 @@ def train_model(config, exp_dir):
         json.dump({
             'config': {
                 'model_name': model_name,
-                'lang': lang,
-                'domain': domain,
+                'model_path': model_path,
                 'lr': lr,
                 'epochs': epochs,
-                'batch_size': batch_size
+                'batch_size': batch_size,
+                'combined_languages_domains': used_combinations
             },
             'best_score_config': {
                 'best_score': float(f"{best_score:.6f}") if best_score != float('inf') else None,
@@ -194,4 +273,4 @@ def train_model(config, exp_dir):
     print(f"Training log saved to: {training_log_path}")
     print(f"{'='*80}\n")
     
-    return best_model_path, training_log_path, exp_dir
+    return best_model_path, training_log_path, exp_dir, used_combinations
