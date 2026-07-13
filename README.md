@@ -119,4 +119,24 @@ If you use this code or ideas from our system in your research, please cite the 
 }
 ```
 
-Please also cite the **ICT-NLP system description paper** for SemEval-2026 Task 3 when it is available.
+Please also cite the **ICT-NLP system description paper**:
+
+```
+@inproceedings{huang-etal-2026-ict,
+    title = "{ICT}-{NLP} at {S}em{E}val-2026 Task 3: Less Is More {---} Multilingual Encoder with Joint Training and Adaptive Ensemble for Dimensional Aspect Sentiment Regression",
+    author = "Huang, Liyuan  and
+      He, Jiawei  and
+      Shen, Wutao  and
+      Li, Lin  and
+      Zhang, Jin",
+    booktitle = "Proceedings of the 20th {I}nternational {W}orkshop on {S}emantic {E}valuation (2026)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.semeval-1.131/",
+    doi = "10.18653/v1/2026.semeval-1.131",
+    pages = "950--957",
+    ISBN = "979-8-89176-414-9"
+}
+```
