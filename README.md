@@ -121,7 +121,7 @@ If you use this code or ideas from our system in your research, please cite the 
 
 Please also cite the **ICT-NLP system description paper**:
 
-```
+```bibtex
 @inproceedings{huang-etal-2026-ict,
     title = "{ICT}-{NLP} at {S}em{E}val-2026 Task 3: Less Is More {---} Multilingual Encoder with Joint Training and Adaptive Ensemble for Dimensional Aspect Sentiment Regression",
     author = "Huang, Liyuan  and
